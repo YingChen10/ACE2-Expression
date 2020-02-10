@@ -1,0 +1,310 @@
+#Patient identifier	Cohort	Overall survival status	Overall survival months	Age	Gender	Smoking status	Stage	Adenocarcinoma subtype WHO2015	Histological grade
+#Patient identifier	Cohort	Overall survival status	Overall survival months	Age	Gender	Smoking status	Stage	Adenocarcinoma subtype WHO2015	Histological grade
+#STRING	STRING	STRING	NUMBER	NUMBER	STRING	STRING	STRING	STRING	STRING
+#1	1	1	1	1	1	1	1	1	1
+PATIENT_ID	COHORT	OS_STATUS	OS_MONTHS	AGE	GENDER	SMOKING_STATUS	STAGE	ADENOCARCINOMA_SUBTYPE_WHO2015	HISTOLOGICAL_GRADE
+BGI-EX01	BGI	LIVING	20	59	Male	Yes	III	Adenocarcinoma	NA
+BGI-EX02	BGI	LIVING	13	45	Male	No	III	Adenocarcinoma	NA
+BGI-EX03	BGI	LIVING	12	60	Male	Yes	III	Adenocarcinoma	NA
+BGI-EX04	BGI	LIVING	6	67	Female	No	III	Adenocarcinoma	NA
+BGI-EX05	BGI	DECEASED	4	68	Male	Yes	III	Adenocarcinoma	NA
+BGI-EX06	BGI	LIVING	17	82	Male	Yes	I	Adenocarcinoma	NA
+BGI-EX07	BGI	LIVING	17	51	Male	Yes	II	Adenocarcinoma	NA
+BGI-EX08	BGI	LIVING	16	47	Male	Yes	IV	Adenocarcinoma	NA
+BGI-EX09	BGI	DECEASED	13	52	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS01	BGI	DECEASED	37	57	Male	No	III	Adenocarcinoma	NA
+BGI-RS02	BGI	DECEASED	23	58	Female	No	III	Adenocarcinoma	NA
+BGI-RS03	BGI	LIVING	67	50	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS04	BGI	DECEASED	50	54	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS05	BGI	DECEASED	26	71	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS06	BGI	LIVING	59	56	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS07	BGI	DECEASED	6	72	Male	No	III	Adenocarcinoma	NA
+BGI-RS08	BGI	LIVING	65	66	Female	No	III	Adenocarcinoma	NA
+BGI-RS09	BGI	DECEASED	12	57	Female	No	IV	Adenocarcinoma	NA
+BGI-RS10	BGI	DECEASED	20	51	Male	No	III	Adenocarcinoma	NA
+BGI-RS11	BGI	LIVING	61	60	Female	No	III	Adenocarcinoma	NA
+BGI-RS12	BGI	LIVING	66	59	Female	No	III	Adenocarcinoma	NA
+BGI-RS13	BGI	DECEASED	29	67	Male	No	IV	Adenocarcinoma	NA
+BGI-RS14	BGI	DECEASED	60	55	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS15	BGI	DECEASED	41	64	Male	No	III	Adenocarcinoma	NA
+BGI-RS16	BGI	LIVING	78	56	Female	No	III	Adenocarcinoma	NA
+BGI-RS17	BGI	LIVING	47	53	Female	No	III	Adenocarcinoma	NA
+BGI-RS18	BGI	DECEASED	NA	62	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS19	BGI	LIVING	67	53	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS20	BGI	DECEASED	12	42	Female	No	III	Adenocarcinoma	NA
+BGI-RS21	BGI	LIVING	61	67	Female	No	III	Adenocarcinoma	NA
+BGI-RS22	BGI	DECEASED	24	62	Male	No	IV	Adenocarcinoma	NA
+BGI-RS23	BGI	LIVING	80	70	Male	No	III	Adenocarcinoma	NA
+BGI-RS24	BGI	LIVING	55	53	Male	NA	II	Adenocarcinoma	NA
+BGI-RS25	BGI	DECEASED	22	59	Female	No	III	Adenocarcinoma	NA
+BGI-RS26	BGI	LIVING	59	68	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS27	BGI	DECEASED	20	70	Male	No	III	Adenocarcinoma	NA
+BGI-RS28	BGI	DECEASED	32	62	Male	No	I	Adenocarcinoma	NA
+BGI-RS29	BGI	LIVING	54	57	Female	No	I	Adenocarcinoma	NA
+BGI-RS30	BGI	DECEASED	59	61	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS31	BGI	DECEASED	28	63	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS32	BGI	DECEASED	17	67	Female	No	I	Adenocarcinoma	NA
+BGI-RS33	BGI	DECEASED	6	67	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS34	BGI	DECEASED	55	74	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS35	BGI	DECEASED	49	72	Male	No	I	Adenocarcinoma	NA
+BGI-RS36	BGI	LIVING	61	63	Male	Yes	II	Adenocarcinoma	NA
+BGI-RS37	BGI	LIVING	56	54	Female	No	I	Adenocarcinoma	NA
+BGI-RS38	BGI	LIVING	62	58	Male	Yes	II	Adenocarcinoma	NA
+BGI-RS39	BGI	DECEASED	45	55	Female	No	II	Adenocarcinoma	NA
+BGI-RS40	BGI	LIVING	22	41	Male	No	II	Adenocarcinoma	NA
+BGI-RS41	BGI	LIVING	70	49	Female	No	I	Adenocarcinoma	NA
+BGI-RS42	BGI	LIVING	63	46	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS44	BGI	LIVING	58	67	Male	Yes	I	Adenocarcinoma	NA
+BGI-RS45	BGI	DECEASED	28	77	Female	No	III	Adenocarcinoma	NA
+BGI-RS46	BGI	DECEASED	58	68	Male	No	II	Adenocarcinoma	NA
+BGI-RS47	BGI	LIVING	56	49	Female	No	II	Adenocarcinoma	NA
+BGI-RS48	BGI	DECEASED	NA	36	Male	No	II	Adenocarcinoma	NA
+BGI-RS49	BGI	LIVING	61	51	Male	Yes	II	Adenocarcinoma	NA
+BGI-RS50	BGI	DECEASED	5	65	Male	No	II	Adenocarcinoma	NA
+BGI-RS51	BGI	LIVING	35	49	Male	Yes	III	Adenocarcinoma	NA
+BGI-RS52	BGI	LIVING	48	57	Female	No	II	Adenocarcinoma	NA
+BGI-RS53	BGI	LIVING	74	72	Female	No	I	Adenocarcinoma	NA
+BGI-RS54	BGI	LIVING	49	67	Male	Yes	II	Adenocarcinoma	NA
+BGI-RS55	BGI	LIVING	57	63	Male	No	II	Adenocarcinoma	NA
+BGI-RS56	BGI	LIVING	58	62	Male	No	II	Adenocarcinoma	NA
+BGI-RS57	BGI	DECEASED	10	71	Male	Yes	II	Adenocarcinoma	NA
+BGI-RS58	BGI	LIVING	60	78	Female	Yes	I	Adenocarcinoma	NA
+BGI-RS59	BGI	NA	NA	74	Male	No	II	Adenocarcinoma	NA
+BGI-RS60	BGI	LIVING	62	60	Male	Yes	I	Adenocarcinoma	NA
+BGI-WG01	BGI	DECEASED	4	77	Male	NA	III	Adenocarcinoma	NA
+BGI-WG02	BGI	DECEASED	6	78	Male	Yes	III	Adenocarcinoma	NA
+BGI-WG03	BGI	LIVING	16	56	Male	No	III	Adenocarcinoma	NA
+BGI-WG04	BGI	LIVING	17	25	Female	No	IV	Adenocarcinoma	NA
+BGI-WG05	BGI	LIVING	14	58	Male	NA	III	Adenocarcinoma	NA
+BGI-WG06	BGI	LIVING	13	48	Female	No	III	Adenocarcinoma	NA
+BGI-WG07	BGI	LIVING	15	55	Female	NA	III	Adenocarcinoma	NA
+BGI-WG08	BGI	LIVING	16	63	Male	Yes	III	Adenocarcinoma	NA
+BGI-WG09	BGI	LIVING	16	66	Male	Yes	III	Adenocarcinoma	NA
+BGI-WG10	BGI	LIVING	15	65	Male	Yes	III	Adenocarcinoma	NA
+BGI-WG11	BGI	LIVING	16	68	Female	No	III	Adenocarcinoma	NA
+BGI-WG12	BGI	LIVING	13	57	Female	No	III	Adenocarcinoma	NA
+BGI-WG13	BGI	LIVING	13	70	Female	No	III	Adenocarcinoma	NA
+BGI-WG14	BGI	LIVING	5	59	Male	No	III	Adenocarcinoma	NA
+BGI-WG15	BGI	LIVING	7	56	Female	Yes	III	Adenocarcinoma	NA
+BGI-WG16	BGI	LIVING	5	41	Female	No	III	Adenocarcinoma	NA
+BGI-WG17	BGI	LIVING	8	51	Male	No	III	Adenocarcinoma	NA
+BGI-WG18	BGI	LIVING	7	65	Female	No	III	Adenocarcinoma	NA
+BGI-WG19	BGI	LIVING	8	61	Female	No	III	Adenocarcinoma	NA
+BGI-WG20	BGI	LIVING	7	62	Male	No	III	Adenocarcinoma	NA
+BGI-WG21	BGI	LIVING	6	41	Female	No	II	Adenocarcinoma	NA
+BGI-WG22	BGI	LIVING	24	34	Female	No	III	Adenocarcinoma	NA
+BGI-WG23	BGI	LIVING	16	73	Male	No	III	Adenocarcinoma	NA
+BGI-WG24	BGI	LIVING	17	67	Male	Yes	IV	Adenocarcinoma	NA
+A183	GSK	DECEASED	70.63333333	75	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A184	GSK	DECEASED	9.133333333	67	Female	No	III	Adenocarcinoma	Poorly differentiated
+A185	GSK	DECEASED	1.8	59	Female	No	III	Adenocarcinoma	NA
+A186	GSK	DECEASED	47.46666667	80	Female	No	I	Adenocarcinoma	Moderately differentiated
+A187	GSK	DECEASED	12.5	38	Female	Yes	III	Adenocarcinoma	Moderately differentiated
+A188	GSK	DECEASED	5.166666667	57	Female	No	I	Adenocarcinoma	Moderately differentiated
+A190	GSK	DECEASED	35.33333333	65	Female	No	II	Adenocarcinoma	Moderately differentiated
+A191	GSK	DECEASED	36.06666667	62	Male	No	I	Adenocarcinoma	Moderately differentiated
+A192	GSK	DECEASED	38.76666667	84	Female	No	III	Adenocarcinoma	Moderately differentiated
+A193	GSK	DECEASED	21.8	54	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A194	GSK	DECEASED	34.4	54	Female	No	IV	Adenocarcinoma	Well differentiated
+A195	GSK	DECEASED	23	62	Male	Yes	II	Adenocarcinoma	NA
+A196	GSK	DECEASED	9.966666667	82	Male	Yes	II	Adenocarcinoma	Well to Moderately differentiated
+A197	GSK	DECEASED	31.66666667	52	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A198	GSK	DECEASED	14.86666667	67	Male	Yes	III	Adenocarcinoma	NA
+A199	GSK	DECEASED	30.33333333	69	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A200	GSK	LIVING	100.5666667	49	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A201	GSK	LIVING	122.9	67	Female	Yes	II	Adenocarcinoma	Moderately differentiated
+A202	GSK	LIVING	122.7	73	Female	No	I	Adenocarcinoma	Well differentiated
+A203	GSK	LIVING	121.9666667	55	Male	No	II	Adenocarcinoma	Well differentiated
+A204	GSK	LIVING	116.4333333	70	Female	No	III	Adenocarcinoma	Moderately differentiated
+A205	GSK	DECEASED	91.03333333	79	Female	No	I	Adenocarcinoma	Moderately differentiated
+A206	GSK	LIVING	112.1	78	Male	No	I	Adenocarcinoma	Moderately differentiated
+A207	GSK	LIVING	111.3666667	59	Female	No	I	Adenocarcinoma	Well differentiated
+A208	GSK	LIVING	110.5666667	77	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A209	GSK	LIVING	57.73333333	62	Male	No	I	Adenocarcinoma	Well differentiated
+A210	GSK	LIVING	105.3	50	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A211	GSK	LIVING	108	50	Female	Yes	I	Adenocarcinoma	Moderately differentiated
+A212	GSK	LIVING	108.4666667	68	Female	No	I	Adenocarcinoma	Moderately differentiated
+A213	GSK	LIVING	102.2	76	Male	Yes	I	Adenocarcinoma	Well differentiated
+A214	GSK	LIVING	101.9	58	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A215	GSK	LIVING	103.5333333	54	Female	No	I	Adenocarcinoma	Well differentiated
+A216	GSK	LIVING	104.9333333	61	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A217	GSK	LIVING	104.2666667	71	Male	No	III	Adenocarcinoma	Well differentiated
+A218	GSK	LIVING	75.73333333	67	Male	Yes	III	Adenocarcinoma	Poorly differentiated
+A219	GSK	LIVING	97.03333333	52	Female	No	II	Adenocarcinoma	Moderately differentiated
+A220	GSK	LIVING	98.56666667	60	Female	Yes	I	Adenocarcinoma	Moderately differentiated
+A221	GSK	LIVING	95.16666667	72	Female	No	I	Adenocarcinoma	Moderately differentiated
+A222	GSK	LIVING	94.76666667	61	Female	No	I	Adenocarcinoma	Moderately differentiated
+A224	GSK	DECEASED	26.6	68	Male	No	III	Adenocarcinoma	NA
+A227	GSK	DECEASED	6.366666667	75	Male	Yes	III	Adenocarcinoma	NA
+A228	GSK	DECEASED	1.633333333	66	Male	Yes	IV	Adenocarcinoma	NA
+A229	GSK	DECEASED	0.833333333	75	Male	Yes	IV	Adenocarcinoma	NA
+A230	GSK	DECEASED	0.7	68	Male	Yes	IV	Adenocarcinoma	Moderately differentiated
+A231	GSK	DECEASED	47.96666667	71	Male	Yes	II	Adenocarcinoma	NA
+A232	GSK	DECEASED	30.8	76	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A247	GSK	LIVING	26.16666667	69	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A241	GSK	LIVING	34.16666667	70	Female	No	I	Adenocarcinoma	Moderately to Poorly differentiated
+A234	GSK	LIVING	36.26666667	77	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A233	GSK	LIVING	32.9	81	Male	No	I	Adenocarcinoma	Well to Moderately differentiated
+A177	GSK	LIVING	34.5	77	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A167	GSK	LIVING	35.36666667	74	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A159	GSK	LIVING	37.3	49	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A158	GSK	LIVING	38.93333333	63	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A155	GSK	LIVING	37.66666667	66	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A153	GSK	LIVING	39.03333333	78	Male	No	I	Adenocarcinoma	Moderately differentiated
+A144	GSK	DECEASED	25.76666667	74	Male	No	II	Adenocarcinoma	Poorly differentiated
+A143	GSK	DECEASED	5.533333333	68	Male	Yes	IV	Adenocarcinoma	Poorly differentiated
+A139	GSK	DECEASED	5.066666667	76	Female	No	I	Adenocarcinoma	Moderately differentiated
+A138	GSK	DECEASED	54	53	Female	No	III	Adenocarcinoma	Moderately differentiated
+A131	GSK	DECEASED	35.8	69	Male	Yes	III	Adenocarcinoma	NA
+A120	GSK	LIVING	46.63333333	82	Male	No	I	Adenocarcinoma	NA
+A006	GSK	LIVING	61.6	56	Female	No	I	Adenocarcinoma	Moderately differentiated
+A073	GSK	LIVING	50.2	51	Male	No	I	Adenocarcinoma	Moderately differentiated
+A025	GSK	DECEASED	53.1	76	Male	Yes	II	Adenocarcinoma	NA
+A016	GSK	LIVING	52.46666667	78	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A012	GSK	LIVING	58.26666667	69	Male	Yes	I	Adenocarcinoma	Moderately to Poorly differentiated
+A008	GSK	DECEASED	23.1	56	Female	No	III	Adenocarcinoma	Moderately differentiated
+A258	GSK	DECEASED	24.53333333	65	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A259	GSK	LIVING	87.46666667	37	Female	No	III	Adenocarcinoma	Moderately differentiated
+A260	GSK	DECEASED	42	61	Female	No	I	Adenocarcinoma	NA
+A261	GSK	DECEASED	46.26666667	45	Male	Yes	I	Adenocarcinoma	NA
+A262	GSK	LIVING	61.5	64	Female	No	II	Adenocarcinoma	Moderately differentiated
+A263	GSK	LIVING	89.8	64	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A264	GSK	LIVING	68.93333333	58	Male	Yes	II	Adenocarcinoma	Poorly differentiated
+A265	GSK	LIVING	1.5	65	Female	Yes	I	Adenocarcinoma	NA
+A266	GSK	LIVING	36.9	63	Female	No	II	Adenocarcinoma	Poorly differentiated
+A267	GSK	LIVING	70.03333333	72	Female	Yes	I	Adenocarcinoma	NA
+A268	GSK	LIVING	65.86666667	70	Female	No	I	Adenocarcinoma	Well to Moderately differentiated
+A269	GSK	LIVING	64.1	66	Female	No	I	Adenocarcinoma	Moderately differentiated
+A270	GSK	LIVING	61.46666667	62	Female	No	I	Adenocarcinoma	Moderately differentiated
+A271	GSK	LIVING	58.53333333	70	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A272	GSK	LIVING	53.63333333	43	Female	No	I	Adenocarcinoma	Moderately differentiated
+A273	GSK	LIVING	86.13333333	64	Female	No	I	Adenocarcinoma	Moderately differentiated
+A274	GSK	LIVING	86.26666667	44	Female	No	I	Adenocarcinoma	Well differentiated
+A275	GSK	LIVING	84.43333333	55	Female	No	II	Adenocarcinoma	Moderately differentiated
+A276	GSK	DECEASED	80	71	Male	No	III	Adenocarcinoma	Moderately differentiated
+A277	GSK	LIVING	83.76666667	70	Female	No	II	Adenocarcinoma	NA
+A278	GSK	LIVING	82.83333333	73	Female	No	I	Adenocarcinoma	NA
+A279	GSK	LIVING	78.83333333	59	Male	Yes	I	Adenocarcinoma	NA
+A280	GSK	LIVING	74.86666667	49	Male	Yes	I	Adenocarcinoma	NA
+A281	GSK	LIVING	69.1	66	Male	No	I	Adenocarcinoma	NA
+A282	GSK	LIVING	69.2	72	Female	No	II	Adenocarcinoma	Moderately differentiated
+A283	GSK	LIVING	67.26666667	67	Female	No	I	Adenocarcinoma	Moderately differentiated
+A284	GSK	LIVING	68.8	58	Female	No	II	Adenocarcinoma	Moderately differentiated
+A285	GSK	LIVING	66.8	64	Female	No	I	Adenocarcinoma	NA
+A344	GSK	DECEASED	5.233333333	60	Male	Yes	IV	Adenocarcinoma	NA
+A349	GSK	DECEASED	17.2	74	Male	Yes	IV	Adenocarcinoma	NA
+A364	GSK	DECEASED	27.76666667	79	Female	No	IV	Adenocarcinoma	Moderately differentiated
+A368	GSK	DECEASED	29.6	60	Female	No	IV	Adenocarcinoma	NA
+A017	GSK	LIVING	53.46666667	52	Female	No	II	Adenocarcinoma	NA
+A028	GSK	LIVING	56.7	75	Male	No	I	Adenocarcinoma	Moderately differentiated
+A021	GSK	LIVING	54.73333333	57	Female	No	I	Adenocarcinoma	Moderately differentiated
+A033	GSK	LIVING	50.9	44	Female	No	II	Adenocarcinoma	Poorly differentiated
+A027	GSK	LIVING	50.93333333	58	Female	No	I	Adenocarcinoma	Moderately differentiated
+A068	GSK	LIVING	51	79	Female	No	I	Adenocarcinoma	Poorly differentiated
+A101	GSK	LIVING	51.26666667	58	Female	No	I	Adenocarcinoma	Moderately differentiated
+A071	GSK	LIVING	52.36666667	76	Female	No	I	Adenocarcinoma	NA
+A072	GSK	LIVING	49.93333333	60	Female	No	I	Adenocarcinoma	Moderately differentiated
+A074	GSK	DECEASED	20.06666667	78	Female	No	IV	Adenocarcinoma	Poorly differentiated
+A100	GSK	LIVING	47.23333333	73	Female	No	I	Adenocarcinoma	Well differentiated
+A102	GSK	LIVING	51.3	73	Male	No	I	Adenocarcinoma	Moderately differentiated
+A103	GSK	LIVING	50.3	63	Female	Yes	I	Adenocarcinoma	Moderately differentiated
+A104	GSK	LIVING	46.3	70	Male	No	I	Adenocarcinoma	Moderately differentiated
+A109	GSK	DECEASED	33.7	79	Male	Yes	I	Adenocarcinoma	Moderately to Poorly differentiated
+A117	GSK	LIVING	49.96666667	64	Female	No	I	Adenocarcinoma	Moderately differentiated
+A122	GSK	LIVING	46.86666667	63	Male	No	II	Adenocarcinoma	Moderately differentiated
+A134	GSK	LIVING	44.6	52	Female	No	I	Adenocarcinoma	Moderately differentiated
+A136	GSK	LIVING	41.96666667	72	Female	No	I	Adenocarcinoma	NA
+A147	GSK	LIVING	43	57	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A146	GSK	DECEASED	35.06666667	73	Male	No	II	Adenocarcinoma	Moderately differentiated
+A148	GSK	LIVING	40.36666667	57	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A149	GSK	LIVING	39.46666667	76	Male	No	I	Adenocarcinoma	Well differentiated
+A150	GSK	LIVING	34.73333333	48	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A156	GSK	LIVING	37.7	61	Female	No	I	Adenocarcinoma	Moderately differentiated
+A165	GSK	LIVING	36.4	44	Female	No	I	Adenocarcinoma	Moderately differentiated
+A157	GSK	LIVING	34.93333333	74	Male	Yes	I	Adenocarcinoma	Moderately to Poorly differentiated
+A162	GSK	LIVING	31.43333333	67	Male	No	III	Adenocarcinoma	Moderately differentiated
+A163	GSK	LIVING	9.433333333	57	Female	No	III	Adenocarcinoma	Moderately differentiated
+A243	GSK	LIVING	33.8	62	Female	No	III	Adenocarcinoma	Poorly differentiated
+A182	GSK	LIVING	34.2	72	Female	No	I	Adenocarcinoma	Poorly differentiated
+A255	GSK	DECEASED	25.3	63	Male	No	I	Adenocarcinoma	Moderately differentiated
+A169	GSK	LIVING	34.66666667	76	Female	Yes	NA	Adenocarcinoma	Moderately differentiated
+A252	GSK	LIVING	33.16666667	65	Female	No	I	Adenocarcinoma	Moderately differentiated
+A239	GSK	LIVING	6.333333333	53	Male	No	I	Adenocarcinoma	Moderately differentiated
+A250	GSK	LIVING	33.4	55	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A240	GSK	LIVING	31.5	50	Male	Yes	I	Adenocarcinoma	Poorly differentiated
+A249	GSK	LIVING	31.5	53	Female	No	II	Adenocarcinoma	NA
+A322	GSK	DECEASED	23.13333333	70	Female	No	I	Adenocarcinoma	Moderately differentiated
+A306	GSK	LIVING	30.83333333	55	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A302	GSK	LIVING	29.8	68	Female	No	I	Adenocarcinoma	Moderately differentiated
+A323	GSK	LIVING	29.13333333	63	Male	No	II	Adenocarcinoma	Moderately differentiated
+A307	GSK	DECEASED	26.16666667	56	Male	No	III	Adenocarcinoma	Moderately differentiated
+A380	GSK	LIVING	33.03333333	61	Female	No	I	Adenocarcinoma	Moderately differentiated
+A315	GSK	LIVING	30	64	Female	No	III	Adenocarcinoma	Well to Moderately differentiated
+A377	GSK	LIVING	26.4	71	Female	No	I	Adenocarcinoma	Moderately differentiated
+A375	GSK	LIVING	28.63333333	60	Female	No	I	Adenocarcinoma	Moderately differentiated
+A425	GSK	LIVING	28.73333333	56	Female	Yes	NA	Adenocarcinoma	Moderately differentiated
+A316	GSK	LIVING	30.73333333	77	Female	No	I	Adenocarcinoma	Moderately differentiated
+A379	GSK	LIVING	28.23333333	62	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A483	GSK	LIVING	129.2666667	58	Female	No	III	Adenocarcinoma	Well differentiated
+A484	GSK	LIVING	118.9	57	Female	No	III	Adenocarcinoma	Moderately differentiated
+A485	GSK	LIVING	118.1333333	72	Female	No	I	Adenocarcinoma	Well differentiated
+A486	GSK	DECEASED	85.26666667	45	Female	No	I	Adenocarcinoma	Well differentiated
+A488	GSK	DECEASED	50.9	60	Female	No	III	Adenocarcinoma	Moderately differentiated
+A489	GSK	DECEASED	16.16666667	72	Male	Yes	III	Adenocarcinoma	Moderately differentiated
+A490	GSK	LIVING	99.36666667	59	Male	No	II	Adenocarcinoma	Moderately differentiated
+A492	GSK	DECEASED	55.66666667	47	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A493	GSK	DECEASED	48.36666667	58	Female	No	I	Adenocarcinoma	Moderately differentiated
+A494	GSK	LIVING	88.86666667	67	Female	No	I	Adenocarcinoma	Well differentiated
+A495	GSK	LIVING	92.46666667	53	Male	No	III	Adenocarcinoma	Moderately differentiated
+A496	GSK	LIVING	92.9	53	Female	No	III	Adenocarcinoma	Moderately differentiated
+A497	GSK	DECEASED	43.43333333	45	Female	No	III	Adenocarcinoma	Moderately differentiated
+A499	GSK	LIVING	84.2	70	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A500	GSK	DECEASED	114.9	70	Female	No	I	Adenocarcinoma	Moderately differentiated
+A501	GSK	DECEASED	15.23333333	68	Female	No	I	Adenocarcinoma	Poorly differentiated
+A502	GSK	LIVING	74.23333333	54	Female	No	I	Adenocarcinoma	NA
+A503	GSK	DECEASED	34.83333333	60	Female	No	I	Adenocarcinoma	Moderately to Poorly differentiated
+A504	GSK	LIVING	29.53333333	72	Female	No	I	Adenocarcinoma	Well differentiated
+A505	GSK	DECEASED	35.16666667	41	Female	No	II	Adenocarcinoma	Moderately differentiated
+A295	GSK	LIVING	52.96666667	74	Female	No	I	Adenocarcinoma	Moderately differentiated
+A152	GSK	LIVING	80.5	59	Female	No	IV	Adenocarcinoma	Poorly differentiated
+A015	GSK	DECEASED	28.73333333	69	Female	No	II	Adenocarcinoma	Moderately differentiated
+A062	GSK	LIVING	53.46666667	74	Male	No	IV	Adenocarcinoma	Moderately to Poorly differentiated
+A037	GSK	LIVING	50.33333333	66	Female	No	II	Adenocarcinoma	Moderately differentiated
+A066	GSK	LIVING	51.33333333	72	Female	No	I	Adenocarcinoma	Moderately differentiated
+A310	GSK	LIVING	28.36666667	67	Male	No	I	Adenocarcinoma	Well differentiated
+A320	GSK	LIVING	28.03333333	75	Female	Yes	I	Adenocarcinoma	Moderately differentiated
+A426	GSK	LIVING	26.96666667	65	Female	No	I	Adenocarcinoma	Moderately differentiated
+A381	GSK	LIVING	27.43333333	66	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A428	GSK	LIVING	21.86666667	66	Male	No	II	Adenocarcinoma	Moderately differentiated
+A430	GSK	DECEASED	13.13333333	70	Female	No	III	Adenocarcinoma	Moderately differentiated
+A432	GSK	LIVING	27.9	64	Female	No	I	Adenocarcinoma	Moderately differentiated
+A434	GSK	LIVING	26.83333333	67	Female	No	II	Adenocarcinoma	Moderately differentiated
+A435	GSK	LIVING	26.53333333	68	Female	No	II	Adenocarcinoma	Moderately differentiated
+A507	GSK	DECEASED	40.5	72	Female	No	I	Adenocarcinoma	Well to Moderately differentiated
+A508	GSK	DECEASED	22.96666667	71	Male	Yes	III	Adenocarcinoma	Poorly differentiated
+A509	GSK	LIVING	59.46666667	75	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A063	GSK	LIVING	51.13333333	70	Female	No	I	Adenocarcinoma	Moderately differentiated
+A130	GSK	LIVING	47.36666667	66	Female	No	I	Adenocarcinoma	Moderately differentiated
+A168	GSK	LIVING	21.73333333	64	Male	No	III	Adenocarcinoma	Moderately differentiated
+A433	GSK	LIVING	27.76666667	64	Female	Yes	II	Adenocarcinoma	Poorly differentiated
+A513	GSK	DECEASED	7.6	65	Male	Yes	IV	Adenocarcinoma	NA
+A112	GSK	LIVING	49.06666667	61	Female	No	I	Adenocarcinoma	Moderately differentiated
+A114	GSK	LIVING	46.56666667	61	Female	No	II	Adenocarcinoma	Moderately differentiated
+A111	GSK	LIVING	48.76666667	62	Female	No	I	Adenocarcinoma	Moderately differentiated
+A110	GSK	DECEASED	17.2	72	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A124	GSK	LIVING	46.46666667	68	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A126	GSK	DECEASED	27.6	68	Male	Yes	II	Adenocarcinoma	Moderately differentiated
+A511	GSK	LIVING	29.66666667	63	Male	No	II	Adenocarcinoma	Poorly differentiated
+A512	GSK	LIVING	21.66666667	55	Male	No	I	Adenocarcinoma	Moderately differentiated
+A514	GSK	LIVING	25.06666667	56	Female	No	I	Adenocarcinoma	Moderately differentiated
+A517	GSK	LIVING	24.76666667	68	Female	No	III	Adenocarcinoma	Moderately differentiated
+A510	GSK	LIVING	23.5	73	Male	No	III	Adenocarcinoma	Moderately differentiated
+A524	GSK	DECEASED	5.633333333	73	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A522	GSK	LIVING	21.3	63	Male	Yes	I	Adenocarcinoma	NA
+A521	GSK	LIVING	22.43333333	55	Female	No	I	Adenocarcinoma	Moderately differentiated
+A519	GSK	LIVING	24.06666667	69	Female	Yes	III	Adenocarcinoma	Moderately differentiated
+A534	GSK	LIVING	21.2	77	Female	No	I	Adenocarcinoma	Moderately differentiated
+A530	GSK	LIVING	20.3	72	Female	Yes	I	Adenocarcinoma	NA
+A532	GSK	LIVING	17.8	62	Male	Yes	I	Adenocarcinoma	Moderately differentiated
+A538	GSK	LIVING	22.3	59	Female	No	I	Adenocarcinoma	Moderately differentiated
+A537	GSK	DECEASED	18.1	79	Male	Yes	III	Adenocarcinoma	Poorly differentiated
