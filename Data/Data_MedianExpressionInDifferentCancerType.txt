@@ -1,0 +1,37 @@
+Type	Tumor	Tumor_num	Normal	Normal_num
+Adrenocortical Cancer (ACC)				
+Acute Myeloid Leukemia (LAML)				
+Bile Duct Cancer (CHOL)	15.2		15.8	
+Bladder Cancer (BLCA)	13	411	13.3	19
+Breast Cancer (BRCA)	10.2	1097	13.1	113
+Cervical Cancer (CESC)	14.3	304	12.2	3
+Colon Cancer (COAD)	17.7	469	17.9	41
+Endometrioid Cancer (UCEC)	13.1	547	12.2	35
+Esophageal Cancer (ESCA)	14.3	161	13.3	11
+Glioblastoma (GBM)	10.3	155	9.1	5
+Head and Neck Cancer (HNSC)	14.6	500	15.1	44
+Kidney Chromophobe (KICH)	11	65	16	24
+Kidney Clear Cell Carcinoma (KIRC)	18.6	534	18.2	72
+Kidney Papillary Cell Carcinoma (KIRP)	19.5	288	18.6	32
+Large B-cell Lymphoma (DLBC)	8.31	48		
+Liver Cancer (LIHC)	12.8	371	15.3	50
+Lower Grade Glioma (LGG)	10.3	511		
+Lung Adenocarcinoma (LUAD)	14.5	524	14.1	59
+Lung Squamous Cell Carcinoma (LUSC)	14.2	501	14.2	49
+Melanoma (SKCM)	9.76	103	8.61	1
+Mesothelioma (MESO)	9.44	86		
+Ocular melanomas (UVM)	9.95	80		
+Ovarian Cancer (OV)	11.9	374		
+Pancreatic Cancer (PAAD)	15.7	177	14.2	4
+Pheochromocytoma & Paraganglioma (PCPG)	10.3	103	14	3
+Prostate Cancer (PRAD)	11.3	498	12.6	52
+Rectal Cancer (READ)	18.1	166	17	10
+Sarcoma (SARC)	9.61	259	20.4	2
+Stomach Cancer (STAD)	14.9	375	15.7	32
+Testicular Cancer (TGCT)	12.6	150	12.4	6
+Thymoma (THYM)	12.6	119	13.8	2
+Thyroid Cancer (THCA)	13.6	502	14	58
+Uterine Carcinosarcoma (UCS)	11.2	56		
+				
+				
+				
