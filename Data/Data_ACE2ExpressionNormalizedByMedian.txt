@@ -1,0 +1,855 @@
+"no" "patient" "name" "FPKM" "PROJECT" "AGE" "GENDER" "RACE" "STAGE" "TYPE" "SOURCE" "nor_median"
+"162" 162 "A006_n" "ACE2" 18707.8601677974 "LUAD" "56" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.7249493648092
+"20871" 20871 "A006_t" "ACE2" 15841.3332066027 "LUAD" "56" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.4850125257894
+"41580" 41580 "A008_n" "ACE2" 19586.1621983508 "LUAD" "56" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.7911360934419
+"62289" 62289 "A015_t" "ACE2" 19009.5998479232 "LUAD" "69" "female" "asian" "II" "Primary Tumor" "OncoSG" 13.748031753907
+"82998" 82998 "A021_n" "ACE2" 33266.7997338656 "LUAD" "57" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.5553541517492
+"103707" 103707 "A021_t" "ACE2" 12857.9521517783 "LUAD" "57" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.1840007847094
+"124416" 124416 "A027_t" "ACE2" 70422.9728022336 "LUAD" "58" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.6372943150879
+"145125" 145125 "A028_n" "ACE2" 0 "LUAD" "75" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" -0.466484680194473
+"165834" 165834 "A028_t" "ACE2" 25500.6827228238 "LUAD" "75" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.1718201454892
+"186543" 186543 "A033_n" "ACE2" 18322.5058775163 "LUAD" "44" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.6949232632814
+"207252" 207252 "A033_t" "ACE2" 5646.41579641283 "LUAD" "44" "female" "asian" "II" "Primary Tumor" "OncoSG" 11.9968904595055
+"227961" 227961 "A037_t" "ACE2" 118752.463941021 "LUAD" "66" "female" "asian" "II" "Primary Tumor" "OncoSG" 16.3911253905293
+"248670" 248670 "A062_t" "ACE2" 51271.0842052159 "LUAD" "74" "male" "asian" "IV" "Primary Tumor" "OncoSG" 15.1794012436947
+"269379" 269379 "A063_t" "ACE2" 9992.22556108784 "LUAD" "70" "female" "asian" "I" "Primary Tumor" "OncoSG" 12.8202500232149
+"290088" 290088 "A066_t" "ACE2" 25357.1820116151 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.1636790183007
+"310797" 310797 "A068_t" "ACE2" 19590.0456448064 "LUAD" "79" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.7914221008562
+"331506" 331506 "A072_n" "ACE2" 21788.4117858256 "LUAD" "60" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9448549501857
+"352215" 352215 "A072_t" "ACE2" 102166.131341261 "LUAD" "60" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.1740869290902
+"372924" 372924 "A074_t" "ACE2" 78184.6445358132 "LUAD" "78" "female" "asian" "IV" "Primary Tumor" "OncoSG" 15.7881314416935
+"393633" 393633 "A100_t" "ACE2" 39174.3405056277 "LUAD" "73" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.7911735137758
+"414342" 414342 "A101_n" "ACE2" 20345.7378564034 "LUAD" "58" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.8460252085569
+"435051" 435051 "A101_t" "ACE2" 19680.8858778659 "LUAD" "58" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.7980961627299
+"455760" 455760 "A102_t" "ACE2" 140706.570836964 "LUAD" "73" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.6358557497897
+"476469" 476469 "A103_t" "ACE2" 133464.976905848 "LUAD" "63" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.5596278117729
+"497178" 497178 "A104_t" "ACE2" 89785.8262713328 "LUAD" "70" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.98773148433
+"517887" 517887 "A110_t" "ACE2" 1168.62294147069 "LUAD" "72" "male" "asian" "II" "Primary Tumor" "OncoSG" 9.72534311876852
+"538596" 538596 "A111_n" "ACE2" 22047.2163184676 "LUAD" "62" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9618896470839
+"559305" 559305 "A111_t" "ACE2" 1137509.92638379 "LUAD" "62" "female" "asian" "I" "Primary Tumor" "OncoSG" 19.6509642923435
+"580014" 580014 "A112_n" "ACE2" 17065.4362271129 "LUAD" "61" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.5923895290009
+"600723" 600723 "A112_t" "ACE2" 138569.977838809 "LUAD" "61" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.6137809268088
+"621432" 621432 "A114_n" "ACE2" 19492.7535688608 "LUAD" "61" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.7842396110789
+"642141" 642141 "A117_n" "ACE2" 38893.7930462274 "LUAD" "64" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.7808047299085
+"662850" 662850 "A117_t" "ACE2" 37995.5264706311 "LUAD" "64" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.7470952370521
+"683559" 683559 "A120_t" "ACE2" 207204.638342363 "LUAD" "82" "male" "asian" "I" "Primary Tumor" "OncoSG" 17.1942190554613
+"704268" 704268 "A122_n" "ACE2" 4312.19656285592 "LUAD" "63" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 11.6080570691595
+"724977" 724977 "A124_n" "ACE2" 28878.8906244261 "LUAD" "68" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.3512929777332
+"745686" 745686 "A124_t" "ACE2" 32444.6916923389 "LUAD" "68" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.5192546217474
+"766395" 766395 "A126_n" "ACE2" 15946.4415785896 "LUAD" "68" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.4945526927534
+"787104" 787104 "A126_t" "ACE2" 15670.9962904026 "LUAD" "68" "male" "asian" "II" "Primary Tumor" "OncoSG" 13.4694166605839
+"807813" 807813 "A131_t" "ACE2" 20545.3098793056 "LUAD" "69" "male" "asian" "III" "Primary Tumor" "OncoSG" 13.8601070082562
+"828522" 828522 "A134_t" "ACE2" 201524.149960204 "LUAD" "52" "female" "asian" "I" "Primary Tumor" "OncoSG" 17.1541156898626
+"849231" 849231 "A136_n" "ACE2" 15502.9746332578 "LUAD" "72" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.453865814765
+"869940" 869940 "A138_n" "ACE2" 33204.0429516546 "LUAD" "53" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 14.5526300640851
+"890649" 890649 "A138_t" "ACE2" 37031.69 "LUAD" "53" "female" "asian" "III" "Primary Tumor" "OncoSG" 14.7100270479114
+"911358" 911358 "A139_n" "ACE2" 18456.79 "LUAD" "76" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.7054575249872
+"932067" 932067 "A143_t" "ACE2" 35382.83 "LUAD" "68" "male" "asian" "IV" "Primary Tumor" "OncoSG" 14.6443179153582
+"952776" 952776 "A144_n" "ACE2" 9673.026 "LUAD" "74" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 12.7734160196569
+"973485" 973485 "A144_t" "ACE2" 55698.68 "LUAD" "74" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.2988967385228
+"994194" 994194 "A147_n" "ACE2" 17290.33 "LUAD" "57" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.6112765406087
+"1014903" 1014903 "A148_t" "ACE2" 35316 "LUAD" "57" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.6415904979206
+"1035612" 1035612 "A150_n" "ACE2" 29464.88 "LUAD" "48" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.3802730523484
+"1056321" 1056321 "A150_t" "ACE2" 15807.56 "LUAD" "48" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.4819336581028
+"1077030" 1077030 "A153_t" "ACE2" 105263.4 "LUAD" "78" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.2171733993872
+"1097739" 1097739 "A156_n" "ACE2" 14077.78 "LUAD" "61" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.3147500216677
+"1118448" 1118448 "A156_t" "ACE2" 27660.19 "LUAD" "61" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.2890909227331
+"1139157" 1139157 "A157_n" "ACE2" 24673.68 "LUAD" "74" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.1242590741924
+"1159866" 1159866 "A157_t" "ACE2" 26394.2 "LUAD" "74" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.2215032969004
+"1180575" 1180575 "A158_t" "ACE2" 80725.7 "LUAD" "63" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.8342736168077
+"1201284" 1201284 "A159_n" "ACE2" 46325.11 "LUAD" "49" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 15.0330532438171
+"1221993" 1221993 "A159_t" "ACE2" 61738.77 "LUAD" "49" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.4474278078267
+"1242702" 1242702 "A162_n" "ACE2" 63169.59 "LUAD" "67" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 15.4804807461039
+"1263411" 1263411 "A162_t" "ACE2" 10042.81 "LUAD" "67" "male" "asian" "III" "Primary Tumor" "OncoSG" 12.8275343416941
+"1284120" 1284120 "A163_t" "ACE2" 19353.67 "LUAD" "57" "female" "asian" "III" "Primary Tumor" "OncoSG" 13.77390940903
+"1304829" 1304829 "A165_n" "ACE2" 21082.08 "LUAD" "44" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.8973133431867
+"1325538" 1325538 "A165_t" "ACE2" 16530.09 "LUAD" "44" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.5464095531897
+"1346247" 1346247 "A168_t" "ACE2" 41656.84 "LUAD" "64" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.8798157355152
+"1366956" 1366956 "A169_t" "ACE2" 18082.3 "LUAD" "76" "female" "asian" NA "Primary Tumor" "OncoSG" 13.6758856768428
+"1387665" 1387665 "A177_n" "ACE2" 14630.43 "LUAD" "77" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.3702984772448
+"1408374" 1408374 "A177_t" "ACE2" 6185.336 "LUAD" "77" "male" "asian" "I" "Primary Tumor" "OncoSG" 12.128384797476
+"1429083" 1429083 "A182_n" "ACE2" 29642.09 "LUAD" "72" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.3889235415777
+"1449792" 1449792 "A182_t" "ACE2" 444186.4 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 18.2943242636348
+"1470501" 1470501 "A183_t" "ACE2" 31778.1 "LUAD" "75" "male" "asian" "II" "Primary Tumor" "OncoSG" 14.4893059667751
+"1491210" 1491210 "A184_t" "ACE2" 36786.71 "LUAD" "67" "female" "asian" "III" "Primary Tumor" "OncoSG" 14.7004515720652
+"1511919" 1511919 "A185_t" "ACE2" 48871.78 "LUAD" "59" "female" "asian" "III" "Primary Tumor" "OncoSG" 15.1102588701999
+"1532628" 1532628 "A186_t" "ACE2" 28208.8 "LUAD" "80" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.3174241369895
+"1553337" 1553337 "A187_t" "ACE2" 19226.85 "LUAD" "38" "female" "asian" "III" "Primary Tumor" "OncoSG" 13.7644251532575
+"1574046" 1574046 "A188_t" "ACE2" 26114.26 "LUAD" "57" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.2061207664135
+"1594755" 1594755 "A190_t" "ACE2" 13752.93 "LUAD" "65" "female" "asian" "II" "Primary Tumor" "OncoSG" 13.2810716075487
+"1615464" 1615464 "A191_t" "ACE2" 153827.7 "LUAD" "62" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.7644804879511
+"1636173" 1636173 "A192_t" "ACE2" 55645.88 "LUAD" "84" "female" "asian" "III" "Primary Tumor" "OncoSG" 15.2975285004045
+"1656882" 1656882 "A193_t" "ACE2" 20479.96 "LUAD" "54" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.855511039438
+"1677591" 1677591 "A194_t" "ACE2" 16060.18 "LUAD" "54" "female" "asian" "IV" "Primary Tumor" "OncoSG" 13.5048055895708
+"1698300" 1698300 "A195_t" "ACE2" 12544.98 "LUAD" "62" "male" "asian" "II" "Primary Tumor" "OncoSG" 13.1484528672658
+"1719009" 1719009 "A196_t" "ACE2" 73976.04 "LUAD" "82" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.7083052752595
+"1739718" 1739718 "A197_t" "ACE2" 15610.07 "LUAD" "52" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.4637971239731
+"1760427" 1760427 "A198_t" "ACE2" 2111402 "LUAD" "67" "male" "asian" "III" "Primary Tumor" "OncoSG" 20.5432858589147
+"1781136" 1781136 "A199_t" "ACE2" 36498.43 "LUAD" "69" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.6891016334135
+"1801845" 1801845 "A200_t" "ACE2" 38637.4 "LUAD" "49" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.7712630533667
+"1822554" 1822554 "A201_t" "ACE2" 108301.7 "LUAD" "67" "female" "asian" "II" "Primary Tumor" "OncoSG" 16.2582250042066
+"1843263" 1843263 "A202_t" "ACE2" 746009.5 "LUAD" "73" "female" "asian" "I" "Primary Tumor" "OncoSG" 19.0423517306093
+"1863972" 1863972 "A203_t" "ACE2" 49940.47 "LUAD" "55" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.1414659861897
+"1884681" 1884681 "A204_t" "ACE2" 1508359 "LUAD" "70" "female" "asian" "III" "Primary Tumor" "OncoSG" 20.0580646865896
+"1905390" 1905390 "A205_t" "ACE2" 48431.49 "LUAD" "79" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.0972028757058
+"1926099" 1926099 "A206_t" "ACE2" 125813.1 "LUAD" "78" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.4744494085118
+"1946808" 1946808 "A207_t" "ACE2" 43837.37 "LUAD" "59" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.9534218563068
+"1967517" 1967517 "A208_t" "ACE2" 53732.34 "LUAD" "77" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.2470452163815
+"1988226" 1988226 "A209_t" "ACE2" 6076.839 "LUAD" "62" "male" "asian" "I" "Primary Tumor" "OncoSG" 12.1028580633064
+"2008935" 2008935 "A210_t" "ACE2" 6672.342 "LUAD" "50" "male" "asian" "I" "Primary Tumor" "OncoSG" 12.2377090464364
+"2029644" 2029644 "A211_t" "ACE2" 14023.48 "LUAD" "50" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.3091749789
+"2050353" 2050353 "A212_t" "ACE2" 19827.89 "LUAD" "68" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.8088316186607
+"2071062" 2071062 "A213_t" "ACE2" 41194.62 "LUAD" "76" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.86371865472
+"2091771" 2091771 "A214_t" "ACE2" 31682.67 "LUAD" "58" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.484967155484
+"2112480" 2112480 "A215_t" "ACE2" 14783.14 "LUAD" "54" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.3852780230418
+"2133189" 2133189 "A216_t" "ACE2" 16407.1 "LUAD" "61" "male" "asian" "III" "Primary Tumor" "OncoSG" 13.5356358888905
+"2153898" 2153898 "A217_t" "ACE2" 40282.25 "LUAD" "71" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.831407782147
+"2174607" 2174607 "A218_t" "ACE2" 19868.1 "LUAD" "67" "male" "asian" "III" "Primary Tumor" "OncoSG" 13.8117542244366
+"2195316" 2195316 "A219_t" "ACE2" 28834.79 "LUAD" "52" "female" "asian" "II" "Primary Tumor" "OncoSG" 14.3490882471001
+"2216025" 2216025 "A220_t" "ACE2" 14950.35 "LUAD" "60" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.4015034547064
+"2236734" 2236734 "A221_t" "ACE2" 11361.78 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.0055435448973
+"2257443" 2257443 "A222_t" "ACE2" 68764.63 "LUAD" "61" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.6029153657616
+"2278152" 2278152 "A232_t" "ACE2" 69287.33 "LUAD" "76" "male" "asian" "III" "Primary Tumor" "OncoSG" 15.6138400839125
+"2298861" 2298861 "A233_t" "ACE2" 23852.35 "LUAD" "81" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.075419594055
+"2319570" 2319570 "A234_n" "ACE2" 17676.61 "LUAD" "77" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.6431509359495
+"2340279" 2340279 "A234_t" "ACE2" 23680.9 "LUAD" "77" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.0650125324593
+"2360988" 2360988 "A239_n" "ACE2" 19101.88 "LUAD" "53" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.7550178584796
+"2381697" 2381697 "A239_t" "ACE2" 122068.3 "LUAD" "53" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.4308562074524
+"2402406" 2402406 "A240_n" "ACE2" 43074.19 "LUAD" "50" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.9280848593909
+"2423115" 2423115 "A240_t" "ACE2" 33515.06 "LUAD" "50" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.5660802615022
+"2443824" 2443824 "A241_t" "ACE2" 18162.04 "LUAD" "70" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.6822333901926
+"2464533" 2464533 "A243_n" "ACE2" 15720.04 "LUAD" "62" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.4739243592678
+"2485242" 2485242 "A243_t" "ACE2" 47524 "LUAD" "62" "female" "asian" "III" "Primary Tumor" "OncoSG" 15.0699143262288
+"2505951" 2505951 "A247_t" "ACE2" 14173.82 "LUAD" "69" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.3245581144691
+"2526660" 2526660 "A249_t" "ACE2" 43713.11 "LUAD" "53" "female" "asian" "II" "Primary Tumor" "OncoSG" 14.9493267260227
+"2547369" 2547369 "A250_n" "ACE2" 31014.82 "LUAD" "55" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.4542319669148
+"2568078" 2568078 "A250_t" "ACE2" 9684.136 "LUAD" "55" "male" "asian" "I" "Primary Tumor" "OncoSG" 12.7750719119588
+"2588787" 2588787 "A252_n" "ACE2" 10608.04 "LUAD" "65" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 12.9065218136755
+"2609496" 2609496 "A252_t" "ACE2" 8172.917 "LUAD" "65" "female" "asian" "I" "Primary Tumor" "OncoSG" 12.5303271984139
+"2630205" 2630205 "A255_n" "ACE2" 14552.8 "LUAD" "63" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.3626235896285
+"2650914" 2650914 "A255_t" "ACE2" 32901.23 "LUAD" "63" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.5394130675378
+"2671623" 2671623 "A258_n" "ACE2" 29602.74 "LUAD" "65" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.3870071501621
+"2692332" 2692332 "A258_t" "ACE2" 27842.34 "LUAD" "65" "male" "asian" "II" "Primary Tumor" "OncoSG" 14.2985599821082
+"2713041" 2713041 "A259_n" "ACE2" 15391.3 "LUAD" "37" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.4434365223577
+"2733750" 2733750 "A259_t" "ACE2" 186386.8 "LUAD" "37" "female" "asian" "III" "Primary Tumor" "OncoSG" 17.0414632258251
+"2754459" 2754459 "A260_n" "ACE2" 19918.15 "LUAD" "61" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.8153837846651
+"2775168" 2775168 "A260_t" "ACE2" 61721.04 "LUAD" "61" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.4470134451464
+"2795877" 2795877 "A261_n" "ACE2" 13147.01 "LUAD" "45" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.2160721581588
+"2816586" 2816586 "A261_t" "ACE2" 97939.19 "LUAD" "45" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.1131286941743
+"2837295" 2837295 "A262_n" "ACE2" 18285.79 "LUAD" "64" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.6920295509579
+"2858004" 2858004 "A262_t" "ACE2" 105367.5 "LUAD" "64" "female" "asian" "II" "Primary Tumor" "OncoSG" 16.2185994308
+"2878713" 2878713 "A263_n" "ACE2" 11752.75 "LUAD" "64" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.0543488172748
+"2899422" 2899422 "A263_t" "ACE2" 68468.37 "LUAD" "64" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.5966864373282
+"2920131" 2920131 "A264_n" "ACE2" 12376.87 "LUAD" "58" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.1289907744225
+"2940840" 2940840 "A264_t" "ACE2" 54900.86 "LUAD" "58" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.2780827259501
+"2961549" 2961549 "A265_n" "ACE2" 17670.21 "LUAD" "65" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.642628528222
+"2982258" 2982258 "A265_t" "ACE2" 103747.3 "LUAD" "65" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.1962434911678
+"3002967" 3002967 "A266_n" "ACE2" 25426.14 "LUAD" "63" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.1675968987068
+"3023676" 3023676 "A266_t" "ACE2" 15901.57 "LUAD" "63" "female" "asian" "II" "Primary Tumor" "OncoSG" 13.4904876363513
+"3044385" 3044385 "A267_n" "ACE2" 28882.93 "LUAD" "72" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.3514947506442
+"3065094" 3065094 "A267_t" "ACE2" 93652.1 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.0485544490887
+"3085803" 3085803 "A268_n" "ACE2" 22446.76 "LUAD" "70" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9877991889484
+"3106512" 3106512 "A268_t" "ACE2" 10953.03 "LUAD" "70" "female" "asian" "I" "Primary Tumor" "OncoSG" 12.9526894359745
+"3127221" 3127221 "A269_n" "ACE2" 33163.84 "LUAD" "66" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.5508822651289
+"3147930" 3147930 "A269_t" "ACE2" 448259.2 "LUAD" "66" "female" "asian" "I" "Primary Tumor" "OncoSG" 18.3074922057175
+"3168639" 3168639 "A270_n" "ACE2" 12162.54 "LUAD" "62" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.1037908621165
+"3189348" 3189348 "A270_t" "ACE2" 21327.37 "LUAD" "62" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.9140014126765
+"3210057" 3210057 "A271_n" "ACE2" 24764.37 "LUAD" "70" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.1295518746652
+"3230766" 3230766 "A271_t" "ACE2" 37400.33 "LUAD" "70" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.7243172729515
+"3251475" 3251475 "A272_t" "ACE2" 9504.8 "LUAD" "43" "female" "asian" "I" "Primary Tumor" "OncoSG" 12.7481076524319
+"3272184" 3272184 "A273_n" "ACE2" 14075.19 "LUAD" "64" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.314484592142
+"3292893" 3292893 "A273_t" "ACE2" 54014.06 "LUAD" "64" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.2545894021528
+"3313602" 3313602 "A274_n" "ACE2" 17616.66 "LUAD" "44" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.6382500157483
+"3334311" 3334311 "A274_t" "ACE2" 160932.3 "LUAD" "44" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.8296186707957
+"3355020" 3355020 "A275_n" "ACE2" 14648.97 "LUAD" "55" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.3721254096752
+"3375729" 3375729 "A275_t" "ACE2" 20553.05 "LUAD" "55" "female" "asian" "II" "Primary Tumor" "OncoSG" 13.8606503920079
+"3396438" 3396438 "A276_n" "ACE2" 1140.576 "LUAD" "71" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 9.6903265141163
+"3417147" 3417147 "A276_t" "ACE2" 8804.922 "LUAD" "71" "male" "asian" "III" "Primary Tumor" "OncoSG" 12.6377736698744
+"3437856" 3437856 "A277_n" "ACE2" 16457.5 "LUAD" "70" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.540060556307
+"3458565" 3458565 "A277_t" "ACE2" 123834 "LUAD" "70" "female" "asian" "II" "Primary Tumor" "OncoSG" 16.4515749213151
+"3479274" 3479274 "A278_n" "ACE2" 45964.72 "LUAD" "73" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 15.0217860382911
+"3499983" 3499983 "A278_t" "ACE2" 19292.56 "LUAD" "73" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.7693470698273
+"3520692" 3520692 "A279_n" "ACE2" 17367.57 "LUAD" "59" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.6177066774197
+"3541401" 3541401 "A279_t" "ACE2" 58150.48 "LUAD" "59" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.3610436092218
+"3562110" 3562110 "A280_n" "ACE2" 21835.35 "LUAD" "49" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9479594257147
+"3582819" 3582819 "A280_t" "ACE2" 303706 "LUAD" "49" "male" "asian" "I" "Primary Tumor" "OncoSG" 17.7458359551313
+"3603528" 3603528 "A281_n" "ACE2" 23838.4 "LUAD" "66" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.0745756252592
+"3624237" 3624237 "A281_t" "ACE2" 43655.77 "LUAD" "66" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.9474330940593
+"3644946" 3644946 "A282_n" "ACE2" 25140.31 "LUAD" "72" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.1512875233881
+"3665655" 3665655 "A282_t" "ACE2" 67076.38 "LUAD" "72" "female" "asian" "II" "Primary Tumor" "OncoSG" 15.5670540386027
+"3686364" 3686364 "A283_n" "ACE2" 26429.41 "LUAD" "67" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.2234265042202
+"3707073" 3707073 "A283_t" "ACE2" 36395.79 "LUAD" "67" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.6850389174907
+"3727782" 3727782 "A284_n" "ACE2" 26267.1 "LUAD" "58" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.2145395519122
+"3748491" 3748491 "A284_t" "ACE2" 111375.3 "LUAD" "58" "female" "asian" "II" "Primary Tumor" "OncoSG" 16.2985980654293
+"3769200" 3769200 "A285_n" "ACE2" 22530.81 "LUAD" "64" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9931909105376
+"3789909" 3789909 "A285_t" "ACE2" 114968.8 "LUAD" "64" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.3444107413938
+"3810618" 3810618 "A302_n" "ACE2" 17583.39 "LUAD" "68" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.6355229882995
+"3831327" 3831327 "A306_n" "ACE2" 23868.94 "LUAD" "55" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.0764226393896
+"3852036" 3852036 "A306_t" "ACE2" 25757.86 "LUAD" "55" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.1862964454185
+"3872745" 3872745 "A307_n" "ACE2" 11016.34 "LUAD" "56" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 12.9610036444947
+"3893454" 3893454 "A307_t" "ACE2" 113458.2 "LUAD" "56" "male" "asian" "III" "Primary Tumor" "OncoSG" 16.3253293909674
+"3914163" 3914163 "A310_t" "ACE2" 104705.3 "LUAD" "67" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.2095040436297
+"3934872" 3934872 "A315_n" "ACE2" 28632.72 "LUAD" "64" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 14.3389428121273
+"3955581" 3955581 "A315_t" "ACE2" 194340.2 "LUAD" "64" "female" "asian" "III" "Primary Tumor" "OncoSG" 17.1017475764561
+"3976290" 3976290 "A316_n" "ACE2" 15207.68 "LUAD" "77" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.4261226426808
+"3996999" 3996999 "A316_t" "ACE2" 72478.07 "LUAD" "77" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.6787921432188
+"4017708" 4017708 "A320_t" "ACE2" 273457.8 "LUAD" "75" "female" "asian" "I" "Primary Tumor" "OncoSG" 17.5944792835195
+"4038417" 4038417 "A322_n" "ACE2" 22626.81 "LUAD" "70" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.9993246615546
+"4059126" 4059126 "A322_t" "ACE2" 16500.2 "LUAD" "70" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.5437986432866
+"4079835" 4079835 "A323_n" "ACE2" 30775.97 "LUAD" "63" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.4430789043431
+"4100544" 4100544 "A323_t" "ACE2" 64969.52 "LUAD" "63" "male" "asian" "II" "Primary Tumor" "OncoSG" 15.5210129513828
+"4121253" 4121253 "A375_n" "ACE2" 20886.84 "LUAD" "60" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.8838910111757
+"4141962" 4141962 "A375_t" "ACE2" 207601.2 "LUAD" "60" "female" "asian" "I" "Primary Tumor" "OncoSG" 17.1969775265329
+"4162671" 4162671 "A377_n" "ACE2" 31711.31 "LUAD" "71" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.4862706699586
+"4183380" 4183380 "A377_t" "ACE2" 41946.07 "LUAD" "71" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.8897977413884
+"4204089" 4204089 "A379_n" "ACE2" 21704.59 "LUAD" "62" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.9392943377258
+"4224798" 4224798 "A379_t" "ACE2" 81692.77 "LUAD" "62" "male" "asian" "III" "Primary Tumor" "OncoSG" 15.8514537614125
+"4245507" 4245507 "A380_t" "ACE2" 10251.52 "LUAD" "61" "female" "asian" "I" "Primary Tumor" "OncoSG" 12.8572062573457
+"4266216" 4266216 "A381_t" "ACE2" 71002.74 "LUAD" "66" "male" "asian" "I" "Primary Tumor" "OncoSG" 15.649122717456
+"4286925" 4286925 "A425_n" "ACE2" 23093.99 "LUAD" "56" "female" "asian" NA "Solid Tissue Normal" "OncoSG" 14.0288076208633
+"4307634" 4307634 "A425_t" "ACE2" 55622.26 "LUAD" "56" "female" "asian" NA "Primary Tumor" "OncoSG" 15.2969160008178
+"4328343" 4328343 "A426_t" "ACE2" 32693.23 "LUAD" "65" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.5302637453261
+"4349052" 4349052 "A428_t" "ACE2" 105727.5 "LUAD" "66" "male" "asian" "II" "Primary Tumor" "OncoSG" 16.2235201138814
+"4369761" 4369761 "A430_t" "ACE2" 301391.5 "LUAD" "70" "female" "asian" "III" "Primary Tumor" "OncoSG" 17.734799310888
+"4390470" 4390470 "A432_t" "ACE2" 316608.2 "LUAD" "64" "female" "asian" "I" "Primary Tumor" "OncoSG" 17.8058589720217
+"4411179" 4411179 "A433_t" "ACE2" 13696.87 "LUAD" "64" "female" "asian" "II" "Primary Tumor" "OncoSG" 13.2751792728807
+"4431888" 4431888 "A434_t" "ACE2" 44232.86 "LUAD" "67" "female" "asian" "II" "Primary Tumor" "OncoSG" 14.9663788416565
+"4452597" 4452597 "A435_n" "ACE2" 22579.93 "LUAD" "68" "female" "asian" "II" "Solid Tissue Normal" "OncoSG" 13.9963326043657
+"4473306" 4473306 "A483_t" "ACE2" 5582.639 "LUAD" "58" "female" "asian" "III" "Primary Tumor" "OncoSG" 11.9805052742126
+"4494015" 4494015 "A484_t" "ACE2" 10488.22 "LUAD" "57" "female" "asian" "III" "Primary Tumor" "OncoSG" 12.8901350994846
+"4514724" 4514724 "A486_t" "ACE2" 92276.92 "LUAD" "45" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.0272131845256
+"4535433" 4535433 "A488_t" "ACE2" 50991.05 "LUAD" "60" "female" "asian" "III" "Primary Tumor" "OncoSG" 15.1715000382115
+"4556142" 4556142 "A489_t" "ACE2" 25882.96 "LUAD" "72" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.1932860522077
+"4576851" 4576851 "A490_t" "ACE2" 151044 "LUAD" "59" "male" "asian" "II" "Primary Tumor" "OncoSG" 16.7381342219719
+"4597560" 4597560 "A492_t" "ACE2" 126553.9 "LUAD" "47" "male" "asian" "I" "Primary Tumor" "OncoSG" 16.4829191615791
+"4618269" 4618269 "A493_t" "ACE2" 40246.69 "LUAD" "58" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.830133682056
+"4638978" 4638978 "A496_t" "ACE2" 31286 "LUAD" "53" "female" "asian" "III" "Primary Tumor" "OncoSG" 14.4667910296303
+"4659687" 4659687 "A499_t" "ACE2" 17920.33 "LUAD" "70" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.6629054077998
+"4680396" 4680396 "A500_t" "ACE2" 23379.97 "LUAD" "70" "female" "asian" "I" "Primary Tumor" "OncoSG" 14.0465624831664
+"4701105" 4701105 "A503_t" "ACE2" 412776.8 "LUAD" "60" "female" "asian" "I" "Primary Tumor" "OncoSG" 18.1885211761199
+"4721814" 4721814 "A504_t" "ACE2" 110064.1 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 16.2815128785969
+"4742523" 4742523 "A507_n" "ACE2" 11956.48 "LUAD" "72" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.0791410776393
+"4763232" 4763232 "A508_t" "ACE2" 42565.64 "LUAD" "71" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.9109509147588
+"4783941" 4783941 "A509_n" "ACE2" 11262.42 "LUAD" "75" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 12.9928726500313
+"4804650" 4804650 "A509_t" "ACE2" 18212.25 "LUAD" "75" "male" "asian" "II" "Primary Tumor" "OncoSG" 13.686216081336
+"4825359" 4825359 "A510_n" "ACE2" 17965.45 "LUAD" "73" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 13.6665330735146
+"4846068" 4846068 "A510_t" "ACE2" 159469.4 "LUAD" "73" "male" "asian" "III" "Primary Tumor" "OncoSG" 16.816444458131
+"4866777" 4866777 "A511_n" "ACE2" 27126.53 "LUAD" "63" "male" "asian" "II" "Solid Tissue Normal" "OncoSG" 14.2609853935293
+"4887486" 4887486 "A511_t" "ACE2" 8924.03 "LUAD" "63" "male" "asian" "II" "Primary Tumor" "OncoSG" 12.6571566229963
+"4908195" 4908195 "A512_n" "ACE2" 19404.26 "LUAD" "55" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.777675462455
+"4928904" 4928904 "A512_t" "ACE2" 9245.642 "LUAD" "55" "male" "asian" "I" "Primary Tumor" "OncoSG" 12.7082291377166
+"4949613" 4949613 "A514_t" "ACE2" 13246.3 "LUAD" "56" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.2269260459333
+"4970322" 4970322 "A517_n" "ACE2" 23844.79 "LUAD" "68" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 14.0749622786988
+"4991031" 4991031 "A517_t" "ACE2" 35675.79 "LUAD" "68" "female" "asian" "III" "Primary Tumor" "OncoSG" 14.6562135147417
+"5011740" 5011740 "A519_n" "ACE2" 10112.9 "LUAD" "69" "female" "asian" "III" "Solid Tissue Normal" "OncoSG" 12.8375671185253
+"5032449" 5032449 "A519_t" "ACE2" 37649.51 "LUAD" "69" "female" "asian" "III" "Primary Tumor" "OncoSG" 14.7338971066024
+"5053158" 5053158 "A521_n" "ACE2" 11669.53 "LUAD" "55" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.0440977797669
+"5073867" 5073867 "A521_t" "ACE2" 22448.07 "LUAD" "55" "female" "asian" "I" "Primary Tumor" "OncoSG" 13.9878833788791
+"5094576" 5094576 "A522_n" "ACE2" 18108.67 "LUAD" "63" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.677987956648
+"5115285" 5115285 "A522_t" "ACE2" 15419.41 "LUAD" "63" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.4460688236937
+"5135994" 5135994 "A524_n" "ACE2" 25795.42 "LUAD" "73" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.1883985631967
+"5156703" 5156703 "A524_t" "ACE2" 23691.49 "LUAD" "73" "male" "asian" "I" "Primary Tumor" "OncoSG" 14.065657528236
+"5177412" 5177412 "A530_n" "ACE2" 23569.1 "LUAD" "72" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.0581855788255
+"5198121" 5198121 "A530_t" "ACE2" 70841.39 "LUAD" "72" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.6458405842707
+"5218830" 5218830 "A532_n" "ACE2" 33710.46 "LUAD" "62" "male" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.5744668092979
+"5239539" 5239539 "A532_t" "ACE2" 21193.13 "LUAD" "62" "male" "asian" "I" "Primary Tumor" "OncoSG" 13.9048924456278
+"5260248" 5260248 "A534_n" "ACE2" 25557.72 "LUAD" "77" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 14.1750432861918
+"5280957" 5280957 "A534_t" "ACE2" 1974355 "LUAD" "77" "female" "asian" "I" "Primary Tumor" "OncoSG" 20.44646603755
+"5301666" 5301666 "A537_n" "ACE2" 24883.81 "LUAD" "79" "male" "asian" "III" "Solid Tissue Normal" "OncoSG" 14.1364930711758
+"5322375" 5322375 "A537_t" "ACE2" 24055.36 "LUAD" "79" "male" "asian" "III" "Primary Tumor" "OncoSG" 14.0876460622668
+"5343084" 5343084 "A538_n" "ACE2" 12128.3 "LUAD" "59" "female" "asian" "I" "Solid Tissue Normal" "OncoSG" 13.0997239921325
+"5363793" 5363793 "A538_t" "ACE2" 61572.42 "LUAD" "59" "female" "asian" "I" "Primary Tumor" "OncoSG" 15.4435354023892
+"5388706" 4366 "TCGA-05-4244_t" "ACE2" 2036.45781892 "LUAD" "70" "male" "not reported" "IV" "Primary Tumor" "TCGA" 10.9925544764893
+"5409710" 25370 "TCGA-05-4249_t" "ACE2" 3885.58008321 "LUAD" "67" "male" "not reported" "I" "Primary Tumor" "TCGA" 11.9242855280232
+"5430814" 46474 "TCGA-05-4250_t" "ACE2" 5053.46118649 "LUAD" "79" "female" "not reported" "III" "Primary Tumor" "TCGA" 12.3033415914273
+"5450825" 66485 "TCGA-05-4382_t" "ACE2" 185758.959794 "LUAD" "68" "male" "not reported" "I" "Primary Tumor" "TCGA" 17.5030800394952
+"5466273" 81933 "TCGA-05-4384_t" "ACE2" 120400.670406 "LUAD" "66" "male" "not reported" "III" "Primary Tumor" "TCGA" 16.8774958820638
+"5499954" 115614 "TCGA-05-4389_t" "ACE2" 551697.634305 "LUAD" "70" "male" "not reported" "I" "Primary Tumor" "TCGA" 19.0735208836121
+"5508378" 124038 "TCGA-05-4390_t" "ACE2" 6740.29433092 "LUAD" "58" "female" "not reported" "I" "Primary Tumor" "TCGA" 12.7188099006278
+"5529075" 144735 "TCGA-05-4395_t" "ACE2" 7136.37296999 "LUAD" "76" "male" "not reported" "III" "Primary Tumor" "TCGA" 12.8011774484726
+"5548329" 163989 "TCGA-05-4396_t" "ACE2" 181206.008914 "LUAD" "76" "male" "not reported" "III" "Primary Tumor" "TCGA" 17.4672792329662
+"5577369" 193029 "TCGA-05-4397_t" "ACE2" 80078.5481352 "LUAD" "65" "male" "not reported" "II" "Primary Tumor" "TCGA" 16.2891462130522
+"5587701" 203361 "TCGA-05-4398_t" "ACE2" 81038.0163301 "LUAD" "47" "female" "not reported" "III" "Primary Tumor" "TCGA" 16.3063290420362
+"5615141" 230801 "TCGA-05-4402_t" "ACE2" 179065.82377 "LUAD" "57" "female" "not reported" "IV" "Primary Tumor" "TCGA" 17.4501385442225
+"5620611" 236271 "TCGA-05-4403_t" "ACE2" 21520.6008193 "LUAD" "76" "male" "not reported" "I" "Primary Tumor" "TCGA" 14.3934977719501
+"5644751" 260411 "TCGA-05-4405_t" "ACE2" 21852.4515479 "LUAD" "74" "female" "not reported" "I" "Primary Tumor" "TCGA" 14.4155735374347
+"5663605" 279265 "TCGA-05-4410_t" "ACE2" 22167.0694381 "LUAD" "62" "male" "not reported" "I" "Primary Tumor" "TCGA" 14.4361955145109
+"5680385" 296045 "TCGA-05-4415_t" "ACE2" 3129.14220199 "LUAD" "57" "male" "not reported" "III" "Primary Tumor" "TCGA" 11.6120124847739
+"5704388" 320048 "TCGA-05-4417_t" "ACE2" 38748.1608869 "LUAD" "51" "female" "not reported" "I" "Primary Tumor" "TCGA" 15.2418774487127
+"5732831" 348491 "TCGA-05-4418_t" "ACE2" 19128.9183676 "LUAD" "69" "male" "not reported" "III" "Primary Tumor" "TCGA" 14.2235430968869
+"5749938" 365598 "TCGA-05-4420_t" "ACE2" 173018.44203 "LUAD" "41" "male" "not reported" "I" "Primary Tumor" "TCGA" 17.4005746356762
+"5757777" 373437 "TCGA-05-4422_t" "ACE2" 331757.467003 "LUAD" "68" "male" "not reported" "I" "Primary Tumor" "TCGA" 18.339773760371
+"5790466" 406126 "TCGA-05-4424_t" "ACE2" 91922.3374361 "LUAD" "70" "male" "not reported" "II" "Primary Tumor" "TCGA" 16.4881435580285
+"5803615" 419275 "TCGA-05-4425_t" "ACE2" 25425.5428962 "LUAD" "70" "female" "not reported" "IV" "Primary Tumor" "TCGA" 14.6340476997939
+"5823042" 438702 "TCGA-05-4426_t" "ACE2" 15209.8794564 "LUAD" "71" "male" "not reported" "I" "Primary Tumor" "TCGA" 13.8928159481745
+"5842575" 458235 "TCGA-05-4427_t" "ACE2" 2754.01730225 "LUAD" "65" "female" "not reported" "II" "Primary Tumor" "TCGA" 11.427845664
+"5859940" 475600 "TCGA-05-4430_t" "ACE2" 14877.3234505 "LUAD" "59" "female" "not reported" "I" "Primary Tumor" "TCGA" 13.8609243464577
+"5889549" 505209 "TCGA-05-4432_t" "ACE2" 27222.2717619 "LUAD" "66" "male" "not reported" "II" "Primary Tumor" "TCGA" 14.7325528435632
+"5900383" 516043 "TCGA-05-4433_t" "ACE2" 35397.5008241 "LUAD" "82" "male" "not reported" "I" "Primary Tumor" "TCGA" 15.1114006410036
+"5918987" 534647 "TCGA-05-4434_t" "ACE2" 75971.9877848 "LUAD" "67" "female" "not reported" "IV" "Primary Tumor" "TCGA" 16.2131989386839
+"5939653" 555313 "TCGA-05-5420_t" "ACE2" 112451.426558 "LUAD" "67" "male" "not reported" "III" "Primary Tumor" "TCGA" 16.7789552671259
+"5969623" 585283 "TCGA-05-5423_t" "ACE2" 82528.245292 "LUAD" "65" "male" "not reported" "II" "Primary Tumor" "TCGA" 16.3326178269226
+"5989296" 604956 "TCGA-05-5425_t" "ACE2" 48878.0217091 "LUAD" "68" "male" "not reported" "II" "Primary Tumor" "TCGA" 15.5769277901244
+"5994852" 610512 "TCGA-05-5428_t" "ACE2" 16271.8250212 "LUAD" "57" "male" "not reported" "II" "Primary Tumor" "TCGA" 13.9901771093725
+"6025622" 641282 "TCGA-05-5429_t" "ACE2" 243877.879214 "LUAD" "60" "male" "not reported" "III" "Primary Tumor" "TCGA" 17.8958052954138
+"6038410" 654070 "TCGA-05-5715_t" "ACE2" 111582.141606 "LUAD" "69" "female" "not reported" "I" "Primary Tumor" "TCGA" 16.7677595503618
+"6058518" 3143778 "TCGA-35-3615_t" "ACE2" 30260.2936608 "LUAD" "57" "male" "white" "I" "Primary Tumor" "TCGA" 14.8851860431823
+"6072812" 3158072 "TCGA-35-4122_t" "ACE2" 7067.78714652 "LUAD" "69" "male" "white" "I" "Primary Tumor" "TCGA" 12.7872469851558
+"6103072" 3188332 "TCGA-35-4123_t" "ACE2" 587.978243864 "LUAD" "38" "male" "white" "I" "Primary Tumor" "TCGA" 9.20207053342432
+"6116646" 3201906 "TCGA-35-5375_t" "ACE2" 19764.8997059 "LUAD" "61" "male" "white" "III" "Primary Tumor" "TCGA" 14.2707260049169
+"6136619" 3491556 "TCGA-38-4625_t" "ACE2" 5009.55811761 "LUAD" "66" "female" "white" "I" "Primary Tumor" "TCGA" 12.2907555963983
+"6162044" 3541304 "TCGA-38-4626_t" "ACE2" 43040.8229547 "LUAD" "57" "female" "white" NA "Primary Tumor" "TCGA" 15.3934515613476
+"6169713" 3549180 "TCGA-38-4627_t" "ACE2" 12474.4860871 "LUAD" "64" "female" "white" "II" "Primary Tumor" "TCGA" 13.6068084084816
+"6204818" 3603678 "TCGA-38-4628_t" "ACE2" 8200.96018772 "LUAD" "65" "female" "white" "II" "Primary Tumor" "TCGA" 13.0017530255086
+"6211818" 3610678 "TCGA-38-4629_t" "ACE2" 8010.47973119 "LUAD" "68" "male" "white" "II" "Primary Tumor" "TCGA" 12.9678530196415
+"6234746" 3633606 "TCGA-38-4630_t" "ACE2" 4123.99102241 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 12.0101752641566
+"6253025" 3651885 "TCGA-38-4631_t" "ACE2" 2160.40861104 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 11.0777561219661
+"6271586" 3676846 "TCGA-38-4632_t" "ACE2" 6238.72726522 "LUAD" "42" "male" "black or african american" "IV" "Primary Tumor" "TCGA" 12.6072672557827
+"6302947" 3721407 "TCGA-38-6178_t" "ACE2" 24268.3514108 "LUAD" "70" "female" "white" "III" "Primary Tumor" "TCGA" 14.5668479330766
+"6312965" 3731425 "TCGA-38-7271_t" "ACE2" 17159.9923256 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 14.0668453579015
+"6341661" 3760121 "TCGA-38-A44F_t" "ACE2" 52788.5935099 "LUAD" "80" "male" "white" "I" "Primary Tumor" "TCGA" 15.6879659365694
+"6360653" 4739513 "TCGA-44-2655_t" "ACE2" 185595.061889 "LUAD" "65" "female" "white" "I" "Primary Tumor" "TCGA" 17.5018065730839
+"6367745" 4746605 "TCGA-44-2656_t" "ACE2" 46054.055293 "LUAD" "59" "male" "white" "I" "Primary Tumor" "TCGA" 15.4910719038541
+"6401436" 4780296 "TCGA-44-2656_t" "ACE2" 26441.8683891 "LUAD" "59" "male" "white" "I" "Primary Tumor" "TCGA" 14.690591061171
+"6407997" 4786857 "TCGA-44-2656_t" "ACE2" 75508.0092828 "LUAD" "59" "male" "white" "I" "Primary Tumor" "TCGA" 16.2043611679896
+"6440019" 4837936 "TCGA-44-2657_t" "ACE2" 60935.1194582 "LUAD" "74" "female" "white" "I" "Primary Tumor" "TCGA" 15.8950100086079
+"6448433" 4846893 "TCGA-44-2659_t" "ACE2" 19217.3088313 "LUAD" "65" "female" "white" "II" "Primary Tumor" "TCGA" 14.2301937672717
+"6472483" 4882032 "TCGA-44-2661_t" "ACE2" 29109.9628848 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 14.8292749389054
+"6498719" 4933033 "TCGA-44-2662_t" "ACE2" 32236.3368071 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 14.9764449443244
+"6513181" 4947495 "TCGA-44-2662_t" "ACE2" 36963.8516958 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 15.1738665047585
+"6527970" 4962503 "TCGA-44-2662_t" "ACE2" 14983.0691319 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 13.8711418404109
+"6554006" 5011266 "TCGA-44-2665_t" "ACE2" 6600.9325546 "LUAD" "55" "female" "white" "II" "Primary Tumor" "TCGA" 12.6886726847128
+"6561068" 5018328 "TCGA-44-2666_t" "ACE2" 2731.98614847 "LUAD" "43" "male" "white" "I" "Primary Tumor" "TCGA" 11.4162624325641
+"6585799" 5043059 "TCGA-44-2666_t" "ACE2" 3715.88311272 "LUAD" "43" "male" "white" "I" "Primary Tumor" "TCGA" 11.8598776041906
+"6617191" 5074451 "TCGA-44-2666_t" "ACE2" 3274.66742905 "LUAD" "43" "male" "white" "I" "Primary Tumor" "TCGA" 11.67757317558
+"6620217" 5077477 "TCGA-44-2668_t" "ACE2" 6241.95844467 "LUAD" "51" "male" "white" "I" "Primary Tumor" "TCGA" 12.6080141474022
+"6638118" 5096466 "TCGA-44-2668_t" "ACE2" 4210.11859904 "LUAD" "51" "male" "white" "I" "Primary Tumor" "TCGA" 12.0399877918094
+"6677420" 5154280 "TCGA-44-2668_t" "ACE2" 3718.15983895 "LUAD" "51" "male" "white" "I" "Primary Tumor" "TCGA" 11.8607610368887
+"6695866" 5188866 "TCGA-44-3396_t" "ACE2" 33700.7395356 "LUAD" "74" "female" "white" "III" "Primary Tumor" "TCGA" 15.0405354384526
+"6706504" 5217099 "TCGA-44-3398_t" "ACE2" 7413.32493586 "LUAD" "77" "female" "white" "I" "Primary Tumor" "TCGA" 12.8560996279121
+"6718495" 5234555 "TCGA-44-3917_t" "ACE2" 11675.7036932 "LUAD" "33" "female" "white" "I" "Primary Tumor" "TCGA" 13.5113454417252
+"6751468" 5267528 "TCGA-44-3917_t" "ACE2" 6614.41959437 "LUAD" "33" "female" "white" "I" "Primary Tumor" "TCGA" 12.6916169494833
+"6759177" 5275237 "TCGA-44-3918_t" "ACE2" 15531.5224952 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 13.9230045232345
+"6778421" 5294481 "TCGA-44-3918_t" "ACE2" 25950.7421066 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 14.6635437676198
+"6799492" 5315552 "TCGA-44-3918_t" "ACE2" 27687.5528876 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 14.7570020343219
+"6830011" 5346071 "TCGA-44-3919_t" "ACE2" 32622.6346308 "LUAD" "71" "female" "white" "I" "Primary Tumor" "TCGA" 14.9936299026084
+"6837980" 5354040 "TCGA-44-4112_t" "ACE2" 8974.44414848 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 13.1317676169075
+"6867806" 5383866 "TCGA-44-4112_t" "ACE2" 4904.20554016 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 12.2600978748389
+"6887485" 5403545 "TCGA-44-5643_t" "ACE2" 43312.3247859 "LUAD" "53" "male" "black or african american" "III" "Primary Tumor" "TCGA" 15.4025232993118
+"6896618" 5412678 "TCGA-44-5644_t" "ACE2" 0 "LUAD" "51" "female" "white" "I" "Primary Tumor" "TCGA" 0
+"6918175" 5434235 "TCGA-44-5645_t" "ACE2" 77121.6048042 "LUAD" "61" "female" "black or african american" "I" "Primary Tumor" "TCGA" 16.2348661587449
+"6935509" 5458612 "TCGA-44-5645_t" "ACE2" 62793.6265353 "LUAD" "61" "female" "black or african american" "I" "Primary Tumor" "TCGA" 15.9383534895811
+"6955874" 5482359 "TCGA-44-5645_t" "ACE2" 110182.405433 "LUAD" "61" "female" "black or african american" "I" "Primary Tumor" "TCGA" 16.749547432445
+"6988369" 5563160 "TCGA-44-6145_t" "ACE2" 139313.70522 "LUAD" "62" "female" "white" "I" "Primary Tumor" "TCGA" 17.0879880226004
+"6992656" 5571102 "TCGA-44-6146_t" "ACE2" 20932.0254816 "LUAD" "64" "male" "white" "II" "Primary Tumor" "TCGA" 14.3534932210932
+"7024369" 5611343 "TCGA-44-6146_t" "ACE2" 13486.2590288 "LUAD" "64" "male" "white" "II" "Primary Tumor" "TCGA" 13.7193095634658
+"7035241" 5628860 "TCGA-44-6146_t" "ACE2" 19931.1761157 "LUAD" "64" "male" "white" "II" "Primary Tumor" "TCGA" 14.2828116060307
+"7051383" 5645865 "TCGA-44-6147_t" "ACE2" 37889.876747 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 15.2095629019222
+"7083253" 5692215 "TCGA-44-6147_t" "ACE2" 24016.2639664 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 14.5517841889222
+"7089225" 5699788 "TCGA-44-6147_t" "ACE2" 25053.6565812 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 14.6127911427412
+"7109588" 5724799 "TCGA-44-6148_t" "ACE2" 17807.7624852 "LUAD" "60" "male" "white" "I" "Primary Tumor" "TCGA" 14.1202996478983
+"7134762" 5768422 "TCGA-44-6774_t" "ACE2" 20022.1510887 "LUAD" "56" "female" "white" "III" "Primary Tumor" "TCGA" 14.2893814117808
+"7153578" 5787238 "TCGA-44-6775_t" "ACE2" 41695.6456131 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 15.3476437068166
+"7170694" 5804354 "TCGA-44-6775_t" "ACE2" 55746.8471698 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 15.7666284727004
+"7175047" 5808707 "TCGA-44-6775_t" "ACE2" 67387.4444208 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 16.0402136029137
+"7216104" 5855090 "TCGA-44-6776_t" "ACE2" 104182.115981 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 16.6687619664087
+"7235121" 5893111 "TCGA-44-6777_t" "ACE2" 32365.1367971 "LUAD" "85" "female" "white" "I" "Primary Tumor" "TCGA" 14.9821975561477
+"7258383" 5947254 "TCGA-44-6778_t" "ACE2" 10070.2020962 "LUAD" "59" "male" "black or african american" "I" "Primary Tumor" "TCGA" 13.2979482728963
+"7271295" 5963755 "TCGA-44-6779_t" "ACE2" 30402.6750524 "LUAD" "50" "female" "white" "II" "Primary Tumor" "TCGA" 14.8919580999098
+"7299203" 5991663 "TCGA-44-7659_t" "ACE2" 7048.14627879 "LUAD" "70" "male" "white" "I" "Primary Tumor" "TCGA" 12.78323282814
+"7319271" 6011731 "TCGA-44-7660_t" "ACE2" 6165.34085714 "LUAD" "72" "male" "white" "I" "Primary Tumor" "TCGA" 12.5901989242392
+"7332002" 6024462 "TCGA-44-7661_t" "ACE2" 6983.97802353 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 12.7700398612282
+"7351954" 6044414 "TCGA-44-7662_t" "ACE2" 2275.7923691 "LUAD" "61" "male" "white" "I" "Primary Tumor" "TCGA" 11.1527870163088
+"7369471" 6061931 "TCGA-44-7667_t" "ACE2" 1118.07813549 "LUAD" "49" "female" "white" "II" "Primary Tumor" "TCGA" 10.1280950553361
+"7399079" 6091539 "TCGA-44-7669_t" "ACE2" 8175.2389204 "LUAD" "59" "male" "black or african american" "II" "Primary Tumor" "TCGA" 12.9972216389905
+"7416103" 6108563 "TCGA-44-7670_t" "ACE2" 13558.0649052 "LUAD" "47" "female" "white" "II" "Primary Tumor" "TCGA" 13.7269700666411
+"7426633" 6119093 "TCGA-44-7671_t" "ACE2" 242265.842314 "LUAD" "64" "male" "black or african american" "I" "Primary Tumor" "TCGA" 17.886237439265
+"7456266" 6148726 "TCGA-44-7672_t" "ACE2" 3532.61837986 "LUAD" "52" "female" "white" "I" "Primary Tumor" "TCGA" 11.786930526246
+"7468708" 6161168 "TCGA-44-8117_t" "ACE2" 12988.0499055 "LUAD" "54" "female" "white" "I" "Primary Tumor" "TCGA" 13.6650082871056
+"7489477" 6181937 "TCGA-44-8119_t" "ACE2" 8743.50737055 "LUAD" "73" "male" "white" "II" "Primary Tumor" "TCGA" 13.0941613956148
+"7508926" 6201386 "TCGA-44-8120_t" "ACE2" 13995.3778969 "LUAD" "58" "male" "black or african american" "I" "Primary Tumor" "TCGA" 13.7727659019852
+"7536859" 6229319 "TCGA-44-A479_t" "ACE2" 50183.3590295 "LUAD" "73" "female" "black or african american" "I" "Primary Tumor" "TCGA" 15.6149501686926
+"7558035" 6250495 "TCGA-44-A47A_t" "ACE2" 281904.24346 "LUAD" "78" "female" "white" "I" "Primary Tumor" "TCGA" 18.1048507868375
+"7564968" 6257428 "TCGA-44-A47B_t" "ACE2" 2191.32050242 "LUAD" "79" "male" "white" "I" "Primary Tumor" "TCGA" 11.0982430106299
+"7586390" 6278850 "TCGA-44-A47G_t" "ACE2" 27237.2704905 "LUAD" "73" "female" "white" "I" "Primary Tumor" "TCGA" 14.7333474810642
+"7606826" 6299286 "TCGA-44-A4SS_t" "ACE2" 223154.914593 "LUAD" "73" "male" "white" "I" "Primary Tumor" "TCGA" 17.7676925191664
+"7626673" 6319133 "TCGA-44-A4SU_t" "ACE2" 55079.0796172 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 15.7492430244119
+"7651304" 6480964 "TCGA-49-4486_t" "ACE2" 346601.270506 "LUAD" "72" "male" "white" "I" "Primary Tumor" "TCGA" 18.4029215797053
+"7658290" 6487950 "TCGA-49-4487_t" "ACE2" 58919.1864439 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 15.8464743751178
+"7692051" 6521711 "TCGA-49-4488_t" "ACE2" 6585.16631609 "LUAD" "74" "female" "white" "I" "Primary Tumor" "TCGA" 12.6852232284764
+"7700243" 6531279 "TCGA-49-4490_t" "ACE2" 55891.8983347 "LUAD" "45" "female" "white" "III" "Primary Tumor" "TCGA" 15.7703773676595
+"7732942" 6582202 "TCGA-49-4494_t" "ACE2" 170664.382151 "LUAD" "77" "male" "white" "III" "Primary Tumor" "TCGA" 17.380810925515
+"7749305" 6598565 "TCGA-49-4501_t" "ACE2" 31055.742372 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 14.9226188889193
+"7762374" 6611634 "TCGA-49-4505_t" "ACE2" 15948.6227787 "LUAD" "61" "female" "white" "II" "Primary Tumor" "TCGA" 13.9612346830547
+"7789669" 6638929 "TCGA-49-4506_t" "ACE2" 61195.1049892 "LUAD" "68" "female" "white" "II" "Primary Tumor" "TCGA" 15.9011522107094
+"7802579" 6651839 "TCGA-49-4507_t" "ACE2" 11151.3848493 "LUAD" "73" "female" "white" "III" "Primary Tumor" "TCGA" 13.4450646316106
+"7821927" 6671187 "TCGA-49-4510_t" "ACE2" 115960.410164 "LUAD" "51" "female" "black or african american" "II" "Primary Tumor" "TCGA" 16.8232852571385
+"7842381" 6698978 "TCGA-49-4512_t" "ACE2" 26627.1236679 "LUAD" "69" "female" "white" "III" "Primary Tumor" "TCGA" 14.700663153183
+"7871635" 6740495 "TCGA-49-4514_t" "ACE2" 18965.5818795 "LUAD" "79" "female" "white" "I" "Primary Tumor" "TCGA" 14.2111720820298
+"7880311" 6760424 "TCGA-49-6742_t" "ACE2" 23715.869689 "LUAD" "70" "male" "white" "II" "Primary Tumor" "TCGA" 14.5336259854631
+"7895068" 6784051 "TCGA-49-6743_t" "ACE2" 74955.4287764 "LUAD" "81" "female" "white" "III" "Primary Tumor" "TCGA" 16.1937645984309
+"7915717" 6828228 "TCGA-49-6744_t" "ACE2" 27678.2639248 "LUAD" "64" "female" "white" "II" "Primary Tumor" "TCGA" 14.7565179574171
+"7935379" 6863039 "TCGA-49-6745_t" "ACE2" 19120.1265405 "LUAD" "82" "male" "white" "III" "Primary Tumor" "TCGA" 14.2228799032089
+"7958858" 6916569 "TCGA-49-6761_t" "ACE2" 5351.29687246 "LUAD" "68" "female" "white" "III" "Primary Tumor" "TCGA" 12.3859424239127
+"7985453" 6952313 "TCGA-49-6767_t" "ACE2" 3939.48265237 "LUAD" "46" "female" "white" "II" "Primary Tumor" "TCGA" 11.9441566345301
+"7996331" 6963191 "TCGA-49-AAQV_t" "ACE2" 68962.2897357 "LUAD" "63" "female" "black or african american" "II" "Primary Tumor" "TCGA" 16.0735409760788
+"8018008" 6984868 "TCGA-49-AAR0_t" "ACE2" 17876.7788113 "LUAD" "57" "male" "black or african american" "I" "Primary Tumor" "TCGA" 14.1258798824587
+"8045886" 7012746 "TCGA-49-AAR2_t" "ACE2" 254712.175242 "LUAD" "64" "male" "black or african american" "I" "Primary Tumor" "TCGA" 17.9585140605298
+"8057532" 7024392 "TCGA-49-AAR3_t" "ACE2" 3567.39741235 "LUAD" "69" "male" "black or african american" "II" "Primary Tumor" "TCGA" 11.8010605817865
+"8082338" 7049198 "TCGA-49-AAR4_t" "ACE2" 44297.7696073 "LUAD" "51" "male" "black or african american" "III" "Primary Tumor" "TCGA" 15.4349790082147
+"8096735" 7063595 "TCGA-49-AAR9_t" "ACE2" 4956.6317548 "LUAD" "61" "male" "black or african american" "II" "Primary Tumor" "TCGA" 12.2754353989157
+"8125742" 7092602 "TCGA-49-AARE_t" "ACE2" 74255.8920724 "LUAD" "51" "female" "black or african american" "I" "Primary Tumor" "TCGA" 16.180237313843
+"8135938" 7102798 "TCGA-49-AARN_t" "ACE2" 12422.5794776 "LUAD" "56" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.6007932818174
+"8165052" 7131912 "TCGA-49-AARO_t" "ACE2" 9704.74290195 "LUAD" "39" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.244622929331
+"8172284" 7139144 "TCGA-49-AARQ_t" "ACE2" 17527.2800404 "LUAD" "41" "female" "black or african american" "I" "Primary Tumor" "TCGA" 14.097396818378
+"8201356" 7168216 "TCGA-49-AARR_t" "ACE2" 18792.6492813 "LUAD" "68" "male" "black or african american" "I" "Primary Tumor" "TCGA" 14.1979576106955
+"8211277" 7178137 "TCGA-4B-A93V_t" "ACE2" 25263.9739876 "LUAD" "52" "female" "black or african american" "I" "Primary Tumor" "TCGA" 14.6248510741311
+"8228875" 7195735 "TCGA-50-5044_t" "ACE2" 9385.50492192 "LUAD" "72" "female" "white" "III" "Primary Tumor" "TCGA" 13.1963723530356
+"8251136" 7217996 "TCGA-50-5045_t" "ACE2" 8248.45127079 "LUAD" "57" "female" "black or african american" NA "Primary Tumor" "TCGA" 13.0100824433856
+"8280906" 7247766 "TCGA-50-5049_t" "ACE2" 1993.53297902 "LUAD" "70" "male" "white" "I" "Primary Tumor" "TCGA" 10.9618352628253
+"8302334" 7269194 "TCGA-50-5051_t" "ACE2" 53881.4216858 "LUAD" "42" "female" "white" "III" "Primary Tumor" "TCGA" 15.7175270721385
+"8320284" 7287144 "TCGA-50-5055_t" "ACE2" 18653.7251267 "LUAD" "79" "female" "white" "II" "Primary Tumor" "TCGA" 14.1872534820645
+"8340542" 7307402 "TCGA-50-5066_t" "ACE2" 4694.01680853 "LUAD" "72" "male" "black or african american" "I" "Primary Tumor" "TCGA" 12.1969146075123
+"8351474" 7318334 "TCGA-50-5066_t" "ACE2" 17719.5623655 "LUAD" "72" "male" "black or african american" "I" "Recurrent Tumor" "TCGA" 14.1131367683772
+"8380404" 7347264 "TCGA-50-5068_t" "ACE2" 10704.2365909 "LUAD" "59" "female" "white" "II" "Primary Tumor" "TCGA" 13.3860290598825
+"8396104" 7362964 "TCGA-50-5072_t" "ACE2" 224197.380288 "LUAD" "74" "male" "white" "III" "Primary Tumor" "TCGA" 17.7744163299267
+"8419791" 7394649 "TCGA-50-5930_t" "ACE2" 116952.350886 "LUAD" "47" "male" "white" "III" "Primary Tumor" "TCGA" 16.8355736720601
+"8428056" 7415895 "TCGA-50-5931_t" "ACE2" 2078.63043198 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 11.0221114566238
+"8451664" 7467812 "TCGA-50-5932_t" "ACE2" 32718.8987531 "LUAD" "75" "male" "white" "II" "Primary Tumor" "TCGA" 14.997880663629
+"8463861" 7490461 "TCGA-50-5933_t" "ACE2" 1277.28629457 "LUAD" "72" "male" "white" "III" "Primary Tumor" "TCGA" 10.3199952739201
+"8484816" 7530598 "TCGA-50-5935_t" "ACE2" 200824.991806 "LUAD" "86" "female" "white" "I" "Primary Tumor" "TCGA" 17.6155864759113
+"8500806" 7565806 "TCGA-50-5936_t" "ACE2" 27508.9149261 "LUAD" "58" "male" "white" "III" "Primary Tumor" "TCGA" 14.7476640577029
+"8526453" 7612325 "TCGA-50-5939_t" "ACE2" 7789.07267195 "LUAD" "85" "male" "white" "I" "Primary Tumor" "TCGA" 12.9274210716105
+"8555071" 7659131 "TCGA-50-5941_t" "ACE2" 34627.5375492 "LUAD" "55" "female" "white" "III" "Primary Tumor" "TCGA" 15.0796738397075
+"8564575" 7668635 "TCGA-50-5942_t" "ACE2" 47901.5836623 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 15.5478158504642
+"8593852" 7697912 "TCGA-50-5944_t" "ACE2" 133008.536316 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 17.0211701600324
+"8615930" 7719990 "TCGA-50-5946_t" "ACE2" 7256.49543603 "LUAD" "62" "male" "white" "I" "Recurrent Tumor" "TCGA" 12.8252560442568
+"8624859" 7728919 "TCGA-50-5946_t" "ACE2" 7503.14934821 "LUAD" "62" "male" "white" "I" "Primary Tumor" "TCGA" 12.8734728254389
+"8645130" 7749190 "TCGA-50-6590_t" "ACE2" 2770.19538042 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 11.4362927148701
+"8671549" 7775609 "TCGA-50-6591_t" "ACE2" 800.478237718 "LUAD" "63" "female" "white" "IV" "Primary Tumor" "TCGA" 9.64651953764979
+"8691351" 7795411 "TCGA-50-6592_t" "ACE2" 30446.8080272 "LUAD" "71" "female" "white" "I" "Primary Tumor" "TCGA" 14.8940507501403
+"8710616" 7814676 "TCGA-50-6593_t" "ACE2" 16916.6067397 "LUAD" "49" "female" "white" "III" "Primary Tumor" "TCGA" 14.0462378706446
+"8730802" 7834862 "TCGA-50-6594_t" "ACE2" 11728.8799037 "LUAD" "79" "female" "black or african american" "III" "Primary Tumor" "TCGA" 13.5179006219676
+"8749882" 7865879 "TCGA-50-6595_t" "ACE2" 14233.2532938 "LUAD" "74" "female" "white" "III" "Primary Tumor" "TCGA" 13.7970791931363
+"8770640" 7894300 "TCGA-50-6597_t" "ACE2" 36075.1149484 "LUAD" "79" "female" "white" "I" "Primary Tumor" "TCGA" 15.1387563620877
+"8792420" 7916080 "TCGA-50-6673_t" "ACE2" 155827.387776 "LUAD" "84" "female" "white" "I" "Primary Tumor" "TCGA" 17.2495985523357
+"8808289" 7931949 "TCGA-50-7109_t" "ACE2" 23204.9983838 "LUAD" "60" "male" "white" "I" "Primary Tumor" "TCGA" 14.5022101469723
+"8824903" 7948563 "TCGA-50-8457_t" "ACE2" 21858.7684264 "LUAD" "63" "female" "black or african american" "I" "Primary Tumor" "TCGA" 14.4159904973089
+"8838894" 7962554 "TCGA-50-8459_t" "ACE2" 10820.1498094 "LUAD" "68" "male" "white" "II" "Primary Tumor" "TCGA" 13.401566181504
+"8860492" 7984152 "TCGA-50-8460_t" "ACE2" 48673.743609 "LUAD" "74" "male" "white" "I" "Primary Tumor" "TCGA" 15.5708857592141
+"8874101" 8213361 "TCGA-53-7624_t" "ACE2" 33643.4271686 "LUAD" "40" "female" "white" "IV" "Primary Tumor" "TCGA" 15.0380799375188
+"8910526" 8249786 "TCGA-53-7626_t" "ACE2" 13033.3534751 "LUAD" "76" "female" "white" "II" "Primary Tumor" "TCGA" 13.6700314042028
+"8925944" 8265204 "TCGA-53-7813_t" "ACE2" 20843.203573 "LUAD" "51" "female" "white" "III" "Primary Tumor" "TCGA" 14.347358629449
+"8947979" 8287239 "TCGA-53-A4EZ_t" "ACE2" 29249.2450039 "LUAD" "63" "male" "white" "II" "Primary Tumor" "TCGA" 14.8361610884995
+"8955905" 8295165 "TCGA-55-1592_t" "ACE2" 26025.5274597 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 14.6676952152689
+"8986517" 8325777 "TCGA-55-1594_t" "ACE2" 8239.77922336 "LUAD" "68" "male" "white" "III" "Primary Tumor" "TCGA" 13.0085650454354
+"8997096" 8336356 "TCGA-55-1596_t" "ACE2" 25532.3729084 "LUAD" "55" "male" "asian" "II" "Primary Tumor" "TCGA" 14.6400965070637
+"9024715" 8363975 "TCGA-55-5899_t" "ACE2" 3754.97064239 "LUAD" "58" "male" "white" NA "Primary Tumor" "TCGA" 11.874970071231
+"9034684" 8373944 "TCGA-55-6543_t" "ACE2" 22174.9423152 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 14.4367077893557
+"9067326" 8406586 "TCGA-55-6642_t" "ACE2" 3908.39955036 "LUAD" "63" "male" "white" "I" "Primary Tumor" "TCGA" 11.9327313238469
+"9071214" 8410474 "TCGA-55-6712_t" "ACE2" 23553.580853 "LUAD" "71" "male" "white" "II" "Primary Tumor" "TCGA" 14.5237200394399
+"9095104" 8445192 "TCGA-55-6968_t" "ACE2" 3704.36555035 "LUAD" "61" "male" "white" "IV" "Primary Tumor" "TCGA" 11.8554001623247
+"9125803" 8523478 "TCGA-55-6970_t" "ACE2" 69872.7836579 "LUAD" "67" "female" "white" "III" "Primary Tumor" "TCGA" 16.0924636437165
+"9145876" 8553117 "TCGA-55-6971_t" "ACE2" 100003.203062 "LUAD" "59" "female" "white" "I" "Primary Tumor" "TCGA" 16.6097011105296
+"9162469" 8599729 "TCGA-55-6972_t" "ACE2" 215635.391358 "LUAD" "72" "male" "white" "I" "Primary Tumor" "TCGA" 17.7182411460398
+"9183518" 8639288 "TCGA-55-6975_t" "ACE2" 8992.48632805 "LUAD" "61" "male" "white" "II" "Primary Tumor" "TCGA" 13.1346647700546
+"9199223" 8658140 "TCGA-55-6978_t" "ACE2" 4902.16766278 "LUAD" "81" "male" "white" "II" "Primary Tumor" "TCGA" 12.2594983797806
+"9211529" 8689241 "TCGA-55-6979_t" "ACE2" 66375.103814 "LUAD" "59" "female" "white" "II" "Primary Tumor" "TCGA" 16.0183763272364
+"9238530" 8748381 "TCGA-55-6980_t" "ACE2" 350905.415938 "LUAD" "56" "male" "white" "I" "Primary Tumor" "TCGA" 18.4207268005106
+"9263066" 8798231 "TCGA-55-6981_t" "ACE2" 170242.206831 "LUAD" "53" "female" "white" "III" "Primary Tumor" "TCGA" 17.3772377063496
+"9270840" 8816327 "TCGA-55-6982_t" "ACE2" 152053.380752 "LUAD" "79" "female" "white" "II" "Primary Tumor" "TCGA" 17.2142278560679
+"9298113" 8864125 "TCGA-55-6983_t" "ACE2" 12586.6116212 "LUAD" "81" "male" "white" "II" "Primary Tumor" "TCGA" 13.619716951
+"9306757" 8886656 "TCGA-55-6984_t" "ACE2" 15677.9453878 "LUAD" "71" "female" "white" "II" "Primary Tumor" "TCGA" 13.9365409023342
+"9340147" 8953636 "TCGA-55-6985_t" "ACE2" 54792.7353718 "LUAD" "58" "female" "white" "I" "Primary Tumor" "TCGA" 15.7417233372484
+"9344658" 8958531 "TCGA-55-6986_t" "ACE2" 13566.8150354 "LUAD" "74" "female" "white" "I" "Primary Tumor" "TCGA" 13.7279007870123
+"9370978" 9004238 "TCGA-55-6987_t" "ACE2" 115977.226473 "LUAD" "77" "male" "white" "I" "Primary Tumor" "TCGA" 16.8234944564456
+"9386939" 9020199 "TCGA-55-7227_t" "ACE2" 7871.20442651 "LUAD" "77" "male" "white" "III" "Primary Tumor" "TCGA" 12.9425519699331
+"9418372" 9051632 "TCGA-55-7281_t" "ACE2" 10075.8742969 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 13.2987605842929
+"9425392" 9058652 "TCGA-55-7283_t" "ACE2" 10912.5679917 "LUAD" "76" "female" "white" "III" "Primary Tumor" "TCGA" 13.4138352211189
+"9458078" 9091338 "TCGA-55-7284_t" "ACE2" 21459.4858617 "LUAD" "74" "male" "white" "II" "Primary Tumor" "TCGA" 14.3893951183806
+"9465761" 9099021 "TCGA-55-7570_t" "ACE2" 1961.00049374 "LUAD" "60" "male" "black or african american" "I" "Primary Tumor" "TCGA" 10.9381096892754
+"9488088" 9121348 "TCGA-55-7573_t" "ACE2" 25222.3131184 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 14.6224701677276
+"9514547" 9147807 "TCGA-55-7574_t" "ACE2" 6074.21721563 "LUAD" "64" "female" "white" "I" "Primary Tumor" "TCGA" 12.5687202769706
+"9527126" 9160386 "TCGA-55-7576_t" "ACE2" 12846.4665957 "LUAD" "54" "male" "black or african american" "I" "Primary Tumor" "TCGA" 13.6491962805907
+"9555410" 9188670 "TCGA-55-7724_t" "ACE2" 41870.4945603 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 15.353680794075
+"9561546" 9194806 "TCGA-55-7725_t" "ACE2" 14103.6641884 "LUAD" "68" "female" "white" "I" "Primary Tumor" "TCGA" 13.7838846974051
+"9586414" 9219674 "TCGA-55-7726_t" "ACE2" 5173.07125733 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 12.3370842076234
+"9606285" 9239545 "TCGA-55-7727_t" "ACE2" 27468.9600751 "LUAD" "70" "male" "white" "III" "Primary Tumor" "TCGA" 14.7455671931486
+"9632815" 9266075 "TCGA-55-7728_t" "ACE2" 61436.1950771 "LUAD" "64" "female" "white" "I" "Primary Tumor" "TCGA" 15.9068247306878
+"9637807" 9271067 "TCGA-55-7815_t" "ACE2" 109686.734973 "LUAD" "76" "male" "not reported" "I" "Primary Tumor" "TCGA" 16.7430426903978
+"9662003" 9295263 "TCGA-55-7816_t" "ACE2" 6681.63893719 "LUAD" "49" "female" "white" "IV" "Primary Tumor" "TCGA" 12.7062022121789
+"9692687" 9325947 "TCGA-55-7903_t" "ACE2" 10558.6464543 "LUAD" "64" "male" "white" "I" "Primary Tumor" "TCGA" 13.3662739124308
+"9703609" 9336869 "TCGA-55-7907_t" "ACE2" 50862.6504986 "LUAD" "77" "male" "white" "II" "Primary Tumor" "TCGA" 15.6343473879249
+"9732923" 9366183 "TCGA-55-7910_t" "ACE2" 60988.2326082 "LUAD" "50" "female" "black or african american" "II" "Primary Tumor" "TCGA" 15.8962669429806
+"9748675" 9381935 "TCGA-55-7911_t" "ACE2" 19936.2773619 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 14.2831807880482
+"9772331" 9405591 "TCGA-55-7913_t" "ACE2" 54632.1139633 "LUAD" "61" "female" "black or african american" "I" "Primary Tumor" "TCGA" 15.7374880352666
+"9788539" 9421799 "TCGA-55-7914_t" "ACE2" 68007.9918924 "LUAD" "71" "female" "white" "II" "Primary Tumor" "TCGA" 16.0534378862204
+"9797662" 9430922 "TCGA-55-7994_t" "ACE2" 17874.5386135 "LUAD" "81" "male" "white" "II" "Primary Tumor" "TCGA" 14.1256990923954
+"9820967" 9454227 "TCGA-55-7995_t" "ACE2" 80427.782892 "LUAD" "73" "female" "white" "I" "Primary Tumor" "TCGA" 16.2954242678248
+"9847464" 9480724 "TCGA-55-8085_t" "ACE2" 76701.0570016 "LUAD" "64" "male" "white" "I" "Primary Tumor" "TCGA" 16.2269776481018
+"9856591" 9489851 "TCGA-55-8087_t" "ACE2" 20099.112603 "LUAD" "59" "female" "white" "I" "Primary Tumor" "TCGA" 14.2949159631096
+"9875945" 9509205 "TCGA-55-8089_t" "ACE2" 27907.8530196 "LUAD" "56" "male" "white" "I" "Primary Tumor" "TCGA" 14.7684352142029
+"9906705" 9539965 "TCGA-55-8090_t" "ACE2" 11978.9888536 "LUAD" "80" "male" "white" "I" "Primary Tumor" "TCGA" 13.548338945367
+"9919289" 9552549 "TCGA-55-8091_t" "ACE2" 39753.3276929 "LUAD" "74" "male" "white" "I" "Primary Tumor" "TCGA" 15.2788243016127
+"9946734" 9579994 "TCGA-55-8092_t" "ACE2" 37990.6724602 "LUAD" "75" "male" "white" "II" "Primary Tumor" "TCGA" 15.2133956029219
+"9965435" 9598695 "TCGA-55-8094_t" "ACE2" 8170.90259876 "LUAD" "51" "male" "white" "IV" "Primary Tumor" "TCGA" 12.9964562932947
+"9987849" 9621109 "TCGA-55-8096_t" "ACE2" 179030.191395 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 17.4498514348351
+"9996361" 9629621 "TCGA-55-8097_t" "ACE2" 4168.46526469 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 12.025646654076
+"10015222" 9648482 "TCGA-55-8203_t" "ACE2" 7196.71130855 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 12.813322523341
+"10037072" 9670332 "TCGA-55-8204_t" "ACE2" 34358.4689031 "LUAD" "87" "female" "white" "I" "Primary Tumor" "TCGA" 15.0684201163522
+"10051138" 9684398 "TCGA-55-8205_t" "ACE2" 14864.0595051 "LUAD" "76" "female" "white" "II" "Primary Tumor" "TCGA" 13.8596376179407
+"10075834" 9709094 "TCGA-55-8206_t" "ACE2" 53027.7978866 "LUAD" "56" "male" "white" "I" "Primary Tumor" "TCGA" 15.6944884238475
+"10105376" 9738636 "TCGA-55-8207_t" "ACE2" 18406.7990461 "LUAD" "73" "male" "white" "I" "Primary Tumor" "TCGA" 14.1680295187251
+"10109512" 9742772 "TCGA-55-8208_t" "ACE2" 26728.5831234 "LUAD" "73" "female" "white" "I" "Primary Tumor" "TCGA" 14.7061497169249
+"10143075" 9776335 "TCGA-55-8299_t" "ACE2" 25712.6242585 "LUAD" "61" "female" "white" "I" "Primary Tumor" "TCGA" 14.6502453476075
+"10161999" 9795259 "TCGA-55-8301_t" "ACE2" 39096.5227987 "LUAD" "58" "male" "white" "I" "Primary Tumor" "TCGA" 15.2547895814747
+"10183109" 9816369 "TCGA-55-8302_t" "ACE2" 24857.2728337 "LUAD" "54" "male" "white" "I" "Primary Tumor" "TCGA" 14.6014384401869
+"10201708" 9834968 "TCGA-55-8505_t" "ACE2" 28068.2977958 "LUAD" "62" "male" "white" "III" "Primary Tumor" "TCGA" 14.7767053522282
+"10223136" 9856396 "TCGA-55-8506_t" "ACE2" 24284.0816839 "LUAD" "62" "female" "white" "II" "Primary Tumor" "TCGA" 14.5677827184851
+"10231985" 9865245 "TCGA-55-8507_t" "ACE2" 18206.2310826 "LUAD" "53" "male" "white" "I" "Primary Tumor" "TCGA" 14.1522239165188
+"10249424" 9882684 "TCGA-55-8508_t" "ACE2" 9968.2580527 "LUAD" "60" "female" "black or african american" "II" "Primary Tumor" "TCGA" 13.2832704228341
+"10268609" 9901869 "TCGA-55-8510_t" "ACE2" 69164.6637733 "LUAD" "55" "female" "white" "I" "Primary Tumor" "TCGA" 16.0777683914315
+"10301379" 9934639 "TCGA-55-8511_t" "ACE2" 2699.50150863 "LUAD" "73" "female" "white" "I" "Primary Tumor" "TCGA" 11.399011638911
+"10308349" 9941609 "TCGA-55-8512_t" "ACE2" 19847.7019669 "LUAD" "41" "male" "white" "IV" "Primary Tumor" "TCGA" 14.2767570429808
+"10328154" 9961414 "TCGA-55-8513_t" "ACE2" 43231.8240124 "LUAD" "77" "female" "white" "II" "Primary Tumor" "TCGA" 15.3998394571808
+"10359251" 9992511 "TCGA-55-8514_t" "ACE2" 62841.7070755 "LUAD" "70" "female" "black or african american" "I" "Primary Tumor" "TCGA" 15.9394577084992
+"10376033" 10009293 "TCGA-55-8614_t" "ACE2" 11378.3358436 "LUAD" "76" "male" "white" "I" "Primary Tumor" "TCGA" 13.4741287365695
+"10383974" 10017234 "TCGA-55-8615_t" "ACE2" 10341.4843118 "LUAD" "67" "male" "white" "III" "Primary Tumor" "TCGA" 13.3362951487439
+"10419722" 10052982 "TCGA-55-8616_t" "ACE2" 4829.9748793 "LUAD" "58" "female" "white" "I" "Primary Tumor" "TCGA" 12.2380986355477
+"10427972" 10061232 "TCGA-55-8619_t" "ACE2" 13429.464424 "LUAD" "72" "female" "white" "II" "Primary Tumor" "TCGA" 13.7132215734151
+"10445672" 10078932 "TCGA-55-8620_t" "ACE2" 2097.62967846 "LUAD" "60" "male" "white" "IV" "Primary Tumor" "TCGA" 11.0352318976075
+"10466182" 10099442 "TCGA-55-8621_t" "ACE2" 15744.387993 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 13.9426416879075
+"10493684" 10126944 "TCGA-55-A48X_t" "ACE2" 28771.2698249 "LUAD" "63" "female" "white" "II" "Primary Tumor" "TCGA" 14.8123914183519
+"10517138" 10150398 "TCGA-55-A48Y_t" "ACE2" 207084.283154 "LUAD" "69" "male" "white" "II" "Primary Tumor" "TCGA" 17.6598655042137
+"10526635" 10159895 "TCGA-55-A48Z_t" "ACE2" 27401.2162328 "LUAD" "60" "female" "white" "III" "Primary Tumor" "TCGA" 14.7420049595516
+"10554269" 10187529 "TCGA-55-A490_t" "ACE2" 10702.1922371 "LUAD" "78" "male" "white" "II" "Primary Tumor" "TCGA" 13.385753525501
+"10566594" 10199854 "TCGA-55-A491_t" "ACE2" 27354.4673948 "LUAD" "81" "female" "white" "I" "Primary Tumor" "TCGA" 14.7395415853302
+"10591720" 10224980 "TCGA-55-A492_t" "ACE2" 596285.417337 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 19.1856459487744
+"10602102" 10235362 "TCGA-55-A493_t" "ACE2" 4649.40823086 "LUAD" "54" "female" "white" "I" "Primary Tumor" "TCGA" 12.1831416518045
+"10629307" 10262567 "TCGA-55-A494_t" "ACE2" 7138.28604993 "LUAD" "61" "female" "white" "I" "Primary Tumor" "TCGA" 12.8015640922882
+"10641308" 10274568 "TCGA-55-A4DF_t" "ACE2" 22776.3875161 "LUAD" "88" "male" "white" "I" "Primary Tumor" "TCGA" 14.4753146641852
+"10660693" 10293953 "TCGA-55-A4DG_t" "ACE2" 5257.89550235 "LUAD" "71" "male" "white" "I" "Primary Tumor" "TCGA" 12.3605441144833
+"10689636" 10322896 "TCGA-55-A57B_t" "ACE2" 92614.5212808 "LUAD" "80" "female" "black or african american" "I" "Primary Tumor" "TCGA" 16.4989663721535
+"10709738" 12146198 "TCGA-62-8394_t" "ACE2" 36864.4205528 "LUAD" "65" "female" "white" "III" "Primary Tumor" "TCGA" 15.1699805945682
+"10719494" 12155954 "TCGA-62-8395_t" "ACE2" 65169.0773892 "LUAD" "80" "female" "white" "II" "Primary Tumor" "TCGA" 15.9919220876992
+"10740499" 12176959 "TCGA-62-8397_t" "ACE2" 584134.278079 "LUAD" "70" "female" "white" "II" "Primary Tumor" "TCGA" 19.1559429915098
+"10767538" 12203998 "TCGA-62-8398_t" "ACE2" 22153.2431045 "LUAD" "55" "male" "white" "III" "Primary Tumor" "TCGA" 14.4352954178137
+"10779958" 12216418 "TCGA-62-8399_t" "ACE2" 24672.1205038 "LUAD" "62" "male" "white" "III" "Primary Tumor" "TCGA" 14.5906525698797
+"10800294" 12236754 "TCGA-62-8402_t" "ACE2" 10361.6178394 "LUAD" "73" "female" "white" "III" "Primary Tumor" "TCGA" 13.3391008870945
+"10828915" 12265375 "TCGA-62-A46O_t" "ACE2" 32129.7892286 "LUAD" "65" "female" "white" "I" "Primary Tumor" "TCGA" 14.9716687977134
+"10846435" 12282895 "TCGA-62-A46P_t" "ACE2" 5482.21569229 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 12.4208065104538
+"10860656" 12297116 "TCGA-62-A46R_t" "ACE2" 7759.40020099 "LUAD" "54" "female" "white" "I" "Primary Tumor" "TCGA" 12.9219153382467
+"10889290" 12325750 "TCGA-62-A46S_t" "ACE2" 21507.248572 "LUAD" "73" "male" "white" "I" "Primary Tumor" "TCGA" 14.392602429677
+"10909303" 12345763 "TCGA-62-A46V_t" "ACE2" 406949.51261 "LUAD" "78" "female" "white" "I" "Primary Tumor" "TCGA" 18.6344938400512
+"10927833" 12364293 "TCGA-62-A46Y_t" "ACE2" 45661.2813534 "LUAD" "70" "female" "white" "III" "Primary Tumor" "TCGA" 15.4787153200366
+"10932681" 12369141 "TCGA-62-A470_t" "ACE2" 44781.0682159 "LUAD" "84" "male" "white" "I" "Primary Tumor" "TCGA" 15.4506335387341
+"10957526" 12393986 "TCGA-62-A471_t" "ACE2" 34879.9941586 "LUAD" "64" "male" "white" "II" "Primary Tumor" "TCGA" 15.090153539138
+"10974004" 12410464 "TCGA-62-A472_t" "ACE2" 15887.9871686 "LUAD" "70" "male" "white" "II" "Primary Tumor" "TCGA" 13.9557395436689
+"11007471" 12914331 "TCGA-64-1676_t" "ACE2" 3156.77366683 "LUAD" "58" "male" "white" "I" "Primary Tumor" "TCGA" 11.6246920545165
+"11016976" 12923836 "TCGA-64-1677_t" "ACE2" 24121.558873 "LUAD" "77" "female" "white" "III" "Primary Tumor" "TCGA" 14.5580953331215
+"11032427" 12939287 "TCGA-64-1678_t" "ACE2" 3631.33447392 "LUAD" "70" "female" "white" NA "Primary Tumor" "TCGA" 11.8266813401676
+"11056165" 12963025 "TCGA-64-1679_t" "ACE2" 141370.618009 "LUAD" "58" "female" "white" "III" "Primary Tumor" "TCGA" 17.1091329859021
+"11073788" 12980648 "TCGA-64-1680_t" "ACE2" 32409.5217944 "LUAD" "63" "male" "white" "IV" "Primary Tumor" "TCGA" 14.9841746271146
+"11100987" 13007847 "TCGA-64-1681_t" "ACE2" 116277.456701 "LUAD" "61" "female" "white" "I" "Primary Tumor" "TCGA" 16.8272243030653
+"11122666" 13029526 "TCGA-64-5774_t" "ACE2" 12680.1331794 "LUAD" "60" "male" "white" "I" "Primary Tumor" "TCGA" 13.6303960492582
+"11134742" 13041602 "TCGA-64-5775_t" "ACE2" 136.282597775 "LUAD" "71" "male" "white" "III" "Primary Tumor" "TCGA" 7.10100494785339
+"11147347" 13054207 "TCGA-64-5778_t" "ACE2" 23129.368921 "LUAD" "60" "male" "white" "I" "Primary Tumor" "TCGA" 14.49750065617
+"11183540" 13090400 "TCGA-64-5779_t" "ACE2" 5940.808752 "LUAD" "61" "male" "white" "III" "Primary Tumor" "TCGA" 12.5366864547998
+"11200148" 13107008 "TCGA-64-5781_t" "ACE2" 34305.9120891 "LUAD" "55" "female" "white" "I" "Primary Tumor" "TCGA" 15.0662116565897
+"11207394" 13114254 "TCGA-64-5815_t" "ACE2" 3742.52980044 "LUAD" "74" "male" "white" "II" "Primary Tumor" "TCGA" 11.8701835237572
+"11232661" 13903921 "TCGA-67-3770_t" "ACE2" 106731.6 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 16.7036413692026
+"11261604" 13932864 "TCGA-67-3771_t" "ACE2" 6468.354 "LUAD" "77" "female" "black or african american" "I" "Primary Tumor" "TCGA" 12.6594059431663
+"11267577" 13938837 "TCGA-67-3772_t" "ACE2" 101338.8 "LUAD" "82" "female" "white" "I" "Primary Tumor" "TCGA" 16.62884136117
+"11291777" 13963037 "TCGA-67-3773_t" "ACE2" 27563.06 "LUAD" "84" "female" "white" "I" "Primary Tumor" "TCGA" 14.7505007824854
+"11310972" 13982232 "TCGA-67-3774_t" "ACE2" 38760.55 "LUAD" "73" "female" "white" "I" "Primary Tumor" "TCGA" 15.2423386420621
+"11330663" 14001923 "TCGA-67-4679_t" "ACE2" 14885.78 "LUAD" "69" "male" "white" NA "Primary Tumor" "TCGA" 13.8617441132947
+"11346719" 14017979 "TCGA-67-6215_t" "ACE2" 11383.78 "LUAD" "52" "female" "white" "I" "Primary Tumor" "TCGA" 13.4748187925896
+"11376456" 14047716 "TCGA-67-6216_t" "ACE2" 25407.7 "LUAD" "57" "female" "white" "I" "Primary Tumor" "TCGA" 14.6330349433889
+"11389870" 14061130 "TCGA-67-6217_t" "ACE2" 57295.4 "LUAD" "73" "female" "white" "II" "Primary Tumor" "TCGA" 15.806156875158
+"11406902" 14215362 "TCGA-69-7760_t" "ACE2" 171132.3 "LUAD" "73" "male" "white" "II" "Primary Tumor" "TCGA" 17.384760988621
+"11421426" 14229886 "TCGA-69-7761_t" "ACE2" 129301.6 "LUAD" "84" "male" "white" "I" "Primary Tumor" "TCGA" 16.9803917594024
+"11457030" 14265490 "TCGA-69-7763_t" "ACE2" 32875.95 "LUAD" "69" "male" "white" "I" "Primary Tumor" "TCGA" 15.0047888457232
+"11476366" 14284826 "TCGA-69-7764_t" "ACE2" 292356.1 "LUAD" "75" "male" "white" "I" "Primary Tumor" "TCGA" 18.1573721025604
+"11484390" 14292850 "TCGA-69-7765_t" "ACE2" 34403.5 "LUAD" "56" "male" "black or african american" NA "Primary Tumor" "TCGA" 15.070309656776
+"11506994" 14315454 "TCGA-69-7973_t" "ACE2" 12213.42 "LUAD" "42" "female" "white" "I" "Primary Tumor" "TCGA" 13.5762977386118
+"11532268" 14340728 "TCGA-69-7974_t" "ACE2" 8373.67 "LUAD" "54" "female" "white" "III" "Primary Tumor" "TCGA" 13.0318166275087
+"11555409" 14363869 "TCGA-69-7978_t" "ACE2" 30297.71 "LUAD" "59" "male" "white" "II" "Primary Tumor" "TCGA" 14.8869687502701
+"11575286" 14383746 "TCGA-69-7979_t" "ACE2" 1316.542 "LUAD" "71" "female" "white" "I" "Primary Tumor" "TCGA" 10.3636332368289
+"11591117" 14399577 "TCGA-69-7980_t" "ACE2" 15523.5 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 13.9222591836386
+"11615319" 14423779 "TCGA-69-8253_t" "ACE2" 65838.49 "LUAD" "59" "female" "black or african american" "II" "Primary Tumor" "TCGA" 16.0066655400763
+"11622426" 14430886 "TCGA-69-8254_t" "ACE2" 41882.57 "LUAD" "85" "male" "white" NA "Primary Tumor" "TCGA" 15.354096797028
+"11651167" 14459627 "TCGA-69-8255_t" "ACE2" 10054.43 "LUAD" "71" "male" "white" "I" "Primary Tumor" "TCGA" 13.2956871564292
+"11660537" 14468997 "TCGA-69-8453_t" "ACE2" 18974.41 "LUAD" "77" "male" "white" "II" "Primary Tumor" "TCGA" 14.2118434377107
+"11690646" 14499106 "TCGA-69-A59K_t" "ACE2" 7885.649 "LUAD" "60" "female" "black or african american" "II" "Primary Tumor" "TCGA" 12.9451967207679
+"11703300" 14570560 "TCGA-71-6725_t" "ACE2" 15620.77 "LUAD" "48" "female" "asian" "I" "Primary Tumor" "TCGA" 13.9312703045756
+"11722982" 14590242 "TCGA-71-8520_t" "ACE2" 184829.6 "LUAD" "60" "female" "asian" "I" "Primary Tumor" "TCGA" 17.4958440992301
+"11749603" 14616863 "TCGA-73-4658_t" "ACE2" 31122.13 "LUAD" "80" "female" "white" "I" "Primary Tumor" "TCGA" 14.9256995365447
+"11770540" 14637800 "TCGA-73-4659_t" "ACE2" 37459.71 "LUAD" "66" "male" "white" "III" "Primary Tumor" "TCGA" 15.1930906230645
+"11781220" 14648480 "TCGA-73-4662_t" "ACE2" 9837.495 "LUAD" "65" "female" "white" "I" "Primary Tumor" "TCGA" 13.2642219272492
+"11799646" 14666906 "TCGA-73-4666_t" "ACE2" 10218.66 "LUAD" "52" "female" "white" "IV" "Primary Tumor" "TCGA" 13.3190595793012
+"11819416" 14686676 "TCGA-73-4668_t" "ACE2" 17778.57 "LUAD" "66" "female" "american indian or alaska native" "II" "Primary Tumor" "TCGA" 14.1179328124703
+"11839253" 14706513 "TCGA-73-4670_t" "ACE2" 27744.96 "LUAD" "69" "female" "white" "IV" "Primary Tumor" "TCGA" 14.7599901001193
+"11853496" 14720756 "TCGA-73-4675_t" "ACE2" 16341.42 "LUAD" "59" "male" "white" "III" "Primary Tumor" "TCGA" 13.9963340144092
+"11887565" 14774425 "TCGA-73-4676_t" "ACE2" 17773.2 "LUAD" "45" "male" "white" "II" "Primary Tumor" "TCGA" 14.1174970065105
+"11907657" 14794517 "TCGA-73-4677_t" "ACE2" 190996.2 "LUAD" "74" "male" "white" NA "Primary Tumor" "TCGA" 17.5431919630867
+"11925352" 14812212 "TCGA-73-7498_t" "ACE2" 85998.87 "LUAD" "58" "female" "white" "I" "Primary Tumor" "TCGA" 16.3920468585445
+"11936189" 14823049 "TCGA-73-7499_t" "ACE2" 14019.54 "LUAD" "81" "female" "white" "I" "Primary Tumor" "TCGA" 13.7752542952546
+"11957183" 14844043 "TCGA-73-A9RS_t" "ACE2" 2488.031 "LUAD" "41" "male" "black or african american" "II" "Primary Tumor" "TCGA" 11.281368483349
+"11982821" 14869681 "TCGA-75-5122_t" "ACE2" 3992.354 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 11.963385253304
+"11996968" 14883828 "TCGA-75-5125_t" "ACE2" 68692.68 "LUAD" "--" "male" "not reported" "II" "Primary Tumor" "TCGA" 16.0678897529439
+"12013092" 14899952 "TCGA-75-5126_t" "ACE2" 14876.64 "LUAD" "--" "female" "not reported" "III" "Primary Tumor" "TCGA" 13.8608580733122
+"12033060" 14919920 "TCGA-75-5146_t" "ACE2" 16200.08 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 13.9838023691229
+"12054036" 14940896 "TCGA-75-5147_t" "ACE2" 361853.8 "LUAD" "--" "female" "not reported" "I" "Primary Tumor" "TCGA" 18.4650513835056
+"12081612" 14968472 "TCGA-75-6203_t" "ACE2" 43395.41 "LUAD" "--" "female" "not reported" "III" "Primary Tumor" "TCGA" 15.405288079145
+"12094547" 14981407 "TCGA-75-6205_t" "ACE2" 10940.02 "LUAD" "--" "female" "not reported" "I" "Primary Tumor" "TCGA" 13.4174596222819
+"12120351" 15007211 "TCGA-75-6206_t" "ACE2" 91769.02 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 16.4857353015821
+"12143865" 15030725 "TCGA-75-6207_t" "ACE2" 22886.05 "LUAD" "--" "male" "not reported" "III" "Primary Tumor" "TCGA" 14.4822438999074
+"12146554" 15033414 "TCGA-75-6211_t" "ACE2" 11162.51 "LUAD" "--" "female" "not reported" "I" "Primary Tumor" "TCGA" 13.4465030862352
+"12178202" 15065062 "TCGA-75-6212_t" "ACE2" 95219.5 "LUAD" "--" "female" "not reported" "II" "Primary Tumor" "TCGA" 16.5389845840121
+"12193141" 15080001 "TCGA-75-6214_t" "ACE2" 13977.74 "LUAD" "--" "female" "not reported" "III" "Primary Tumor" "TCGA" 13.7709467060944
+"12212519" 15099379 "TCGA-75-7025_t" "ACE2" 67194.99 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 16.0360875205932
+"12228739" 15115599 "TCGA-75-7027_t" "ACE2" 5525.132 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 12.4320543081717
+"12251865" 15138725 "TCGA-75-7030_t" "ACE2" 39906.55 "LUAD" "--" "male" "not reported" "II" "Primary Tumor" "TCGA" 15.2843740913391
+"12276903" 15163763 "TCGA-75-7031_t" "ACE2" 34799.87 "LUAD" "--" "female" "not reported" "I" "Primary Tumor" "TCGA" 15.0868357525486
+"12285417" 16171877 "TCGA-78-7143_t" "ACE2" 46780.07 "LUAD" "62" "female" "white" "I" "Primary Tumor" "TCGA" 15.5136372396588
+"12317556" 16204016 "TCGA-78-7145_t" "ACE2" 81811.53 "LUAD" "52" "female" "white" "IV" "Primary Tumor" "TCGA" 16.3200341956322
+"12336040" 16222500 "TCGA-78-7146_t" "ACE2" 23339.58 "LUAD" "71" "female" "white" "III" "Primary Tumor" "TCGA" 14.5105527911828
+"12356545" 16243005 "TCGA-78-7147_t" "ACE2" 40356.29 "LUAD" "67" "female" "white" "II" "Primary Tumor" "TCGA" 15.3005416799891
+"12362157" 16248617 "TCGA-78-7148_t" "ACE2" 245667.3 "LUAD" "71" "male" "white" "II" "Primary Tumor" "TCGA" 17.9063521848707
+"12397473" 16283933 "TCGA-78-7149_t" "ACE2" 182740.8 "LUAD" "71" "male" "white" "III" "Primary Tumor" "TCGA" 17.4794471453765
+"12415227" 16301687 "TCGA-78-7150_t" "ACE2" 20503.72 "LUAD" "59" "male" "white" "II" "Primary Tumor" "TCGA" 14.323668422782
+"12427436" 16313896 "TCGA-78-7152_t" "ACE2" 21247.87 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 14.3750985013295
+"12443714" 16330174 "TCGA-78-7153_t" "ACE2" 11995.28 "LUAD" "65" "female" "white" "I" "Primary Tumor" "TCGA" 13.5502994805847
+"12475558" 16362018 "TCGA-78-7154_t" "ACE2" 31265.82 "LUAD" "72" "male" "white" "III" "Primary Tumor" "TCGA" 14.9323448766019
+"12485986" 16372446 "TCGA-78-7155_t" "ACE2" 2469.056 "LUAD" "68" "male" "white" "I" "Primary Tumor" "TCGA" 11.2703280349767
+"12505329" 16391789 "TCGA-78-7156_t" "ACE2" 3915917 "LUAD" "62" "male" "white" "IV" "Primary Tumor" "TCGA" 21.9009191242985
+"12526190" 16412650 "TCGA-78-7158_t" "ACE2" 138717 "LUAD" "59" "female" "white" "III" "Primary Tumor" "TCGA" 17.0817954778577
+"12551138" 16437598 "TCGA-78-7159_t" "ACE2" 18562.82 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 14.1802059934627
+"12565976" 16452436 "TCGA-78-7160_t" "ACE2" 434980.8 "LUAD" "61" "male" "white" "IV" "Primary Tumor" "TCGA" 18.7305955131015
+"12579034" 16465494 "TCGA-78-7161_t" "ACE2" 33512.3 "LUAD" "69" "female" "white" "II" "Primary Tumor" "TCGA" 15.0324461329145
+"12603416" 16489876 "TCGA-78-7162_t" "ACE2" 337924.1 "LUAD" "75" "male" "white" "I" "Primary Tumor" "TCGA" 18.3663439877105
+"12622104" 16508564 "TCGA-78-7163_t" "ACE2" 73040.19 "LUAD" "60" "male" "white" "I" "Primary Tumor" "TCGA" 16.1564226497061
+"12652182" 16538642 "TCGA-78-7166_t" "ACE2" 118099.3 "LUAD" "84" "male" "white" "II" "Primary Tumor" "TCGA" 16.8496531039302
+"12663461" 16549921 "TCGA-78-7167_t" "ACE2" 81905.48 "LUAD" "77" "male" "white" "IV" "Primary Tumor" "TCGA" 16.3216899742002
+"12683397" 16569857 "TCGA-78-7220_t" "ACE2" 137536.8 "LUAD" "53" "female" "white" "III" "Primary Tumor" "TCGA" 17.0694686485504
+"12695607" 16582067 "TCGA-78-7535_t" "ACE2" 27727.11 "LUAD" "45" "male" "white" "I" "Primary Tumor" "TCGA" 14.7590616624774
+"12720427" 16606887 "TCGA-78-7536_t" "ACE2" 80150.54 "LUAD" "69" "male" "white" "III" "Primary Tumor" "TCGA" 16.2904426195677
+"12741615" 16628075 "TCGA-78-7537_t" "ACE2" 33010.58 "LUAD" "72" "male" "not reported" "I" "Primary Tumor" "TCGA" 15.0106845700219
+"12768714" 16655174 "TCGA-78-7539_t" "ACE2" 37933.73 "LUAD" "75" "female" "white" "II" "Primary Tumor" "TCGA" 15.2112316489431
+"12788906" 16675366 "TCGA-78-7540_t" "ACE2" 35306.64 "LUAD" "66" "female" "white" "I" "Primary Tumor" "TCGA" 15.1076927726072
+"12798419" 16684879 "TCGA-78-7542_t" "ACE2" 18257 "LUAD" "56" "male" "white" "I" "Primary Tumor" "TCGA" 14.1562411192358
+"12829094" 16715554 "TCGA-78-7633_t" "ACE2" 359375.4 "LUAD" "67" "male" "white" "I" "Primary Tumor" "TCGA" 18.4551361456083
+"12839855" 16726315 "TCGA-78-8640_t" "ACE2" 6440.645 "LUAD" "59" "male" "not reported" "II" "Primary Tumor" "TCGA" 12.6532134404384
+"12869719" 16756179 "TCGA-78-8648_t" "ACE2" 12417.66 "LUAD" "58" "female" "not reported" "II" "Primary Tumor" "TCGA" 13.6002218916223
+"12878547" 16765007 "TCGA-78-8655_t" "ACE2" 18931.31 "LUAD" "77" "female" "not reported" "I" "Primary Tumor" "TCGA" 14.2085628297999
+"12898244" 16784704 "TCGA-78-8660_t" "ACE2" 53429.68 "LUAD" "69" "male" "not reported" "II" "Primary Tumor" "TCGA" 15.7053807576756
+"12928513" 16814973 "TCGA-78-8662_t" "ACE2" 24823.64 "LUAD" "53" "female" "not reported" "I" "Primary Tumor" "TCGA" 14.599485175894
+"12937524" 16843584 "TCGA-80-5607_t" "ACE2" 7088.764 "LUAD" "--" "female" "not reported" "II" "Primary Tumor" "TCGA" 12.7915218893206
+"12966893" 16872953 "TCGA-80-5608_t" "ACE2" 27375.5 "LUAD" "--" "female" "not reported" "I" "Primary Tumor" "TCGA" 14.7406503938806
+"12986904" 16892964 "TCGA-80-5611_t" "ACE2" 2156.294 "LUAD" "--" "male" "not reported" "I" "Primary Tumor" "TCGA" 11.0750070876967
+"13002932" 16908992 "TCGA-83-5908_t" "ACE2" 7592.724 "LUAD" "59" "female" "white" "I" "Primary Tumor" "TCGA" 12.8905918486616
+"13025021" 17930681 "TCGA-86-6562_t" "ACE2" 56562.11 "LUAD" "52" "male" "white" "II" "Primary Tumor" "TCGA" 15.7875738253373
+"13043540" 17949200 "TCGA-86-6851_t" "ACE2" 31793.65 "LUAD" "73" "female" "white" "II" "Primary Tumor" "TCGA" 14.9564964070776
+"13055542" 17961202 "TCGA-86-7701_t" "ACE2" 17264.12 "LUAD" "66" "male" "white" "IV" "Primary Tumor" "TCGA" 14.0755727411258
+"13074898" 17980558 "TCGA-86-7711_t" "ACE2" 122265 "LUAD" "70" "male" "white" "II" "Primary Tumor" "TCGA" 16.899663746242
+"13094665" 18000325 "TCGA-86-7713_t" "ACE2" 10178.11 "LUAD" "70" "male" "white" "II" "Primary Tumor" "TCGA" 13.3133238059221
+"13113926" 18019586 "TCGA-86-7714_t" "ACE2" 22848.55 "LUAD" "61" "female" "black or african american" "III" "Primary Tumor" "TCGA" 14.4798781326157
+"13132862" 18038522 "TCGA-86-7953_t" "ACE2" 65249.14 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 15.9936933766663
+"13153292" 18058952 "TCGA-86-7954_t" "ACE2" 52731.29 "LUAD" "68" "female" "white" "I" "Primary Tumor" "TCGA" 15.686399029404
+"13172577" 18078237 "TCGA-86-7955_t" "ACE2" 25506.19 "LUAD" "62" "male" "white" "I" "Primary Tumor" "TCGA" 14.6386163527211
+"13189172" 18094832 "TCGA-86-8054_t" "ACE2" 5016.446 "LUAD" "61" "male" "white" "II" "Primary Tumor" "TCGA" 12.2927374694037
+"13219036" 18124696 "TCGA-86-8055_t" "ACE2" 35172.95 "LUAD" "79" "male" "white" "II" "Primary Tumor" "TCGA" 15.1022197368449
+"13230778" 18136438 "TCGA-86-8056_t" "ACE2" 18789.12 "LUAD" "63" "female" "white" "III" "Primary Tumor" "TCGA" 14.1976866598706
+"13244293" 18149953 "TCGA-86-8073_t" "ACE2" 37331.36 "LUAD" "58" "male" "white" "I" "Primary Tumor" "TCGA" 15.1881390923875
+"13276129" 18181789 "TCGA-86-8074_t" "ACE2" 20115.6 "LUAD" "62" "female" "white" "II" "Primary Tumor" "TCGA" 14.2960988687069
+"13290069" 18195729 "TCGA-86-8075_t" "ACE2" 29707.25 "LUAD" "66" "female" "white" "I" "Primary Tumor" "TCGA" 14.8585760035487
+"13306440" 18212100 "TCGA-86-8076_t" "ACE2" 65571.44 "LUAD" "42" "male" "white" "I" "Primary Tumor" "TCGA" 16.0008019591819
+"13329949" 18235609 "TCGA-86-8278_t" "ACE2" 30725.31 "LUAD" "63" "female" "white" "II" "Primary Tumor" "TCGA" 14.9071868999998
+"13347218" 18252878 "TCGA-86-8279_t" "ACE2" 7916.522 "LUAD" "46" "male" "white" "II" "Primary Tumor" "TCGA" 12.9508332556616
+"13368075" 18273735 "TCGA-86-8280_t" "ACE2" 122144.6 "LUAD" "54" "female" "white" "II" "Primary Tumor" "TCGA" 16.8982423693763
+"13385584" 18291244 "TCGA-86-8281_t" "ACE2" 174368.6 "LUAD" "75" "male" "white" "I" "Primary Tumor" "TCGA" 17.4117890136791
+"13408666" 18314326 "TCGA-86-8358_t" "ACE2" 996.429 "LUAD" "44" "male" "white" "I" "Primary Tumor" "TCGA" 9.9620703393869
+"13420620" 18326280 "TCGA-86-8359_t" "ACE2" 18988.83 "LUAD" "52" "male" "white" "III" "Primary Tumor" "TCGA" 14.2129393698576
+"13447371" 18353031 "TCGA-86-8585_t" "ACE2" 10482.74 "LUAD" "57" "male" "white" "I" "Primary Tumor" "TCGA" 13.3558658594881
+"13476666" 18382326 "TCGA-86-8668_t" "ACE2" 25773.56 "LUAD" "61" "female" "white" "I" "Primary Tumor" "TCGA" 14.6536601789668
+"13495519" 18401179 "TCGA-86-8669_t" "ACE2" 178089.4 "LUAD" "64" "male" "white" "I" "Primary Tumor" "TCGA" 17.4422502241965
+"13515632" 18421292 "TCGA-86-8671_t" "ACE2" 469890.3 "LUAD" "72" "female" "white" "II" "Primary Tumor" "TCGA" 18.8419675310393
+"13525541" 18431201 "TCGA-86-8672_t" "ACE2" 5233.812 "LUAD" "59" "male" "white" "II" "Primary Tumor" "TCGA" 12.3539220106361
+"13542345" 18448005 "TCGA-86-8673_t" "ACE2" 90740.45 "LUAD" "61" "male" "white" "I" "Primary Tumor" "TCGA" 16.46947409292
+"13573136" 18478796 "TCGA-86-8674_t" "ACE2" 60263.13 "LUAD" "50" "male" "white" "II" "Primary Tumor" "TCGA" 15.8790119261351
+"13585069" 18490729 "TCGA-86-A456_t" "ACE2" 105903.5 "LUAD" "78" "female" "asian" "I" "Primary Tumor" "TCGA" 16.6924043667864
+"13597906" 18503566 "TCGA-86-A4D0_t" "ACE2" 9487.158 "LUAD" "48" "male" "white" "II" "Primary Tumor" "TCGA" 13.2119123189894
+"13623681" 18529341 "TCGA-86-A4JF_t" "ACE2" 8626.408 "LUAD" "56" "male" "white" "II" "Primary Tumor" "TCGA" 13.074711468953
+"13653144" 18558804 "TCGA-86-A4P7_t" "ACE2" 13722.26 "LUAD" "63" "female" "white" "I" "Primary Tumor" "TCGA" 13.7443356181419
+"13668587" 18574247 "TCGA-86-A4P8_t" "ACE2" 14270.52 "LUAD" "59" "female" "white" "III" "Primary Tumor" "TCGA" 13.8008513779707
+"13685515" 18799986 "TCGA-91-6828_t" "ACE2" 9353.365 "LUAD" "70" "male" "white" "I" "Primary Tumor" "TCGA" 13.1914240073484
+"13709520" 18849691 "TCGA-91-6829_t" "ACE2" 17007.81 "LUAD" "78" "male" "white" "I" "Primary Tumor" "TCGA" 14.0539945877374
+"13715067" 18855927 "TCGA-91-6830_t" "ACE2" 377373.1 "LUAD" "65" "female" "white" "II" "Primary Tumor" "TCGA" 18.5256358854945
+"13738805" 18880994 "TCGA-91-6831_t" "ACE2" 4302.571 "LUAD" "66" "male" "white" "I" "Primary Tumor" "TCGA" 12.0713185551636
+"13761900" 18924319 "TCGA-91-6835_t" "ACE2" 32215.64 "LUAD" "81" "female" "white" "I" "Primary Tumor" "TCGA" 14.9755184171039
+"13779177" 18967408 "TCGA-91-6836_t" "ACE2" 3331.991 "LUAD" "52" "female" "white" "I" "Primary Tumor" "TCGA" 11.7026017064388
+"13797303" 18996963 "TCGA-91-6840_t" "ACE2" 73601.25 "LUAD" "59" "female" "white" "I" "Primary Tumor" "TCGA" 16.1674622492859
+"13814495" 19014709 "TCGA-91-6847_t" "ACE2" 3718.749 "LUAD" "62" "female" "white" "I" "Primary Tumor" "TCGA" 11.8609895595781
+"13839709" 19058969 "TCGA-91-6848_t" "ACE2" 1559.065 "LUAD" "59" "male" "white" "III" "Primary Tumor" "TCGA" 10.6073904247907
+"13866674" 19095599 "TCGA-91-6849_t" "ACE2" 351408.5 "LUAD" "75" "female" "black or african american" "III" "Primary Tumor" "TCGA" 18.4227936681099
+"13874591" 19113451 "TCGA-91-7771_t" "ACE2" 19185.46 "LUAD" "62" "male" "white" "II" "Primary Tumor" "TCGA" 14.2278009310222
+"13906514" 19145374 "TCGA-91-8496_t" "ACE2" 14868.98 "LUAD" "63" "female" "white" "I" "Primary Tumor" "TCGA" 13.8601150865282
+"13916620" 19155480 "TCGA-91-8497_t" "ACE2" 25420.38 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 14.6337547287404
+"13936295" 19175155 "TCGA-91-8499_t" "ACE2" 2209.399 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 11.1100910992399
+"13962421" 19201281 "TCGA-91-A4BC_t" "ACE2" 329.7245 "LUAD" "59" "male" "white" "II" "Primary Tumor" "TCGA" 8.36948611380165
+"13976998" 19215858 "TCGA-91-A4BD_t" "ACE2" 22314.02 "LUAD" "78" "male" "white" "II" "Primary Tumor" "TCGA" 14.4457274791658
+"14002832" 19359292 "TCGA-93-7347_t" "ACE2" 40811.52 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 15.3167241731952
+"14015942" 19372402 "TCGA-93-7348_t" "ACE2" 20012.83 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 14.2887096584008
+"14042360" 19398820 "TCGA-93-8067_t" "ACE2" 55447.04 "LUAD" "77" "male" "asian" "I" "Primary Tumor" "TCGA" 15.7588488438633
+"14054808" 19411268 "TCGA-93-A4JN_t" "ACE2" 17951.96 "LUAD" "71" "male" "white" "IV" "Primary Tumor" "TCGA" 14.1319341080135
+"14068957" 19425417 "TCGA-93-A4JO_t" "ACE2" 5699.676 "LUAD" "70" "male" "white" "I" "Primary Tumor" "TCGA" 12.4769172923642
+"14090693" 19447153 "TCGA-93-A4JP_t" "ACE2" 82054.93 "LUAD" "64" "male" "asian" "IV" "Primary Tumor" "TCGA" 16.3243199774256
+"14113359" 19469819 "TCGA-93-A4JQ_t" "ACE2" 18247.42 "LUAD" "49" "male" "white" "I" "Primary Tumor" "TCGA" 14.1554839363178
+"14140981" 19673841 "TCGA-95-7039_t" "ACE2" 11267.18 "LUAD" "54" "female" "white" "II" "Primary Tumor" "TCGA" 13.4599668944375
+"14159721" 19692581 "TCGA-95-7043_t" "ACE2" 99091.68 "LUAD" "63" "female" "white" "I" "Primary Tumor" "TCGA" 16.5964908686691
+"14172745" 19705605 "TCGA-95-7562_t" "ACE2" 18081.61 "LUAD" "71" "male" "black or african american" "II" "Primary Tumor" "TCGA" 14.1423153074296
+"14190431" 19723291 "TCGA-95-7567_t" "ACE2" 7489.24 "LUAD" "61" "male" "white" "II" "Primary Tumor" "TCGA" 12.870796230484
+"14204604" 19737464 "TCGA-95-7944_t" "ACE2" 13244.73 "LUAD" "71" "male" "white" "I" "Primary Tumor" "TCGA" 13.6932397354018
+"14224175" 19757035 "TCGA-95-7947_t" "ACE2" 56305.01 "LUAD" "67" "male" "white" "I" "Primary Tumor" "TCGA" 15.7810013006904
+"14251144" 19784004 "TCGA-95-7948_t" "ACE2" 12031.54 "LUAD" "42" "female" "white" "I" "Primary Tumor" "TCGA" 13.5546535988386
+"14270507" 19803367 "TCGA-95-8039_t" "ACE2" 53328.17 "LUAD" "72" "male" "white" "I" "Primary Tumor" "TCGA" 15.7026372540507
+"14283742" 19816602 "TCGA-95-8494_t" "ACE2" 7022.91 "LUAD" "67" "male" "white" "II" "Primary Tumor" "TCGA" 12.7780586438597
+"14309611" 19842471 "TCGA-95-A4VK_t" "ACE2" 958637.2 "LUAD" "74" "female" "white" "III" "Primary Tumor" "TCGA" 19.8706269043295
+"14323995" 19856855 "TCGA-95-A4VN_t" "ACE2" 18927.85 "LUAD" "62" "female" "white" "II" "Primary Tumor" "TCGA" 14.2082991440145
+"14348973" 19881833 "TCGA-95-A4VP_t" "ACE2" 14935.86 "LUAD" "66" "female" "white" "III" "Primary Tumor" "TCGA" 13.8665892787779
+"14368574" 20019034 "TCGA-97-7546_t" "ACE2" 13559.05 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 13.7270748776859
+"14381443" 20031903 "TCGA-97-7547_t" "ACE2" 30992.01 "LUAD" "67" "female" "white" "I" "Primary Tumor" "TCGA" 14.9196552539055
+"14405085" 20055545 "TCGA-97-7552_t" "ACE2" 94761.28 "LUAD" "70" "male" "white" "I" "Primary Tumor" "TCGA" 16.5320252900854
+"14427460" 20077920 "TCGA-97-7553_t" "ACE2" 36974.35 "LUAD" "58" "female" "white" "I" "Primary Tumor" "TCGA" 15.1742761831517
+"14440269" 20090729 "TCGA-97-7554_t" "ACE2" 3380.619 "LUAD" "83" "female" "white" "III" "Primary Tumor" "TCGA" 11.7234984081077
+"14460713" 20111173 "TCGA-97-7937_t" "ACE2" 18439.76 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 14.1706104944076
+"14494851" 20145311 "TCGA-97-7938_t" "ACE2" 30272.05 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 14.8857464130963
+"14501570" 20152030 "TCGA-97-7941_t" "ACE2" 161551.2 "LUAD" "72" "female" "white" "I" "Primary Tumor" "TCGA" 17.3016408716354
+"14518033" 20168493 "TCGA-97-8171_t" "ACE2" 333877.7 "LUAD" "81" "male" "asian" "IV" "Primary Tumor" "TCGA" 18.3489645331432
+"14551917" 20202377 "TCGA-97-8172_t" "ACE2" 5492.968 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 12.4236327920224
+"14558623" 20209083 "TCGA-97-8174_t" "ACE2" 155297 "LUAD" "67" "male" "white" "II" "Primary Tumor" "TCGA" 17.2446797245828
+"14581460" 20231920 "TCGA-97-8175_t" "ACE2" 46674.42 "LUAD" "55" "female" "white" "I" "Primary Tumor" "TCGA" 15.5103753838797
+"14612295" 20262755 "TCGA-97-8176_t" "ACE2" 158137.9 "LUAD" "63" "male" "white" "III" "Primary Tumor" "TCGA" 17.2708327689772
+"14632633" 20283093 "TCGA-97-8177_t" "ACE2" 32965.78 "LUAD" "59" "female" "white" "I" "Primary Tumor" "TCGA" 15.0087253595242
+"14649788" 20300248 "TCGA-97-8179_t" "ACE2" 842748.8 "LUAD" "72" "male" "white" "I" "Primary Tumor" "TCGA" 19.6847448542683
+"14660418" 20310878 "TCGA-97-8547_t" "ACE2" 46238.2 "LUAD" "78" "female" "not reported" "III" "Primary Tumor" "TCGA" 15.4968288170503
+"14679853" 20330313 "TCGA-97-8552_t" "ACE2" 51953.93 "LUAD" "55" "female" "white" "I" "Primary Tumor" "TCGA" 15.664973032415
+"14701098" 20351558 "TCGA-97-A4LX_t" "ACE2" 13423.28 "LUAD" "81" "male" "white" "I" "Primary Tumor" "TCGA" 13.7125570920965
+"14715460" 20365920 "TCGA-97-A4M0_t" "ACE2" 9289.368 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 13.181520028876
+"14739059" 20389519 "TCGA-97-A4M1_t" "ACE2" 15844.66 "LUAD" "52" "female" "white" "I" "Primary Tumor" "TCGA" 13.9518001313426
+"14768184" 20418644 "TCGA-97-A4M2_t" "ACE2" 128472.1 "LUAD" "66" "male" "white" "I" "Primary Tumor" "TCGA" 16.9711067905935
+"14787035" 20437495 "TCGA-97-A4M3_t" "ACE2" 92257.95 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 16.4934012527203
+"14798448" 20448908 "TCGA-97-A4M5_t" "ACE2" 15216.03 "LUAD" "83" "male" "white" "I" "Primary Tumor" "TCGA" 13.8933991863285
+"14826035" 20476495 "TCGA-97-A4M6_t" "ACE2" 97983.77 "LUAD" "45" "female" "white" "I" "Primary Tumor" "TCGA" 16.5802699047673
+"14832568" 20483028 "TCGA-97-A4M7_t" "ACE2" 27223.54 "LUAD" "74" "male" "white" "I" "Primary Tumor" "TCGA" 14.7326200521711
+"14865604" 20790464 "TCGA-99-7458_t" "ACE2" 29270.42 "LUAD" "74" "female" "white" "III" "Primary Tumor" "TCGA" 14.83720511427
+"14875602" 20800462 "TCGA-99-8025_t" "ACE2" 32115.22 "LUAD" "72" "female" "black or african american" "III" "Primary Tumor" "TCGA" 14.9710144807432
+"14895285" 20820145 "TCGA-99-8028_t" "ACE2" 8272.267 "LUAD" "50" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.0142414271143
+"14925319" 20850179 "TCGA-99-8032_t" "ACE2" 6508.325 "LUAD" "61" "male" "white" "I" "Primary Tumor" "TCGA" 12.6682922321018
+"14937464" 20862324 "TCGA-99-8033_t" "ACE2" 53652.26 "LUAD" "74" "female" "white" "IV" "Primary Tumor" "TCGA" 15.711378212096
+"14965331" 20890191 "TCGA-99-AA5R_t" "ACE2" 12433.41 "LUAD" "70" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.6020504343284
+"14971779" 20916239 "TCGA-J2-8192_t" "ACE2" 101829.4 "LUAD" "65" "female" "white" "II" "Primary Tumor" "TCGA" 16.6358087959881
+"14995611" 20940071 "TCGA-J2-8194_t" "ACE2" 102516.6 "LUAD" "69" "female" "white" "II" "Primary Tumor" "TCGA" 16.645512084197
+"15021983" 20966443 "TCGA-J2-A4AD_t" "ACE2" 58354.8 "LUAD" "61" "female" "white" "I" "Primary Tumor" "TCGA" 15.8325884324897
+"15035051" 20979511 "TCGA-J2-A4AE_t" "ACE2" 49336.8 "LUAD" "77" "female" "white" "I" "Primary Tumor" "TCGA" 15.5904057660458
+"15054743" 20999203 "TCGA-J2-A4AG_t" "ACE2" 16815.1 "LUAD" "66" "female" "white" "I" "Primary Tumor" "TCGA" 14.0375555332364
+"15072929" 21056589 "TCGA-L4-A4E5_t" "ACE2" 21013.24 "LUAD" "48" "female" "white" "I" "Primary Tumor" "TCGA" 14.3590796605429
+"15104207" 21087867 "TCGA-L4-A4E6_t" "ACE2" 20116.31 "LUAD" "67" "male" "white" "I" "Primary Tumor" "TCGA" 14.2961497866256
+"15118905" 21102565 "TCGA-L9-A443_t" "ACE2" 56529.29 "LUAD" "63" "female" "white" "I" "Primary Tumor" "TCGA" 15.7867364775774
+"15130570" 21114230 "TCGA-L9-A444_t" "ACE2" 8071.865 "LUAD" "60" "female" "white" "I" "Primary Tumor" "TCGA" 12.9788650508247
+"15159395" 21143055 "TCGA-L9-A50W_t" "ACE2" 1091923 "LUAD" "75" "male" "black or african american" "II" "Primary Tumor" "TCGA" 20.0584410147406
+"15166706" 21150366 "TCGA-L9-A5IP_t" "ACE2" 31645.7 "LUAD" "40" "female" "black or african american" "IV" "Primary Tumor" "TCGA" 14.9497674481809
+"15192026" 21175686 "TCGA-L9-A743_t" "ACE2" 44499.52 "LUAD" "56" "male" "black or african american" "II" "Primary Tumor" "TCGA" 15.4415345739889
+"15205272" 21188932 "TCGA-L9-A7SV_t" "ACE2" 2401.586 "LUAD" "69" "male" "black or african american" "II" "Primary Tumor" "TCGA" 11.2303723575146
+"15230649" 21214309 "TCGA-L9-A8F4_t" "ACE2" 8833.948 "LUAD" "64" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.1090059281698
+"15244784" 21287244 "TCGA-MN-A4N1_t" "ACE2" 7658.847 "LUAD" "60" "male" "black or african american" "II" "Primary Tumor" "TCGA" 12.903099860292
+"15262920" 21305380 "TCGA-MN-A4N4_t" "ACE2" 19717.25 "LUAD" "57" "male" "white" "I" "Primary Tumor" "TCGA" 14.2672438973731
+"15290288" 21332748 "TCGA-MN-A4N5_t" "ACE2" 11538.27 "LUAD" "63" "male" "white" "I" "Primary Tumor" "TCGA" 13.4942643383082
+"15306257" 21348717 "TCGA-MP-A4SV_t" "ACE2" 31605.27 "LUAD" "67" "male" "not reported" "I" "Primary Tumor" "TCGA" 14.9479231658193
+"15326654" 21369114 "TCGA-MP-A4SW_t" "ACE2" 65553.47 "LUAD" "53" "male" "white" "II" "Primary Tumor" "TCGA" 16.0004065372194
+"15348323" 21390783 "TCGA-MP-A4SY_t" "ACE2" 49885.26 "LUAD" "61" "male" "white" "II" "Primary Tumor" "TCGA" 15.6063548933194
+"15374533" 21416993 "TCGA-MP-A4T4_t" "ACE2" 17398.03 "LUAD" "68" "female" "white" "II" "Primary Tumor" "TCGA" 14.0867192572788
+"15393966" 21436426 "TCGA-MP-A4T6_t" "ACE2" 39536.01 "LUAD" "76" "female" "white" "III" "Primary Tumor" "TCGA" 15.2709161504325
+"15402432" 21444892 "TCGA-MP-A4T7_t" "ACE2" 20686.7 "LUAD" "75" "female" "not reported" "IV" "Primary Tumor" "TCGA" 14.3364856389068
+"15434336" 21476796 "TCGA-MP-A4T8_t" "ACE2" 32777.09 "LUAD" "68" "male" "not reported" "III" "Primary Tumor" "TCGA" 15.0004441696851
+"15446557" 21489017 "TCGA-MP-A4T9_t" "ACE2" 13186.95 "LUAD" "54" "female" "white" "III" "Primary Tumor" "TCGA" 13.6869327019336
+"15472538" 21514998 "TCGA-MP-A4TA_t" "ACE2" 174531.3 "LUAD" "75" "female" "white" "I" "Primary Tumor" "TCGA" 17.4131345294253
+"15486098" 21528558 "TCGA-MP-A4TC_t" "ACE2" 8634.311 "LUAD" "77" "male" "white" "III" "Primary Tumor" "TCGA" 13.0760324218926
+"15505777" 21548237 "TCGA-MP-A4TD_t" "ACE2" 63094.14 "LUAD" "71" "male" "white" "III" "Primary Tumor" "TCGA" 15.945241263237
+"15522817" 21565277 "TCGA-MP-A4TE_t" "ACE2" 18703.5 "LUAD" "56" "male" "white" "II" "Primary Tumor" "TCGA" 14.1910977805004
+"15540262" 21582722 "TCGA-MP-A4TF_t" "ACE2" 6987.005 "LUAD" "58" "female" "white" "II" "Primary Tumor" "TCGA" 12.7706649251824
+"15570953" 21613413 "TCGA-MP-A4TH_t" "ACE2" 23702.38 "LUAD" "70" "female" "white" "I" "Primary Tumor" "TCGA" 14.5328051754473
+"15592702" 21635162 "TCGA-MP-A4TI_t" "ACE2" 7259.577 "LUAD" "72" "male" "white" "II" "Primary Tumor" "TCGA" 12.8258684888006
+"15601635" 21644095 "TCGA-MP-A4TJ_t" "ACE2" 13152.41 "LUAD" "62" "female" "not reported" "I" "Primary Tumor" "TCGA" 13.6831492438835
+"15626178" 21668638 "TCGA-MP-A4TK_t" "ACE2" 3628.913 "LUAD" "56" "female" "not reported" "II" "Primary Tumor" "TCGA" 11.8257192554802
+"15642000" 21684460 "TCGA-MP-A5C7_t" "ACE2" 127471 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 16.9598208595808
+"15672361" 22028421 "TCGA-NJ-A4YF_t" "ACE2" 63208.25 "LUAD" "50" "female" "black or african american" "I" "Primary Tumor" "TCGA" 15.9478480764429
+"15681279" 22037339 "TCGA-NJ-A4YG_t" "ACE2" 11452.89 "LUAD" "65" "male" "white" "I" "Primary Tumor" "TCGA" 13.4835500329464
+"15697894" 22053954 "TCGA-NJ-A4YI_t" "ACE2" 8450.167 "LUAD" "87" "female" "white" "III" "Primary Tumor" "TCGA" 13.0449348578751
+"15729081" 22085141 "TCGA-NJ-A4YP_t" "ACE2" 12947.46 "LUAD" "52" "male" "white" "I" "Primary Tumor" "TCGA" 13.6604929035248
+"15733630" 22089690 "TCGA-NJ-A4YQ_t" "ACE2" 20022.11 "LUAD" "69" "female" "white" "I" "Primary Tumor" "TCGA" 14.2893784512815
+"15759998" 22116058 "TCGA-NJ-A55A_t" "ACE2" 9168.983 "LUAD" "76" "female" "white" "I" "Primary Tumor" "TCGA" 13.162703343909
+"15788136" 22144196 "TCGA-NJ-A55O_t" "ACE2" 13956.83 "LUAD" "56" "female" "white" "II" "Primary Tumor" "TCGA" 13.7687870451956
+"15808497" 22164557 "TCGA-NJ-A55R_t" "ACE2" 55289.54 "LUAD" "67" "male" "white" "I" "Primary Tumor" "TCGA" 15.7547450415181
+"15812913" 22168973 "TCGA-NJ-A7XG_t" "ACE2" 9248.985 "LUAD" "49" "male" "black or african american" "III" "Primary Tumor" "TCGA" 13.1752353107837
+"15841532" 22295592 "TCGA-O1-A52J_t" "ACE2" 441104.9 "LUAD" "74" "female" "white" "I" "Primary Tumor" "TCGA" 18.7507655317244
+"15863538" 22435198 "TCGA-S2-AA1A_t" "ACE2" 10230.41 "LUAD" "68" "female" "black or african american" "I" "Primary Tumor" "TCGA" 13.320717357461
+"15876799" 3476622 "TCGA-38-4625_n" "ACE2" 16291.9247416 "LUAD" "66" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.9919579847301
+"15892388" 3512108 "TCGA-38-4626_n" "ACE2" 14193.8845746 "LUAD" "57" "female" "white" NA "Solid Tissue Normal" "TCGA" 13.7930834974156
+"15923530" 3578922 "TCGA-38-4627_n" "ACE2" 9945.05579325 "LUAD" "64" "female" "white" "II" "Solid Tissue Normal" "TCGA" 13.2799088087466
+"15945206" 3692571 "TCGA-38-4632_n" "ACE2" 37422.1679265 "LUAD" "42" "male" "black or african american" "IV" "Solid Tissue Normal" "TCGA" 15.1916440695659
+"15949644" 4704946 "TCGA-44-2655_n" "ACE2" 16831.1118896 "LUAD" "65" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.0389285794797
+"15980184" 4819187 "TCGA-44-2657_n" "ACE2" 19515.9751171 "LUAD" "74" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.2524418503948
+"15997980" 4878163 "TCGA-44-2661_n" "ACE2" 10391.5954665 "LUAD" "69" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.3432683801856
+"16008737" 4911578 "TCGA-44-2662_n" "ACE2" 32112.7097726 "LUAD" "65" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.9709017142296
+"16040058" 5001207 "TCGA-44-2665_n" "ACE2" 15996.5291252 "LUAD" "55" "female" "white" "II" "Solid Tissue Normal" "TCGA" 13.965561472531
+"16054634" 5112137 "TCGA-44-2668_n" "ACE2" 23576.6641546 "LUAD" "51" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.5251331767688
+"16071049" 5165417 "TCGA-44-3396_n" "ACE2" 15602.1103476 "LUAD" "74" "female" "white" "III" "Solid Tissue Normal" "TCGA" 13.929546026315
+"16090693" 5200283 "TCGA-44-3398_n" "ACE2" 12861.5257979 "LUAD" "77" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.6508863502325
+"16118073" 5487264 "TCGA-44-5645_n" "ACE2" 12991.6950589 "LUAD" "61" "female" "black or african american" "I" "Solid Tissue Normal" "TCGA" 13.6654130978507
+"16133064" 5515524 "TCGA-44-6144_n" "ACE2" 27666.1160363 "LUAD" "58" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.7558846477485
+"16147612" 5530335 "TCGA-44-6145_n" "ACE2" 16722.8527835 "LUAD" "62" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.0296196283641
+"16169287" 5572833 "TCGA-44-6146_n" "ACE2" 17729.3857477 "LUAD" "64" "male" "white" "II" "Solid Tissue Normal" "TCGA" 14.1139363038424
+"16200247" 5700206 "TCGA-44-6147_n" "ACE2" 16316.5962598 "LUAD" "67" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.9941409295379
+"16215261" 5750076 "TCGA-44-6148_n" "ACE2" 14679.8838152 "LUAD" "60" "male" "white" "I" "Solid Tissue Normal" "TCGA" 13.841651203141
+"16227272" 5846296 "TCGA-44-6776_n" "ACE2" 39512.1379877 "LUAD" "60" "female" "white" "I" "Solid Tissue Normal" "TCGA" 15.2700448039345
+"16245805" 5883869 "TCGA-44-6777_n" "ACE2" 27868.7496644 "LUAD" "85" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.7664124232703
+"16265665" 5923517 "TCGA-44-6778_n" "ACE2" 8993.42809053 "LUAD" "59" "male" "black or african american" "I" "Solid Tissue Normal" "TCGA" 13.1348158354899
+"16288247" 6544241 "TCGA-49-4490_n" "ACE2" 15195.3572106 "LUAD" "45" "female" "white" "III" "Solid Tissue Normal" "TCGA" 13.8914379095305
+"16301928" 6684103 "TCGA-49-4512_n" "ACE2" 22794.0981806 "LUAD" "69" "female" "white" "III" "Solid Tissue Normal" "TCGA" 14.4764360025867
+"16325799" 6747343 "TCGA-49-6742_n" "ACE2" 18988.8254036 "LUAD" "70" "male" "white" "II" "Solid Tissue Normal" "TCGA" 14.2129390206599
+"16358448" 6818908 "TCGA-49-6743_n" "ACE2" 17077.7064713 "LUAD" "81" "female" "white" "III" "Solid Tissue Normal" "TCGA" 14.0599110899815
+"16371561" 6841583 "TCGA-49-6744_n" "ACE2" 33133.2910884 "LUAD" "64" "female" "white" "II" "Solid Tissue Normal" "TCGA" 15.0160374326837
+"16393004" 6892664 "TCGA-49-6745_n" "ACE2" 18416.1912987 "LUAD" "82" "male" "white" "III" "Solid Tissue Normal" "TCGA" 14.1687654405225
+"16404396" 6905521 "TCGA-49-6761_n" "ACE2" 18572.7627781 "LUAD" "68" "female" "white" "III" "Solid Tissue Normal" "TCGA" 14.1809784937671
+"16423780" 7386425 "TCGA-50-5930_n" "ACE2" 18197.4194612 "LUAD" "47" "male" "white" "III" "Solid Tissue Normal" "TCGA" 14.1515255368687
+"16457535" 7447195 "TCGA-50-5931_n" "ACE2" 26003.0990966 "LUAD" "75" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.6664514366575
+"16476601" 7482812 "TCGA-50-5932_n" "ACE2" 11751.910866 "LUAD" "75" "male" "white" "II" "Solid Tissue Normal" "TCGA" 13.5207304956463
+"16495402" 7524262 "TCGA-50-5933_n" "ACE2" 26449.7036716 "LUAD" "72" "male" "white" "III" "Solid Tissue Normal" "TCGA" 14.691018482608
+"16509689" 7558149 "TCGA-50-5935_n" "ACE2" 23313.2928928 "LUAD" "86" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.5089270538972
+"16523735" 7580221 "TCGA-50-5936_n" "ACE2" 20669.7961312 "LUAD" "58" "male" "white" "III" "Solid Tissue Normal" "TCGA" 14.3353063344674
+"16540838" 7620007 "TCGA-50-5939_n" "ACE2" 17641.6744066 "LUAD" "85" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.1067816513681
+"16569542" 7870246 "TCGA-50-6595_n" "ACE2" 18696.1698397 "LUAD" "74" "female" "white" "III" "Solid Tissue Normal" "TCGA" 14.190532287778
+"16583646" 8438233 "TCGA-55-6968_n" "ACE2" 33359.592503 "LUAD" "61" "male" "white" "IV" "Solid Tissue Normal" "TCGA" 15.0258572916398
+"16600154" 8471814 "TCGA-55-6969_n" "ACE2" 21469.1931669 "LUAD" "52" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.3900475507031
+"16634068" 8523004 "TCGA-55-6970_n" "ACE2" 27515.0513764 "LUAD" "67" "female" "white" "III" "Solid Tissue Normal" "TCGA" 14.7479858340223
+"16644263" 8554251 "TCGA-55-6971_n" "ACE2" 15922.2151332 "LUAD" "59" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.958844046361
+"16672541" 8592076 "TCGA-55-6972_n" "ACE2" 17943.2868389 "LUAD" "72" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.1312369667086
+"16679330" 8611470 "TCGA-55-6975_n" "ACE2" 29556.2241083 "LUAD" "61" "male" "white" "II" "Solid Tissue Normal" "TCGA" 14.8512231634706
+"16704279" 8673756 "TCGA-55-6978_n" "ACE2" 16370.1780569 "LUAD" "81" "male" "white" "II" "Solid Tissue Normal" "TCGA" 13.99887052028
+"16724136" 8707798 "TCGA-55-6979_n" "ACE2" 26178.024177 "LUAD" "59" "female" "white" "II" "Solid Tissue Normal" "TCGA" 14.6761237013841
+"16742729" 8735233 "TCGA-55-6980_n" "ACE2" 18689.9592743 "LUAD" "56" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.1900529938311
+"16763769" 8778826 "TCGA-55-6981_n" "ACE2" 11442.5954736 "LUAD" "53" "female" "white" "III" "Solid Tissue Normal" "TCGA" 13.4822527845474
+"16788784" 8835203 "TCGA-55-6982_n" "ACE2" 19736.469719 "LUAD" "79" "female" "white" "II" "Solid Tissue Normal" "TCGA" 14.2686494322705
+"16792671" 8841397 "TCGA-55-6983_n" "ACE2" 40437.8818359 "LUAD" "81" "male" "white" "II" "Solid Tissue Normal" "TCGA" 15.3034554857888
+"16827767" 8909371 "TCGA-55-6984_n" "ACE2" 10550.0665637 "LUAD" "71" "female" "white" "II" "Solid Tissue Normal" "TCGA" 13.3651012219309
+"16844142" 8933371 "TCGA-55-6985_n" "ACE2" 39295.55626 "LUAD" "58" "female" "white" "I" "Solid Tissue Normal" "TCGA" 15.2621152674962
+"16857047" 8974737 "TCGA-55-6986_n" "ACE2" 13250.5255584 "LUAD" "74" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.6938708364966
+"16885377" 14767282 "TCGA-73-4676_n" "ACE2" 15801.59 "LUAD" "45" "male" "white" "II" "Solid Tissue Normal" "TCGA" 13.9478734109855
+"16901639" 18794087 "TCGA-91-6828_n" "ACE2" 16487.31 "LUAD" "70" "male" "white" "I" "Solid Tissue Normal" "TCGA" 14.009155914191
+"16923225" 18842296 "TCGA-91-6829_n" "ACE2" 13918.22 "LUAD" "78" "male" "white" "I" "Solid Tissue Normal" "TCGA" 13.7647907478007
+"16934025" 18889400 "TCGA-91-6831_n" "ACE2" 13390.24 "LUAD" "66" "male" "white" "I" "Solid Tissue Normal" "TCGA" 13.7090019368526
+"16958523" 18939054 "TCGA-91-6835_n" "ACE2" 14063.12 "LUAD" "81" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.7797316647755
+"16974201" 18965332 "TCGA-91-6836_n" "ACE2" 25177.48 "LUAD" "52" "female" "white" "I" "Solid Tissue Normal" "TCGA" 14.6199035711587
+"17005649" 19049052 "TCGA-91-6847_n" "ACE2" 10501.47 "LUAD" "62" "female" "white" "I" "Solid Tissue Normal" "TCGA" 13.3584410443634
+"17020569" 19103829 "TCGA-91-6849_n" "ACE2" 16266.37 "LUAD" "75" "female" "black or african american" "III" "Solid Tissue Normal" "TCGA" 13.9896934040904
