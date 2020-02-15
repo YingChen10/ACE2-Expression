@@ -9,7 +9,7 @@ nrow(Esembl)
 
 #variations from the 1000 Genome Project to be annotated
 Merge<-merge(SNP,Esembl,by.x ="variation", by.y= "Variant.ID", all.x = T)
-#to filter replicated variantions in non-coding transcript 
+#to filter replicated variantions in non-coding transcripts 
 test<-unique(Merge %>% filter(!grepl('non coding', Conseq..Type)) %>% select(variation, Pos, AF,EAS,Conseq..Type))
 head(test)
 nrow(test)
@@ -26,7 +26,7 @@ unique(test$hl)
 test %>% group_by(hl) %>% summarise(num=length(Pos))
 
 p <- ggplot()+geom_point(data = test,aes(x = 100*AF, y = 100*EAS),size=0.6,color="#104E8B")+
-  geom_point(data = subset(test,hl=="Mis"),aes(x = AF, y =EAS), size=0.6,color="#FF4040")+
+  geom_point(data = subset(test,hl=="Mis"),aes(x = 100*AF, y = 100*EAS), size=0.6,color="#FF4040")+
   theme_bw()+
   theme(panel.grid.major = element_blank(),panel.grid.minor = element_blank())+
   ylab("Allele frequency of EAS populations (%)")+
