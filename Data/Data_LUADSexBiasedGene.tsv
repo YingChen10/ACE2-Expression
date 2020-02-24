@@ -1,0 +1,878 @@
+sample	samples	sample_type.samples	age_at_index.demographic	gender.demographic	race.demographic	KDM5D	DDX3Y	ZFY	DDX43	TBL1Y	PCDH11Y	USP9Y	RPS4Y1	TMSB4Y	RPS4Y2	NLGN4Y	TTTY14	UTY	SRY	EIF1AY	GYG2P1	BCORP1	RP4-610C12.3	TTTY16	TTTY10	AC010084.1	XIST	LINC00278	ZFY-AS1	TTTY15	AC022486.1	RP11-424G14.1
+TCGA-50-5066-02A	TCGA-50-5066-02A	Recurrent Tumor	72	male	black or african american	15.75	16.56	13.58	16.48	8.739	7.843	14.1	18.4	12.3	8.023	12.94	10.89	13.66	8.927	14.98	9.38	10.69	16.16	0	8.897	12.33	3.498	11.63	9.597	12.86	0	12.33
+TCGA-50-5946-02A	TCGA-50-5946-02A	Recurrent Tumor	62	male	white	14.76	16.48	14.13	11.81	7.237	7.281	13.53	18.79	12.4	10.42	14.41	11.38	13.7	0	14.87	11.71	8	15.21	0	8.71	9.336	9.639	8.865	9.825	12.85	0	11.25
+TCGA-93-8067-01C	TCGA-93-8067-01C	FFPE Scrolls	77	male	asian																											
+TCGA-93-8067-01D	TCGA-93-8067-01D	FFPE Scrolls	77	male	asian																											
+TCGA-93-A4JP-01D	TCGA-93-A4JP-01D	FFPE Scrolls	64	male	asian																											
+TCGA-93-A4JP-01E	TCGA-93-A4JP-01E	FFPE Scrolls	64	male	asian																											
+TCGA-55-8204-11A	TCGA-55-8204-11A	Solid Tissue Normal	87	female	white																											
+TCGA-50-5935-11A	TCGA-50-5935-11A	Solid Tissue Normal	86	female	white	0	0	0	12.4	0	0	6.094	8.382	10.41	0	0	0	0	0	0	0	0	12.74	0	0	0	15.76	0	0	0	0	0
+TCGA-50-5939-11A	TCGA-50-5939-11A	Solid Tissue Normal	85	male	white	16.37	18.62	16.14	15.13	11.8	8.41	15.75	20.71	14.35	0	14.1	13.71	16.09	11.61	16.57	13.46	8.134	12.22	13.75	9.58	11.21	0	13.73	13.4	14.96	0	13.91
+TCGA-44-6777-11A	TCGA-44-6777-11A	Solid Tissue Normal	85	female	white	0	0	0	11.86	0	0	0	0	0	0	0	0	0	0	0	0	0	13.83	0	0	0	14.53	0	0	0	0	0
+TCGA-78-7166-11A	TCGA-78-7166-11A	Solid Tissue Normal	84	male	white																											
+TCGA-50-6673-11A	TCGA-50-6673-11A	Solid Tissue Normal	84	female	white																											
+TCGA-49-6745-11A	TCGA-49-6745-11A	Solid Tissue Normal	82	male	white	15.64	17.73	16.71	15.59	12.11	7.93	14.98	22.01	15.68	10.81	12.36	14.68	15.59	9.714	17.54	15.11	6.662	12.91	12.85	8.685	0	6.173	14.36	14.26	14.75	0	12.96
+TCGA-55-6983-11A	TCGA-55-6983-11A	Solid Tissue Normal	81	male	white	16.66	18.29	16.51	15.68	12.96	7.298	16.12	20.95	15	0	13.37	14.72	15.97	11.08	17.08	13.58	11.1	13.86	16.46	9.049	0	0	13.79	13.86	14.43	0	14.53
+TCGA-55-6978-11A	TCGA-55-6978-11A	Solid Tissue Normal	81	male	white	16.45	18.26	16.2	13.26	13.36	7.627	15.92	20.78	14.75	9.917	12.86	14.22	15.8	9.824	16.95	13.51	8.761	13.02	14.96	10.38	0	5.3	13.53	13.72	14.69	0	13.81
+TCGA-55-7994-11A	TCGA-55-7994-11A	Solid Tissue Normal	81	male	white																											
+TCGA-91-6835-11A	TCGA-91-6835-11A	Solid Tissue Normal	81	female	white	6.089	7.796	0	13.03	8.048	0	0	10.93	8.575	0	0	0	0	0	7.293	0	0	0	0	0	0	16.97	0	0	0	0	0
+TCGA-49-6743-11A	TCGA-49-6743-11A	Solid Tissue Normal	81	female	white	0	8.547	0	14.62	0	0	6.999	11.46	11.32	0	0	0	0	0	0	0	0	13.33	0	0	0	15.5	0	0	7.087	0	0
+TCGA-62-8395-11A	TCGA-62-8395-11A	Solid Tissue Normal	80	female	white																											
+TCGA-73-4658-11A	TCGA-73-4658-11A	Solid Tissue Normal	80	female	white																											
+TCGA-50-6594-11A	TCGA-50-6594-11A	Solid Tissue Normal	79	female	black or african american																											
+TCGA-55-6982-11A	TCGA-55-6982-11A	Solid Tissue Normal	79	female	white	6.29	0	0	14.53	0	5.992	0	8.332	10.78	0	0	0	0	0	0	0	0	13.18	0	0	0	17.42	0	0	0	0	0
+TCGA-49-4514-11A	TCGA-49-4514-11A	Solid Tissue Normal	79	female	white																											
+TCGA-91-6829-11A	TCGA-91-6829-11A	Solid Tissue Normal	78	male	white	16.26	16.98	15.11	13.78	12.41	6.901	15.3	20.25	13.65	0	12.55	14.01	14.83	12.26	16.16	14.02	10.7	14.99	15.98	8.65	10.27	6.138	12.39	13.09	13.76	0	13.48
+TCGA-49-4494-11A	TCGA-49-4494-11A	Solid Tissue Normal	77	male	white																											
+TCGA-55-6987-11A	TCGA-55-6987-11A	Solid Tissue Normal	77	male	white																											
+TCGA-55-7907-11A	TCGA-55-7907-11A	Solid Tissue Normal	77	male	white																											
+TCGA-78-7167-11A	TCGA-78-7167-11A	Solid Tissue Normal	77	male	white																											
+TCGA-44-3398-11B	TCGA-44-3398-11B	Solid Tissue Normal	77	female	white	0	5.967	0	12.76	0	0	5.019	0	10.53	0	7.023	0	0	0	6.454	0	0	13.02	0	0	0	15.52	0	0	0	0	0
+TCGA-55-8513-11A	TCGA-55-8513-11A	Solid Tissue Normal	77	female	white																											
+TCGA-55-7815-11A	TCGA-55-7815-11A	Solid Tissue Normal	76	male	not reported																											
+TCGA-55-8614-11A	TCGA-55-8614-11A	Solid Tissue Normal	76	male	white																											
+TCGA-55-7283-11A	TCGA-55-7283-11A	Solid Tissue Normal	76	female	white																											
+TCGA-55-7724-11A	TCGA-55-7724-11A	Solid Tissue Normal	76	female	white																											
+TCGA-55-8205-11A	TCGA-55-8205-11A	Solid Tissue Normal	76	female	white																											
+TCGA-91-8499-11A	TCGA-91-8499-11A	Solid Tissue Normal	76	female	white																											
+TCGA-93-7347-11A	TCGA-93-7347-11A	Solid Tissue Normal	76	female	white																											
+TCGA-50-5932-11A	TCGA-50-5932-11A	Solid Tissue Normal	75	male	white	16.4	18.32	16.39	13.28	12.33	7.733	15.65	20.52	14.5	11.02	13.79	13.75	15.73	11.51	16.55	13.53	8.454	14.54	15.07	11.71	11.53	0	13.22	12.34	14.63	0	14.23
+TCGA-55-8092-11A	TCGA-55-8092-11A	Solid Tissue Normal	75	male	white																											
+TCGA-78-7162-11A	TCGA-78-7162-11A	Solid Tissue Normal	75	male	white																											
+TCGA-91-6849-11A	TCGA-91-6849-11A	Solid Tissue Normal	75	female	black or african american	0	0	0	14.54	0	0	0	0	8.817	0	0	0	0	0	0	0	0	0	0	0	0	15.86	0	0	0	0	0
+TCGA-50-5931-11A	TCGA-50-5931-11A	Solid Tissue Normal	75	female	white	0	7.085	0	13.78	0	6.072	6.126	8.413	10.44	0	8.883	0	0	0	0	0	6.787	13.62	0	0	0	15.81	0	0	0	0	0
+TCGA-38-4630-11A	TCGA-38-4630-11A	Solid Tissue Normal	75	female	white																											
+TCGA-55-8621-11A	TCGA-55-8621-11A	Solid Tissue Normal	75	female	white																											
+TCGA-93-7348-11A	TCGA-93-7348-11A	Solid Tissue Normal	75	female	white																											
+TCGA-50-8460-11A	TCGA-50-8460-11A	Solid Tissue Normal	74	male	white																											
+TCGA-55-8091-11A	TCGA-55-8091-11A	Solid Tissue Normal	74	male	white																											
+TCGA-73-4677-11A	TCGA-73-4677-11A	Solid Tissue Normal	74	male	white																											
+TCGA-55-1595-11A	TCGA-55-1595-11A	Solid Tissue Normal	74	female	asian																											
+TCGA-50-6595-11A	TCGA-50-6595-11A	Solid Tissue Normal	74	female	white	6.282	8.795	0	13.59	7.248	5.006	6.615	8.907	9.353	0	0	0	0	0	6.495	7.403	0	13.53	0	0	0	16.33	0	0	6.125	0	0
+TCGA-44-2657-11A	TCGA-44-2657-11A	Solid Tissue Normal	74	female	white	5.92	6.632	0	10.65	0	0	0	9.954	11.72	0	0	0	0	0	7.122	0	0	12.58	0	0	0	14.93	0	0	6.75	0	0
+TCGA-55-6986-11A	TCGA-55-6986-11A	Solid Tissue Normal	74	female	white	5.857	5.584	5.637	12.37	0	0	0	10.06	9.659	0	5.081	0	0	0	0	8.553	0	13.02	0	0	0	16.61	0	0	0	0	0
+TCGA-44-3396-11A	TCGA-44-3396-11A	Solid Tissue Normal	74	female	white	0	5.751	0	14.52	0	0	0	10.87	9.093	0	0	0	0	0	0	0	0	14.01	0	0	0	15.68	0	0	0	0	0
+TCGA-49-4488-11A	TCGA-49-4488-11A	Solid Tissue Normal	74	female	white																											
+TCGA-99-8033-11A	TCGA-99-8033-11A	Solid Tissue Normal	74	female	white																											
+TCGA-44-8119-11A	TCGA-44-8119-11A	Solid Tissue Normal	73	male	white																											
+TCGA-55-8207-11A	TCGA-55-8207-11A	Solid Tissue Normal	73	male	white																											
+TCGA-49-4507-11A	TCGA-49-4507-11A	Solid Tissue Normal	73	female	white																											
+TCGA-55-7995-11A	TCGA-55-7995-11A	Solid Tissue Normal	73	female	white																											
+TCGA-55-8511-11A	TCGA-55-8511-11A	Solid Tissue Normal	73	female	white																											
+TCGA-62-8402-11A	TCGA-62-8402-11A	Solid Tissue Normal	73	female	white																											
+TCGA-55-6972-11A	TCGA-55-6972-11A	Solid Tissue Normal	72	male	white	16.84	18.33	16.2	15.02	11.98	7.127	16.13	20.78	14.35	11	12.65	14.21	15.82	12.49	16.47	13.76	10.75	13.1	14.36	10.87	10.5	5.379	13.84	12.31	14.75	0	14.2
+TCGA-50-5933-11A	TCGA-50-5933-11A	Solid Tissue Normal	72	male	white	16.5	19.46	16.24	15.22	12.21	9.856	15.91	20.9	14.85	10.57	13.1	13.98	15.27	0	16.83	13.33	9.732	12.41	13.2	9.444	12.07	6.513	13.99	12.73	15.9	0	13.62
+TCGA-44-7660-11A	TCGA-44-7660-11A	Solid Tissue Normal	72	male	white																											
+TCGA-49-4486-11A	TCGA-49-4486-11A	Solid Tissue Normal	72	male	white																											
+TCGA-38-4631-11A	TCGA-38-4631-11A	Solid Tissue Normal	72	female	white																											
+TCGA-38-7271-11A	TCGA-38-7271-11A	Solid Tissue Normal	72	female	white																											
+TCGA-44-6775-11A	TCGA-44-6775-11A	Solid Tissue Normal	72	female	white																											
+TCGA-49-4487-11A	TCGA-49-4487-11A	Solid Tissue Normal	72	female	white																											
+TCGA-50-6590-11A	TCGA-50-6590-11A	Solid Tissue Normal	72	female	white																											
+TCGA-55-7573-11A	TCGA-55-7573-11A	Solid Tissue Normal	72	female	white																											
+TCGA-55-7726-11A	TCGA-55-7726-11A	Solid Tissue Normal	72	female	white																											
+TCGA-55-8619-11A	TCGA-55-8619-11A	Solid Tissue Normal	72	female	white																											
+TCGA-55-6984-11A	TCGA-55-6984-11A	Solid Tissue Normal	71	female	white	0	0	0	12.53	0	0	0	0	0	0	0	0	0	0	6.546	0	0	13	0	0	0	16.32	0	0	0	0	0
+TCGA-44-3919-11A	TCGA-44-3919-11A	Solid Tissue Normal	71	female	white																											
+TCGA-50-6592-11A	TCGA-50-6592-11A	Solid Tissue Normal	71	female	white																											
+TCGA-55-7914-11A	TCGA-55-7914-11A	Solid Tissue Normal	71	female	white																											
+TCGA-91-6828-11A	TCGA-91-6828-11A	Solid Tissue Normal	70	male	white	16.48	18.82	16.17	15.64	13.56	6.835	16.1	20.83	14.67	9.706	12.38	13.96	16	0	16.85	14.04	8.55	13.22	15.07	0	0	0	14.13	13.78	15.16	0	13.54
+TCGA-49-6742-11A	TCGA-49-6742-11A	Solid Tissue Normal	70	male	white	15.92	18.27	16.28	15.41	13.23	5.809	15.49	21.37	15.29	0	14.42	14.06	15.78	12.16	17.06	13.95	0	15.04	16.03	10.86	0	0	13.6	13.46	14.77	0	13.04
+TCGA-44-7659-11A	TCGA-44-7659-11A	Solid Tissue Normal	70	male	white																											
+TCGA-55-7727-11A	TCGA-55-7727-11A	Solid Tissue Normal	70	male	white																											
+TCGA-86-7711-11A	TCGA-86-7711-11A	Solid Tissue Normal	70	male	white																											
+TCGA-86-7713-11A	TCGA-86-7713-11A	Solid Tissue Normal	70	male	white																											
+TCGA-55-8514-11A	TCGA-55-8514-11A	Solid Tissue Normal	70	female	black or african american																											
+TCGA-55-7281-11A	TCGA-55-7281-11A	Solid Tissue Normal	70	female	white																											
+TCGA-55-7911-11A	TCGA-55-7911-11A	Solid Tissue Normal	70	female	white																											
+TCGA-62-8397-11A	TCGA-62-8397-11A	Solid Tissue Normal	70	female	white																											
+TCGA-49-AAR3-11A	TCGA-49-AAR3-11A	Solid Tissue Normal	69	male	black or african american																											
+TCGA-49-4512-11A	TCGA-49-4512-11A	Solid Tissue Normal	69	female	white	11.75	13.74	12.04	14.1	0	6.337	11.13	15.94	12.71	0	8.831	9.171	10.99	0	10.84	10.34	0	14.63	0	0	0	12.37	0	0	10.79	0	8.454
+TCGA-44-2661-11A	TCGA-44-2661-11A	Solid Tissue Normal	69	female	white	5.644	7.927	0	14.65	0	0	0	8.674	8.123	0	0	0	0	0	0	0	0	10.71	0	0	0	14.99	0	0	6.471	0	0
+TCGA-44-7661-11A	TCGA-44-7661-11A	Solid Tissue Normal	69	female	white																											
+TCGA-55-8203-11A	TCGA-55-8203-11A	Solid Tissue Normal	69	female	white																											
+TCGA-73-4670-11A	TCGA-73-4670-11A	Solid Tissue Normal	69	female	white																											
+TCGA-J2-8194-11A	TCGA-J2-8194-11A	Solid Tissue Normal	69	female	white																											
+TCGA-49-AARR-11A	TCGA-49-AARR-11A	Solid Tissue Normal	68	male	black or african american																											
+TCGA-38-4629-11A	TCGA-38-4629-11A	Solid Tissue Normal	68	male	white																											
+TCGA-50-8459-11A	TCGA-50-8459-11A	Solid Tissue Normal	68	male	white																											
+TCGA-55-1594-11A	TCGA-55-1594-11A	Solid Tissue Normal	68	male	white																											
+TCGA-49-6761-11A	TCGA-49-6761-11A	Solid Tissue Normal	68	female	white	0	0	0	14.1	0	0	0	0	9.151	0	0	0	0	0	0	0	0	12.74	0	0	0	15.32	0	0	0	0	0
+TCGA-49-4506-11A	TCGA-49-4506-11A	Solid Tissue Normal	68	female	white																											
+TCGA-55-7725-11A	TCGA-55-7725-11A	Solid Tissue Normal	68	female	white																											
+TCGA-86-7954-11A	TCGA-86-7954-11A	Solid Tissue Normal	68	female	white																											
+TCGA-05-5420-11A	TCGA-05-5420-11A	Solid Tissue Normal	67	male	not reported																											
+TCGA-55-8615-11A	TCGA-55-8615-11A	Solid Tissue Normal	67	male	white																											
+TCGA-44-6147-11A	TCGA-44-6147-11A	Solid Tissue Normal	67	female	white	5.929	7.634	0	12.91	0	5.631	5.685	10.77	9.994	0	0	0	0	0	0	0	0	12	0	0	0	16.58	0	0	0	0	0
+TCGA-55-6970-11A	TCGA-55-6970-11A	Solid Tissue Normal	67	female	white	0	0	0	13.67	0	0	0	9.418	9.865	0	0	0	0	0	0	0	6.794	0	0	0	0	17.23	0	0	0	0	0
+TCGA-49-4501-11A	TCGA-49-4501-11A	Solid Tissue Normal	67	female	white																											
+TCGA-55-8096-11A	TCGA-55-8096-11A	Solid Tissue Normal	67	female	white																											
+TCGA-91-6831-11A	TCGA-91-6831-11A	Solid Tissue Normal	66	male	white	16.68	19.26	16.55	14.43	13.01	7.652	16.07	20.78	14.54	10.53	13.38	14.38	16.22	11.43	17.39	12.54	10.37	13.04	15.16	11.99	0	0	14.73	13.84	15.14	0	14.23
+TCGA-73-4659-11A	TCGA-73-4659-11A	Solid Tissue Normal	66	male	white																											
+TCGA-73-4668-11A	TCGA-73-4668-11A	Solid Tissue Normal	66	female	american indian or alaska native																											
+TCGA-38-4625-11A	TCGA-38-4625-11A	Solid Tissue Normal	66	female	white	6.4	6.125	7.169	14.55	0	0	5.175	11.35	9.473	0	0	0	7.753	0	6.613	0	0	11.8	0	0	0	12.89	0	0	6.243	0	0
+TCGA-78-7540-11A	TCGA-78-7540-11A	Solid Tissue Normal	66	female	white																											
+TCGA-44-2662-11A	TCGA-44-2662-11A	Solid Tissue Normal	65	male	white	16.33	18.67	15.31	13.92	12.16	5.389	15.26	20.68	14.29	11.24	13.34	13.54	15.53	12.14	16.29	13.92	7.67	14.28	13.28	10.11	11.32	4.642	14.31	13.55	14.86	0	12.98
+TCGA-55-1592-11A	TCGA-55-1592-11A	Solid Tissue Normal	65	male	white																											
+TCGA-44-2655-11A	TCGA-44-2655-11A	Solid Tissue Normal	65	female	white	6.668	7.385	0	14.31	0	4.819	0	8.131	0	0	0	0	0	0	0	0	0	12.87	0	0	0	14.85	0	0	0	0	0
+TCGA-38-4628-11A	TCGA-38-4628-11A	Solid Tissue Normal	65	female	white																											
+TCGA-44-2659-11A	TCGA-44-2659-11A	Solid Tissue Normal	65	female	white																											
+TCGA-62-8394-11A	TCGA-62-8394-11A	Solid Tissue Normal	65	female	white																											
+TCGA-73-4662-11A	TCGA-73-4662-11A	Solid Tissue Normal	65	female	white																											
+TCGA-91-6830-11A	TCGA-91-6830-11A	Solid Tissue Normal	65	female	white																											
+TCGA-J2-8192-11A	TCGA-J2-8192-11A	Solid Tissue Normal	65	female	white																											
+TCGA-44-7671-11A	TCGA-44-7671-11A	Solid Tissue Normal	64	male	black or african american																											
+TCGA-49-AAR2-11A	TCGA-49-AAR2-11A	Solid Tissue Normal	64	male	black or african american																											
+TCGA-44-6146-11A	TCGA-44-6146-11A	Solid Tissue Normal	64	male	white	16.83	18.54	16.27	14.81	12.5	8.376	15.92	20.54	14.94	9.933	14.14	14.09	16.13	12.16	16.56	13.53	10.68	14.54	14.3	11.39	11.43	6.297	13.96	13.09	15.17	0	13.96
+TCGA-55-7903-11A	TCGA-55-7903-11A	Solid Tissue Normal	64	male	white																											
+TCGA-55-8085-11A	TCGA-55-8085-11A	Solid Tissue Normal	64	male	white																											
+TCGA-38-4627-11A	TCGA-38-4627-11A	Solid Tissue Normal	64	female	white	6.956	8.256	6.734	13.51	0	5.67	7.291	11.59	10.03	0	7.16	0	0	0	8.165	0	0	13.85	0	0	0	12.09	0	0	0	0	0
+TCGA-49-6744-11A	TCGA-49-6744-11A	Solid Tissue Normal	64	female	white	6.182	6.896	6.949	14.18	0	0	5.938	11.8	8.669	0	0	0	6.223	0	8.382	0	0	0	0	0	0	16.39	0	0	0	0	0
+TCGA-55-7574-11A	TCGA-55-7574-11A	Solid Tissue Normal	64	female	white																											
+TCGA-55-7728-11A	TCGA-55-7728-11A	Solid Tissue Normal	64	female	white																											
+TCGA-55-6642-11A	TCGA-55-6642-11A	Solid Tissue Normal	63	male	white																											
+TCGA-49-AAQV-11A	TCGA-49-AAQV-11A	Solid Tissue Normal	63	female	black or african american																											
+TCGA-50-8457-11A	TCGA-50-8457-11A	Solid Tissue Normal	63	female	black or african american																											
+TCGA-50-6591-11A	TCGA-50-6591-11A	Solid Tissue Normal	63	female	white																											
+TCGA-91-8496-11A	TCGA-91-8496-11A	Solid Tissue Normal	63	female	white																											
+TCGA-55-8505-11A	TCGA-55-8505-11A	Solid Tissue Normal	62	male	white																											
+TCGA-62-8399-11A	TCGA-62-8399-11A	Solid Tissue Normal	62	male	white																											
+TCGA-44-6145-11A	TCGA-44-6145-11A	Solid Tissue Normal	62	female	white	7.797	7.933	0	12.13	0	0	0	9.849	11.29	0	8.002	0	0	0	7.43	0	0	14.7	0	0	0	16.02	0	0	0	0	0
+TCGA-91-6847-11A	TCGA-91-6847-11A	Solid Tissue Normal	62	female	white	0	0	0	12.69	0	6.135	0	0	0	0	0	0	0	0	8.636	0	0	14.1	0	0	0	16.06	0	0	0	0	0
+TCGA-55-8506-11A	TCGA-55-8506-11A	Solid Tissue Normal	62	female	white																											
+TCGA-49-AAR9-11A	TCGA-49-AAR9-11A	Solid Tissue Normal	61	male	black or african american																											
+TCGA-55-6968-11A	TCGA-55-6968-11A	Solid Tissue Normal	61	male	white	17.03	17.73	16.01	14.48	12.61	7.169	15.81	21.46	14.55	10.04	13.04	14.7	15.69	13.53	17.1	13.95	11.28	14.02	14.41	8.92	12.13	0	14.88	13.84	14.56	9.138	14.27
+TCGA-55-6975-11A	TCGA-55-6975-11A	Solid Tissue Normal	61	male	white	16.89	18.92	16.11	14.79	13.07	6.354	16.33	21.22	14.63	10.22	13.59	14.4	16.2	11.13	16.88	13.86	10.87	15.59	16.17	10.68	0	0	14.16	13.53	15.14	0	14.33
+TCGA-44-7662-11A	TCGA-44-7662-11A	Solid Tissue Normal	61	male	white																											
+TCGA-99-8032-11A	TCGA-99-8032-11A	Solid Tissue Normal	61	male	white																											
+TCGA-44-5645-11A	TCGA-44-5645-11A	Solid Tissue Normal	61	female	black or african american	5.723	8.008	6.488	14.55	0	5.427	0	10.56	8.204	0	0	0	5.764	0	8.5	0	0	14.96	0	0	0	14.85	0	0	0	0	0
+TCGA-55-7913-11A	TCGA-55-7913-11A	Solid Tissue Normal	61	female	black or african american																											
+TCGA-49-4505-11A	TCGA-49-4505-11A	Solid Tissue Normal	61	female	white																											
+TCGA-55-8299-11A	TCGA-55-8299-11A	Solid Tissue Normal	61	female	white																											
+TCGA-55-7570-11A	TCGA-55-7570-11A	Solid Tissue Normal	60	male	black or african american																											
+TCGA-44-6148-11A	TCGA-44-6148-11A	Solid Tissue Normal	60	male	white	16.81	18.38	16.12	13.02	12.92	8.886	16	20.7	14.86	10.06	13.52	14.31	16	10.56	16.79	13.45	9.995	13.17	14.43	11.53	11.57	7.876	14.38	14.14	14.84	0	14.31
+TCGA-50-7109-11A	TCGA-50-7109-11A	Solid Tissue Normal	60	male	white																											
+TCGA-55-8620-11A	TCGA-55-8620-11A	Solid Tissue Normal	60	male	white																											
+TCGA-78-7163-11A	TCGA-78-7163-11A	Solid Tissue Normal	60	male	white																											
+TCGA-55-8508-11A	TCGA-55-8508-11A	Solid Tissue Normal	60	female	black or african american																											
+TCGA-44-6776-11A	TCGA-44-6776-11A	Solid Tissue Normal	60	female	white	7.296	8.597	7.073	13.95	0	0	0	12.67	9.791	0	0	0	6.346	0	0	0	0	13.97	0	0	0	16.22	0	0	0	0	0
+TCGA-44-3918-11A	TCGA-44-3918-11A	Solid Tissue Normal	60	female	white																											
+TCGA-44-4112-11A	TCGA-44-4112-11A	Solid Tissue Normal	60	female	white																											
+TCGA-55-8097-11A	TCGA-55-8097-11A	Solid Tissue Normal	60	female	white																											
+TCGA-78-8640-11A	TCGA-78-8640-11A	Solid Tissue Normal	59	male	not reported																											
+TCGA-44-6778-11A	TCGA-44-6778-11A	Solid Tissue Normal	59	male	black or african american	16.9	19.43	16.31	15.14	12.13	5.708	16.24	20.79	14.75	10.56	13.18	13.96	16.18	11.79	17.13	13.28	10.93	13.25	11.61	10.02	12.39	4.955	14.24	13.25	15.24	0	14.35
+TCGA-44-7669-11A	TCGA-44-7669-11A	Solid Tissue Normal	59	male	black or african american																											
+TCGA-44-2656-11A	TCGA-44-2656-11A	Solid Tissue Normal	59	male	white																											
+TCGA-73-4675-11A	TCGA-73-4675-11A	Solid Tissue Normal	59	male	white																											
+TCGA-91-6848-11A	TCGA-91-6848-11A	Solid Tissue Normal	59	male	white																											
+TCGA-55-6979-11A	TCGA-55-6979-11A	Solid Tissue Normal	59	female	white	0	7.493	0	15.58	0	0	0	0	11.27	10.34	0	0	0	0	0	0	0	13.45	0	0	0	16.5	0	0	0	0	0
+TCGA-55-6971-11A	TCGA-55-6971-11A	Solid Tissue Normal	59	female	white	0	6.9	0	14.69	0	0	0	9.809	0	0	0	0	6.227	0	0	0	0	14.07	0	0	0	17.32	0	0	0	0	7.999
+TCGA-55-8087-11A	TCGA-55-8087-11A	Solid Tissue Normal	59	female	white																											
+TCGA-44-8120-11A	TCGA-44-8120-11A	Solid Tissue Normal	58	male	black or african american																											
+TCGA-50-5936-11A	TCGA-50-5936-11A	Solid Tissue Normal	58	male	white	16.59	18.56	16.42	14.9	12.53	5.881	15.83	20.65	14.64	0	13.65	13.71	16.09	11.23	16.75	13.2	10.04	13.84	13.37	9.616	10.24	0	14.41	13.64	15.09	0	13.71
+TCGA-44-6144-11A	TCGA-44-6144-11A	Solid Tissue Normal	58	male	white	16.59	17.92	15.91	14.7	12.89	7.343	15.69	21.04	14.36	10.63	13.42	14.35	15.64	11.86	17.11	13.04	11.33	14.96	12.68	11.51	10.13	6.577	14.12	13.95	14.44	0	13.79
+TCGA-55-8301-11A	TCGA-55-8301-11A	Solid Tissue Normal	58	male	white																											
+TCGA-55-6985-11A	TCGA-55-6985-11A	Solid Tissue Normal	58	female	white	11.17	10.97	6.189	14.24	0	0	10.61	10.62	9.483	0	6.613	10.75	10.19	0	11.42	10.11	7.82	12.3	0	0	0	17.11	0	0	6.253	0	0
+TCGA-55-8616-11A	TCGA-55-8616-11A	Solid Tissue Normal	58	female	white																											
+TCGA-49-AAR0-11A	TCGA-49-AAR0-11A	Solid Tissue Normal	57	male	black or african american																											
+TCGA-38-4626-11A	TCGA-38-4626-11A	Solid Tissue Normal	57	female	white	0	9.642	0	12.17	0	0	7.097	10.2	10.16	0	0	0	6.393	0	6.565	0	0	13.02	0	0	0	14.14	0	0	0	0	0
+TCGA-55-6980-11A	TCGA-55-6980-11A	Solid Tissue Normal	56	male	white	17.26	18.26	16.15	14.73	13.11	6.387	16.33	20.84	14.53	10.25	12.94	14.8	15.95	10.16	16.83	14.39	11.34	14.94	15.3	11.45	0	0	13.09	13.24	14.76	0	14.8
+TCGA-55-8089-11A	TCGA-55-8089-11A	Solid Tissue Normal	56	male	white																											
+TCGA-55-8206-11A	TCGA-55-8206-11A	Solid Tissue Normal	56	male	white																											
+TCGA-78-7542-11A	TCGA-78-7542-11A	Solid Tissue Normal	56	male	white																											
+TCGA-49-AARN-11A	TCGA-49-AARN-11A	Solid Tissue Normal	56	female	black or african american																											
+TCGA-44-6774-11A	TCGA-44-6774-11A	Solid Tissue Normal	56	female	white																											
+TCGA-55-1596-11A	TCGA-55-1596-11A	Solid Tissue Normal	55	male	asian																											
+TCGA-62-8398-11A	TCGA-62-8398-11A	Solid Tissue Normal	55	male	white																											
+TCGA-44-2665-11A	TCGA-44-2665-11A	Solid Tissue Normal	55	female	white	5.307	6.014	0	13	0	0	0	8.331	8.777	0	0	0	5.348	0	0	0	0	13.07	0	0	0	14.76	0	0	0	0	0
+TCGA-55-7576-11A	TCGA-55-7576-11A	Solid Tissue Normal	54	male	black or african american																											
+TCGA-44-8117-11A	TCGA-44-8117-11A	Solid Tissue Normal	54	female	white																											
+TCGA-44-5643-11A	TCGA-44-5643-11A	Solid Tissue Normal	53	male	black or african american																											
+TCGA-55-8507-11A	TCGA-55-8507-11A	Solid Tissue Normal	53	male	white																											
+TCGA-55-6981-11A	TCGA-55-6981-11A	Solid Tissue Normal	53	female	white	0	7.3	0	13.02	0	0	0	8.629	11.07	0	0	0	0	0	0	0	0	10.67	0	0	0	17.31	0	0	0	0	0
+TCGA-55-6969-11A	TCGA-55-6969-11A	Solid Tissue Normal	52	male	white	17.36	18.32	16.02	15.58	12.41	6.152	16.18	21.04	14.49	12.6	13.93	14.34	16.04	11.5	16.87	13.92	11.44	16.23	14.38	11.47	0	0	13.74	13.18	14.91	0	14.6
+TCGA-91-6836-11A	TCGA-91-6836-11A	Solid Tissue Normal	52	female	white	8.034	8.754	8.808	14.31	0	0	7.206	12.31	0	10.02	0	0	0	0	0	0	0	12.13	0	0	0	17.15	0	0	0	0	0
+TCGA-44-7672-11A	TCGA-44-7672-11A	Solid Tissue Normal	52	female	white																											
+TCGA-73-4666-11A	TCGA-73-4666-11A	Solid Tissue Normal	52	female	white																											
+TCGA-49-AAR4-11A	TCGA-49-AAR4-11A	Solid Tissue Normal	51	male	black or african american																											
+TCGA-44-2668-11A	TCGA-44-2668-11A	Solid Tissue Normal	51	male	white	16.26	18.24	15.87	13.59	11.75	6.166	15.47	20.84	14.49	9.03	13.66	13.68	15.39	8.937	16.57	13.17	9.331	13.25	13.39	10.23	9.532	0	13.92	12.19	14.49	0	13.03
+TCGA-55-8094-11A	TCGA-55-8094-11A	Solid Tissue Normal	51	male	white																											
+TCGA-49-4510-11A	TCGA-49-4510-11A	Solid Tissue Normal	51	female	black or african american																											
+TCGA-49-AARE-11A	TCGA-49-AARE-11A	Solid Tissue Normal	51	female	black or african american																											
+TCGA-44-5644-11A	TCGA-44-5644-11A	Solid Tissue Normal	51	female	white																											
+TCGA-55-7910-11A	TCGA-55-7910-11A	Solid Tissue Normal	50	female	black or african american																											
+TCGA-99-8028-11A	TCGA-99-8028-11A	Solid Tissue Normal	50	female	black or african american																											
+TCGA-44-6779-11A	TCGA-44-6779-11A	Solid Tissue Normal	50	female	white																											
+TCGA-44-7667-11A	TCGA-44-7667-11A	Solid Tissue Normal	49	female	white																											
+TCGA-50-6593-11A	TCGA-50-6593-11A	Solid Tissue Normal	49	female	white																											
+TCGA-50-5930-11A	TCGA-50-5930-11A	Solid Tissue Normal	47	male	white	16.3	17.91	16.07	13.18	11.86	8.446	15.49	21.19	14.78	0	12.91	14.16	15.65	11.49	16.88	13.55	8.433	12.84	14.37	8.881	0	0	14.12	12.8	14.64	0	14.13
+TCGA-44-7670-11A	TCGA-44-7670-11A	Solid Tissue Normal	47	female	white																											
+TCGA-49-6767-11A	TCGA-49-6767-11A	Solid Tissue Normal	46	female	white																											
+TCGA-73-4676-11A	TCGA-73-4676-11A	Solid Tissue Normal	45	male	white	15.58	17.85	15.95	13.98	10.59	7.901	14.65	21.78	15.33	11.19	14.02	14.6	15.38	12.1	17.17	13.79	9.357	13.52	15.24	10.65	11.69	0	14.47	12.99	14.78	0	12.25
+TCGA-49-4490-11A	TCGA-49-4490-11A	Solid Tissue Normal	45	female	white	8.305	7.033	8.665	13.51	8.28	0	7.063	11.36	10.39	0	0	0	6.36	0	9.104	0	0	10.4	0	0	0	13.1	0	0	0	0	0
+TCGA-44-2666-11A	TCGA-44-2666-11A	Solid Tissue Normal	43	male	white																											
+TCGA-38-4632-11A	TCGA-38-4632-11A	Solid Tissue Normal	42	male	black or african american	15.79	18.08	16.3	9.402	11.43	7.352	15.17	21.83	14.7	11.81	12.21	14.46	15.39	0	17.8	14.2	9.391	14.74	15.08	10.1	0	0	15.47	13.03	15.03	0	12.87
+TCGA-55-8512-11A	TCGA-55-8512-11A	Solid Tissue Normal	41	male	white																											
+TCGA-49-AARQ-11A	TCGA-49-AARQ-11A	Solid Tissue Normal	41	female	black or african american																											
+TCGA-49-AARO-11A	TCGA-49-AARO-11A	Solid Tissue Normal	39	female	black or african american																											
+TCGA-44-3917-11A	TCGA-44-3917-11A	Solid Tissue Normal	33	female	white																											
+TCGA-17-Z000-11A	TCGA-17-Z000-11A	Solid Tissue Normal																														
+TCGA-17-Z001-11A	TCGA-17-Z001-11A	Solid Tissue Normal																														
+TCGA-17-Z002-11A	TCGA-17-Z002-11A	Solid Tissue Normal																														
+TCGA-17-Z003-11A	TCGA-17-Z003-11A	Solid Tissue Normal																														
+TCGA-17-Z004-11A	TCGA-17-Z004-11A	Solid Tissue Normal																														
+TCGA-17-Z005-11A	TCGA-17-Z005-11A	Solid Tissue Normal																														
+TCGA-17-Z006-11A	TCGA-17-Z006-11A	Solid Tissue Normal																														
+TCGA-17-Z007-11A	TCGA-17-Z007-11A	Solid Tissue Normal																														
+TCGA-17-Z008-11A	TCGA-17-Z008-11A	Solid Tissue Normal																														
+TCGA-17-Z009-11A	TCGA-17-Z009-11A	Solid Tissue Normal																														
+TCGA-17-Z010-11A	TCGA-17-Z010-11A	Solid Tissue Normal																														
+TCGA-17-Z011-11A	TCGA-17-Z011-11A	Solid Tissue Normal																														
+TCGA-17-Z012-11A	TCGA-17-Z012-11A	Solid Tissue Normal																														
+TCGA-17-Z013-11A	TCGA-17-Z013-11A	Solid Tissue Normal																														
+TCGA-17-Z014-11A	TCGA-17-Z014-11A	Solid Tissue Normal																														
+TCGA-17-Z015-11A	TCGA-17-Z015-11A	Solid Tissue Normal																														
+TCGA-17-Z016-11A	TCGA-17-Z016-11A	Solid Tissue Normal																														
+TCGA-17-Z017-11A	TCGA-17-Z017-11A	Solid Tissue Normal																														
+TCGA-17-Z018-11A	TCGA-17-Z018-11A	Solid Tissue Normal																														
+TCGA-17-Z019-11A	TCGA-17-Z019-11A	Solid Tissue Normal																														
+TCGA-17-Z020-11A	TCGA-17-Z020-11A	Solid Tissue Normal																														
+TCGA-17-Z021-11A	TCGA-17-Z021-11A	Solid Tissue Normal																														
+TCGA-17-Z022-11A	TCGA-17-Z022-11A	Solid Tissue Normal																														
+TCGA-17-Z023-11A	TCGA-17-Z023-11A	Solid Tissue Normal																														
+TCGA-17-Z024-11A	TCGA-17-Z024-11A	Solid Tissue Normal																														
+TCGA-17-Z025-11A	TCGA-17-Z025-11A	Solid Tissue Normal																														
+TCGA-17-Z026-11A	TCGA-17-Z026-11A	Solid Tissue Normal																														
+TCGA-17-Z027-11A	TCGA-17-Z027-11A	Solid Tissue Normal																														
+TCGA-17-Z028-11A	TCGA-17-Z028-11A	Solid Tissue Normal																														
+TCGA-17-Z029-11A	TCGA-17-Z029-11A	Solid Tissue Normal																														
+TCGA-17-Z030-11A	TCGA-17-Z030-11A	Solid Tissue Normal																														
+TCGA-17-Z031-11A	TCGA-17-Z031-11A	Solid Tissue Normal																														
+TCGA-17-Z032-11A	TCGA-17-Z032-11A	Solid Tissue Normal																														
+TCGA-17-Z033-11A	TCGA-17-Z033-11A	Solid Tissue Normal																														
+TCGA-17-Z034-11A	TCGA-17-Z034-11A	Solid Tissue Normal																														
+TCGA-17-Z035-11A	TCGA-17-Z035-11A	Solid Tissue Normal																														
+TCGA-17-Z036-11A	TCGA-17-Z036-11A	Solid Tissue Normal																														
+TCGA-17-Z037-11A	TCGA-17-Z037-11A	Solid Tissue Normal																														
+TCGA-17-Z038-11A	TCGA-17-Z038-11A	Solid Tissue Normal																														
+TCGA-17-Z039-11A	TCGA-17-Z039-11A	Solid Tissue Normal																														
+TCGA-17-Z040-11A	TCGA-17-Z040-11A	Solid Tissue Normal																														
+TCGA-17-Z041-11A	TCGA-17-Z041-11A	Solid Tissue Normal																														
+TCGA-17-Z042-11A	TCGA-17-Z042-11A	Solid Tissue Normal																														
+TCGA-17-Z043-11A	TCGA-17-Z043-11A	Solid Tissue Normal																														
+TCGA-17-Z044-11A	TCGA-17-Z044-11A	Solid Tissue Normal																														
+TCGA-17-Z045-11A	TCGA-17-Z045-11A	Solid Tissue Normal																														
+TCGA-17-Z046-11A	TCGA-17-Z046-11A	Solid Tissue Normal																														
+TCGA-17-Z047-11A	TCGA-17-Z047-11A	Solid Tissue Normal																														
+TCGA-17-Z048-11A	TCGA-17-Z048-11A	Solid Tissue Normal																														
+TCGA-17-Z049-11A	TCGA-17-Z049-11A	Solid Tissue Normal																														
+TCGA-17-Z050-11A	TCGA-17-Z050-11A	Solid Tissue Normal																														
+TCGA-17-Z051-11A	TCGA-17-Z051-11A	Solid Tissue Normal																														
+TCGA-17-Z052-11A	TCGA-17-Z052-11A	Solid Tissue Normal																														
+TCGA-17-Z053-11A	TCGA-17-Z053-11A	Solid Tissue Normal																														
+TCGA-17-Z054-11A	TCGA-17-Z054-11A	Solid Tissue Normal																														
+TCGA-17-Z055-11A	TCGA-17-Z055-11A	Solid Tissue Normal																														
+TCGA-17-Z056-11A	TCGA-17-Z056-11A	Solid Tissue Normal																														
+TCGA-17-Z057-11A	TCGA-17-Z057-11A	Solid Tissue Normal																														
+TCGA-17-Z058-11A	TCGA-17-Z058-11A	Solid Tissue Normal																														
+TCGA-17-Z059-11A	TCGA-17-Z059-11A	Solid Tissue Normal																														
+TCGA-17-Z060-11A	TCGA-17-Z060-11A	Solid Tissue Normal																														
+TCGA-17-Z061-11A	TCGA-17-Z061-11A	Solid Tissue Normal																														
+TCGA-17-Z062-11A	TCGA-17-Z062-11A	Solid Tissue Normal																														
+TCGA-55-A4DF-01A	TCGA-55-A4DF-01A	Primary Tumor	88	male	white	15.94	18.27	15.72	12.55	12.84	6.264	16.29	18.99	14.72	0	12.32	12	16.39	0	15.26	13.38	11.61	11.97	12.76	9.59	0	6.489	13.97	14.16	15.61	0	13.58
+TCGA-55-8204-01A	TCGA-55-8204-01A	Primary Tumor	87	female	white	7.766	8.485	8.539	10.78	0	0	7.519	11.95	9.527	9.019	0	0	7.075	0	7.66	0	0	12.34	0	0	0	14.74	0	0	6.296	0	0
+TCGA-NJ-A4YI-01A	TCGA-NJ-A4YI-01A	Primary Tumor	87	female	white	6.181	9.207	0	16.54	0	0	7.506	11.8	9.666	0	0	0	6.222	0	7.385	0	0	20.49	0	0	0	14.45	0	0	7.013	0	0
+TCGA-50-5935-01A	TCGA-50-5935-01A	Primary Tumor	86	female	white	6.171	7.878	6.938	10.9	0	0	5.926	9.793	0	0	0	0	0	0	0	8.287	6.586	17.85	0	0	0	16.93	0	0	0	0	0
+TCGA-69-8254-01A	TCGA-69-8254-01A	Primary Tumor	85	male	white	17.62	18.12	16.07	13.08	13.04	6.74	16.38	21.14	14.59	9.873	14.13	14.12	15.94	0	15.34	15.15	11.43	13.26	13.33	9.486	10.38	5.662	15.1	12.98	15.24	0	13.29
+TCGA-50-5939-01A	TCGA-50-5939-01A	Primary Tumor	85	male	white	16.5	18.43	16.73	12.14	9.862	0	15.52	21.26	14.5	0	14.99	13.4	15.31	0	16.88	10.02	8.311	10.4	0	8.759	11.38	5.264	14	12.87	15.37	0	12.65
+TCGA-44-6777-01A	TCGA-44-6777-01A	Primary Tumor	85	female	white	7.505	6.648	0	11.37	0	0	5.692	10.55	0	0	0	0	0	0	7.138	0	0	13.92	0	0	0	14.58	0	0	0	0	0
+TCGA-62-A470-01A	TCGA-62-A470-01A	Primary Tumor	84	male	white	17.58	18.04	16.66	12.38	13.82	0	16.48	21.63	14.67	0	12.61	15.79	16.12	12.53	17.48	15.58	13.65	18.95	12.67	0	0	16.61	12.97	0	15.17	0	14.82
+TCGA-78-7166-01A	TCGA-78-7166-01A	Primary Tumor	84	male	white	17.56	17.43	15.74	11.73	9.627	0	16	21.82	15.47	9.231	13.36	15.24	14.94	0	17.24	15.72	9.073	17.04	11.27	11.69	0	0	14.17	13.81	14.43	0	13.71
+TCGA-69-7761-01A	TCGA-69-7761-01A	Primary Tumor	84	male	white	17.18	17.99	16.34	13.21	0	5.516	16.15	19.82	14.02	9.367	13.3	13.62	15.83	0	17.09	13.87	12.11	15.91	0	10.24	9.869	7.045	14.35	13.45	14.79	0	13.4
+TCGA-67-3773-01A	TCGA-67-3773-01A	Primary Tumor	84	female	white	7.681	8.983	0	11.6	0	6.388	0	9.732	10.18	0	0	0	0	0	0	0	0	10.77	0	0	0	12.34	0	0	0	0	0
+TCGA-50-6673-01A	TCGA-50-6673-01A	Primary Tumor	84	female	white	0	0	0	10.69	0	0	0	0	8.442	0	10.39	0	0	0	0	0	0	16.57	0	0	0	15.89	0	0	0	0	7.769
+TCGA-97-A4M5-01A	TCGA-97-A4M5-01A	Primary Tumor	83	male	white	16.24	16.99	14.84	12.61	11.41	5.172	14.89	19.37	12.89	10.01	12.95	12.91	14.51	0	15.32	12.15	9.764	15.82	12.64	10.21	9.518	7.368	12.04	11.33	13.55	0	13.28
+TCGA-97-7554-01A	TCGA-97-7554-01A	Primary Tumor	83	female	white	7.191	7.909	7.962	9.351	7.578	0	5.383	9.654	10.42	0	0	7.153	5.667	0	7.818	0	0	18.05	0	0	0	14.95	0	0	0	0	0
+TCGA-05-4433-01A	TCGA-05-4433-01A	Primary Tumor	82	male	not reported	15.17	16.68	14.49	12.84	10.84	6.989	14.5	19.11	12.87	0	12.01	11.29	14.29	0	15.11	11.73	10.16	15.38	12.9	10.32	0	6.225	12.89	11.44	13.25	0	11.11
+TCGA-49-6745-01A	TCGA-49-6745-01A	Primary Tumor	82	male	white	15.36	17.14	15.41	11.72	9.77	6.507	15.35	20.81	13.85	9.375	13.37	12.29	15.38	0	16.09	12.73	9.801	11.89	12.42	9.835	0	0	13.57	12.37	15.49	0	11.32
+TCGA-67-3772-01A	TCGA-67-3772-01A	Primary Tumor	82	female	white	5.746	8.032	6.511	0	0	0	5.504	11.24	11.22	9.3	0	0	0	0	6.947	0	0	15.28	0	0	0	14.19	0	9.293	0	0	0
+TCGA-97-8171-01A	TCGA-97-8171-01A	Primary Tumor	81	male	asian	17.66	18.13	15.81	14.42	11.35	0	16.32	22.73	14.95	10.15	11.32	12.89	16.27	0	16.73	16.34	8.865	11.66	10.61	10.61	9.066	4	13.91	10.88	14.98	0	13.11
+TCGA-05-4245-01A	TCGA-05-4245-01A	Primary Tumor	81	male	not reported																											
+TCGA-97-A4LX-01A	TCGA-97-A4LX-01A	Primary Tumor	81	male	white	16.89	17.13	14.6	16.01	10.49	6.808	15.2	19.36	13.26	0	13.01	12.31	14.71	9.999	15.62	10.45	11.46	14.7	11.14	9.554	9.596	8.763	12.29	10.67	13.95	0	13.89
+TCGA-55-6983-01A	TCGA-55-6983-01A	Primary Tumor	81	male	white	16.69	17.29	16.13	12.7	13.15	8.62	15.79	21.31	14.47	10.69	15.33	14.39	15.14	0	16.89	14.86	10.34	11.53	10.74	9.154	10.19	6.377	13.77	12.68	14.96	0	13.35
+TCGA-55-6978-01A	TCGA-55-6978-01A	Primary Tumor	81	male	white	16.06	17.46	16.06	16.25	8.772	0	15.19	19.75	13.3	0	14.47	12.82	14.92	8.697	16.42	11.98	10.39	14.83	0	0	9.292	6.733	12.99	10.78	15.86	0	12.97
+TCGA-55-7994-01A	TCGA-55-7994-01A	Primary Tumor	81	male	white	15.13	15.87	13.39	10.89	0	4.882	13.56	17.51	11.1	0	11.1	9.491	12.69	0	14.11	0	10.51	15.8	0	7.598	0	7.24	12.33	8.71	12.33	0	10.96
+TCGA-73-7499-01A	TCGA-73-7499-01A	Primary Tumor	81	female	white	8.119	7.62	0	11.31	0	0	5.101	11.06	8.813	0	0	0	5.383	0	0	0	0	17.5	0	0	0	15.1	0	0	0	0	0
+TCGA-91-6835-01A	TCGA-91-6835-01A	Primary Tumor	81	female	white	5.617	7.318	0	11.93	0	6.303	6.936	9.967	8.096	0	6.806	7.144	5.658	0	0	0	0	15.89	0	0	0	17.4	0	0	0	0	0
+TCGA-49-6743-01A	TCGA-49-6743-01A	Primary Tumor	81	female	white	0	6.558	0	10.16	0	0	5.603	9.879	9.327	0	0	0	0	0	7.048	0	6.261	12.24	0	0	0	14.52	0	0	6.676	0	0
+TCGA-55-A491-01A	TCGA-55-A491-01A	Primary Tumor	81	female	white	0	0	0	11.62	0	0	0	0	9.953	0	0	0	0	0	0	0	0	16.7	0	0	0	13.75	0	0	0	0	0
+TCGA-38-A44F-01A	TCGA-38-A44F-01A	Primary Tumor	80	male	white	17.14	17.92	15.68	15.36	11.46	0	15.89	20.9	15.12	11.07	13.58	15.25	15.51	0	17.28	13.92	12.8	16	13.11	11.94	0	7.16	13.84	14.06	14.5	0	14.97
+TCGA-55-8090-01A	TCGA-55-8090-01A	Primary Tumor	80	male	white	16.28	17.24	15.29	13.06	12.74	0	15.64	18.93	13.19	8.623	14.08	14.06	14.94	0	16.54	12.26	10.59	14.53	12.99	9.083	9.125	0	14.08	12.93	14.35	0	13.24
+TCGA-55-A57B-01A	TCGA-55-A57B-01A	Primary Tumor	80	female	black or african american	6.225	6.94	0	11.87	0	4.951	5.004	7.272	7.716	0	0	0	0	0	6.439	0	0	11.63	0	0	0	18.75	0	0	0	0	0
+TCGA-62-8395-01A	TCGA-62-8395-01A	Primary Tumor	80	female	white	6.608	8.641	6.387	11.74	0	0	5.381	11.24	8.102	0	0	0	6.65	0	0	0	0	9.692	0	0	0	17.58	0	0	0	0	0
+TCGA-73-4658-01A	TCGA-73-4658-01A	Primary Tumor	80	female	white	0	6.791	0	10.98	0	0	0	0	9.562	0	0	0	0	0	0	0	0	14.96	0	0	0	13.27	0	0	0	0	0
+TCGA-44-A47B-01A	TCGA-44-A47B-01A	Primary Tumor	79	male	white	17.32	18.25	16.07	11.42	13.58	6.296	16.28	21.38	14.49	9.162	14.63	15.75	16.16	0	16.76	13.2	12.32	17.23	12.2	11.04	10.66	9.315	13.28	11.74	15.2	0	14.14
+TCGA-86-8055-01A	TCGA-86-8055-01A	Primary Tumor	79	male	white	16.63	18.2	16.5	11.19	13.11	6.822	16.42	20.24	14.38	10.28	14.61	13.88	15.4	0	16.9	13.92	7.54	15.48	12.74	8.571	10.19	5.651	14.25	12.59	14.96	0	12.33
+TCGA-05-4250-01A	TCGA-05-4250-01A	Primary Tumor	79	female	not reported	5.24	0	0	16.18	0	0	4.999	7.267	9.292	0	0	0	0	0	0	0	0	13.39	0	0	0	12.74	0	0	0	0	0
+TCGA-50-6594-01A	TCGA-50-6594-01A	Primary Tumor	79	female	black or african american	0	0	0	9.682	0	0	6.115	10.98	10.43	0	0	0	6.401	0	8.561	0	0	15.72	0	0	0	17.63	0	0	0	0	0
+TCGA-50-6597-01A	TCGA-50-6597-01A	Primary Tumor	79	female	white	7.831	0	0	8.582	0	0	0	0	10.91	0	7.042	0	0	0	0	0	0	15.17	0	0	0	11.96	0	0	0	0	0
+TCGA-49-4514-01A	TCGA-49-4514-01A	Primary Tumor	79	female	white	6.531	0	0	15.09	0	0	0	0	0	0	7.728	0	0	0	0	0	0	17.15	0	0	0	14.18	0	0	0	0	0
+TCGA-55-6982-01A	TCGA-55-6982-01A	Primary Tumor	79	female	white	0	8.288	0	10.9	0	0	0	8.621	11.07	0	0	0	0	0	0	0	0	14.47	0	0	0	14.68	0	0	0	0	0
+TCGA-50-5055-01A	TCGA-50-5055-01A	Primary Tumor	79	female	white	0	0	0	13.32	0	6.242	0	0	0	0	0	0	0	0	0	0	0	15.98	0	0	0	14.64	0	0	0	0	0
+TCGA-91-A4BD-01A	TCGA-91-A4BD-01A	Primary Tumor	78	male	white	16.63	17.33	15.57	16.22	11.92	0	15.68	22.39	15.19	0	12.53	15.53	15.19	0	18.01	14.37	9.852	13.72	0	10.66	0	0	11.82	14.1	14.84	0	14.77
+TCGA-91-6829-01A	TCGA-91-6829-01A	Primary Tumor	78	male	white	14.53	16.26	13.73	12.56	0	5.536	13.3	18.51	11.63	0	14.24	11.26	12.86	0	13.76	8.942	7.238	16.35	0	9.265	11.89	0	0	0	12.78	0	11.44
+TCGA-55-A490-01A	TCGA-55-A490-01A	Primary Tumor	78	male	white	14.19	15.12	11.83	12.64	0	5.615	11.93	17.57	8.395	0	11.22	9.436	12.27	0	13.72	0	0	15.51	0	9.929	12.29	16.72	12.67	10.46	11.25	0	0
+TCGA-86-A456-01A	TCGA-86-A456-01A	Primary Tumor	78	female	asian	8.296	8.281	6.759	11.81	0	0	7.316	12.83	11.28	9.551	6.195	0	7.023	0	8.774	0	0	13.65	0	0	0	17.06	0	0	6.823	0	0
+TCGA-97-8547-01A	TCGA-97-8547-01A	Primary Tumor	78	female	not reported	0	0	0	9.138	0	0	0	8.443	0	0	0	0	0	0	0	0	0	16.15	0	0	0	15.88	0	0	0	0	0
+TCGA-62-A46V-01A	TCGA-62-A46V-01A	Primary Tumor	78	female	white	6.747	8.046	7.517	10.07	0	0	0	10.38	8.242	0	5.963	0	6.789	0	6.961	0	0	9.832	0	0	0	14.78	0	0	0	0	0
+TCGA-44-A47A-01A	TCGA-44-A47A-01A	Primary Tumor	78	female	white	0	0	0	10.33	0	5.498	0	0	0	0	0	0	0	0	0	0	6.209	12.67	0	0	0	15.45	0	0	0	0	0
+TCGA-93-8067-01A	TCGA-93-8067-01A	Primary Tumor	77	male	asian	17.79	18.21	16.52	14.16	13.56	4.71	16.56	21.78	15.5	8.539	15.48	15.77	16.34	8.446	18.09	15.32	9.286	11.86	13.39	9.997	9.04	6.223	15.55	10.53	16.95	0	13.73
+TCGA-78-7167-01A	TCGA-78-7167-01A	Primary Tumor	77	male	white	18.72	18.17	16.51	14.05	13.14	6.71	17.49	22.21	15.6	8.581	12.41	15.41	16.23	0	17.15	15.24	9.509	17.55	0	10.91	0	5.947	11.93	11.89	15.9	0	14.97
+TCGA-69-8453-01A	TCGA-69-8453-01A	Primary Tumor	77	male	white	16.82	18.05	15.63	15.69	11.17	6.447	15.66	21.14	14.54	9.314	12.83	13.86	15.73	0	17.01	13.51	9.963	12.83	14.53	10.19	9.816	6.992	14.43	14.73	14.33	0	13.49
+TCGA-49-4494-01A	TCGA-49-4494-01A	Primary Tumor	77	male	white	16.71	16.93	15.97	8.4	14.2	0	15.45	22	16.22	12.54	14.23	16.45	14.72	9.545	18.01	15.75	8.069	11.48	16.11	0	0	0	16.26	13.72	15.84	0	12.31
+TCGA-55-7227-01A	TCGA-55-7227-01A	Primary Tumor	77	male	white	16.62	17.6	16.05	13.03	10.01	0	15.88	21.99	14.44	11.93	14.37	14.15	15.85	0	16.94	11.75	9.26	10.13	0	8.488	0	5	11.22	11.6	14.36	0	14.23
+TCGA-55-6987-01A	TCGA-55-6987-01A	Primary Tumor	77	male	white	16.52	16.95	14.79	14.06	10.3	6.307	14.93	19.62	13	10.59	13.16	11.6	14.6	0	16.14	10.46	11.82	13.96	10.63	7.469	9.09	6.753	12.62	10.9	13.62	0	13.56
+TCGA-55-7907-01A	TCGA-55-7907-01A	Primary Tumor	77	male	white	14.84	16.01	13.9	12.58	10.35	7.079	13.57	18.61	12.04	9.951	12.86	10.73	13.26	0	15.09	10.09	11.25	17.08	0	8.829	10.45	8.47	13.15	10.94	12.5	0	11.78
+TCGA-MP-A4TC-01A	TCGA-MP-A4TC-01A	Primary Tumor	77	male	white	14.63	15.42	13.36	11.71	0	5.369	12.82	17.91	11.46	0	12.7	10.64	12.55	0	14.06	10.94	8.646	15.59	0	10.09	0	9.024	10.25	10.21	11.73	0	11.99
+TCGA-78-8655-01A	TCGA-78-8655-01A	Primary Tumor	77	female	not reported	8.746	9.204	0	10.23	0	0	7.503	11.02	11.66	0	0	0	7.21	0	0	0	0	13.25	0	8.616	0	16.89	0	0	0	0	0
+TCGA-67-3771-01A	TCGA-67-3771-01A	Primary Tumor	77	female	black or african american	6.125	0	0	17.4	0	5.827	0	8.166	10.19	0	6.328	0	0	0	0	0	0	14.59	0	0	0	14.77	0	0	0	0	0
+TCGA-55-8513-01A	TCGA-55-8513-01A	Primary Tumor	77	female	white	7.87	0	0	13.46	0	0	6.053	9.922	9.784	0	0	0	6.339	0	0	0	0	12.38	0	0	0	17.64	0	0	0	0	0
+TCGA-J2-A4AE-01A	TCGA-J2-A4AE-01A	Primary Tumor	77	female	white	7.513	8.646	0	8.677	0	0	7.679	12.56	11.01	0	0	0	0	0	8.141	0	0	12.6	0	0	0	17.71	0	0	6.774	0	0
+TCGA-64-1677-01A	TCGA-64-1677-01A	Primary Tumor	77	female	white	6.909	8.622	7.679	16.92	0	0	0	11.95	10.99	0	0	0	0	0	0	0	0	20.18	0	0	0	13.77	0	0	7.744	0	8.728
+TCGA-44-3398-01A	TCGA-44-3398-01A	Primary Tumor	77	female	white	5.51	0	6.273	11.62	0	0	0	9.858	10.3	0	0	0	7.116	0	8.284	0	0	11.58	0	0	0	14.69	0	0	0	0	0
+TCGA-05-4396-01A	TCGA-05-4396-01A	Primary Tumor	76	male	not reported	17.55	17.7	16.51	11.97	15.58	10.81	16.66	20.51	14.5	0	12.42	15.41	15.86	0	17.15	15.7	12.29	15.46	0	0	10.49	0	14.54	11.98	15.54	0	13.19
+TCGA-55-7815-01A	TCGA-55-7815-01A	Primary Tumor	76	male	not reported	17.07	18.1	16.73	11.65	11.88	0	16.52	21.14	15.45	0	15.55	14.42	16.02	0	17.73	12.49	11.32	12.58	0	0	0	5.851	13.32	13.28	16.16	0	13.48
+TCGA-05-4395-01A	TCGA-05-4395-01A	Primary Tumor	76	male	not reported	16.38	17	15.51	9.524	0	0	14.55	22.69	15.32	10.54	14.18	11.6	15.27	12.7	16.99	13.43	11.24	15.27	0	10.23	0	0	14.8	14.64	15.89	0	12.15
+TCGA-05-4403-01A	TCGA-05-4403-01A	Primary Tumor	76	male	not reported	15.76	17.14	15.72	11.35	9.401	4.597	14.22	21.16	14.38	9.42	12.42	13.46	15.32	0	17.05	13.83	6.278	13.58	15.05	8.298	8.923	6.777	16.07	16.1	13.97	7.52	11.8
+TCGA-55-8614-01A	TCGA-55-8614-01A	Primary Tumor	76	male	white	17.62	17.89	15.72	15.23	13.88	0	16.23	19.16	14.31	0	14.06	13.73	15.44	9.563	16.75	14.68	9.82	13.17	14.7	9.532	10.16	7.012	13.15	11.97	15.43	0	14.05
+TCGA-MP-A5C7-01A	TCGA-MP-A5C7-01A	Primary Tumor	76	female	white	7.262	0	0	10.81	7.237	0	5.049	8.314	9.758	10.42	0	0	5.331	0	6.485	0	0	14.84	0	0	0	18.34	0	0	0	0	0
+TCGA-55-8205-01A	TCGA-55-8205-01A	Primary Tumor	76	female	white	6.697	7.414	0	11.71	0	0	4.9	10.86	9.189	0	5.34	0	0	0	7.323	0	0	13.9	0	0	0	16.16	0	0	5.962	0	0
+TCGA-NJ-A55A-01A	TCGA-NJ-A55A-01A	Primary Tumor	76	female	white	6.517	7.232	0	11.42	0	0	6.272	0	0	0	0	0	0	0	0	0	0	11.6	0	0	0	17.31	0	0	0	0	0
+TCGA-MP-A4T6-01A	TCGA-MP-A4T6-01A	Primary Tumor	76	female	white	6.299	0	0	11.12	0	0	5.076	10.15	7.79	0	0	0	0	0	0	0	0	11.96	0	0	0	15.31	0	0	0	0	0
+TCGA-53-7626-01A	TCGA-53-7626-01A	Primary Tumor	76	female	white	5.981	5.707	0	13.2	0	0	0	0	0	0	0	0	5.044	0	0	0	0	11.38	0	0	0	16.16	0	0	0	0	0
+TCGA-97-7938-01A	TCGA-97-7938-01A	Primary Tumor	76	female	white	0	8.734	0	16.08	0	0	5.788	10.39	9.514	0	0	0	6.073	0	7.235	0	0	18.44	0	0	0	17.39	0	0	0	0	0
+TCGA-55-7283-01A	TCGA-55-7283-01A	Primary Tumor	76	female	white	0	8.461	0	9.076	0	0	0	7.798	8.243	0	0	7.291	0	0	0	0	0	18.56	0	0	0	14.5	0	0	0	0	0
+TCGA-97-7546-01A	TCGA-97-7546-01A	Primary Tumor	76	female	white	0	7.368	6.43	16.73	0	5.37	5.424	0	11.31	0	0	0	0	0	0	0	0	13.32	0	0	0	17.03	0	0	0	0	0
+TCGA-93-7347-01A	TCGA-93-7347-01A	Primary Tumor	76	female	white	0	0	0	10.98	0	5.153	0	0	9.505	0	5.649	0	0	0	6.645	0	0	13.83	0	0	0	16.8	0	0	0	0	0
+TCGA-55-7724-01A	TCGA-55-7724-01A	Primary Tumor	76	female	white	0	0	0	10.87	0	0	0	0	9.305	0	0	0	7.847	0	0	0	0	11.9	0	0	0	16.92	0	0	0	0	0
+TCGA-91-8499-01A	TCGA-91-8499-01A	Primary Tumor	76	female	white	0	0	0	7.793	0	0	0	0	0	0	0	0	0	0	0	0	0	12.94	0	0	0	15.98	0	0	0	0	0
+TCGA-L9-A50W-01A	TCGA-L9-A50W-01A	Primary Tumor	75	male	black or african american	17.31	17.69	15.96	10.12	8.35	0	16.54	21.15	15.4	8.952	14.63	16.11	15.73	0	16.51	15.1	10.11	16.34	14.16	11.41	0	6.632	14.3	14.47	15.22	0	13.87
+TCGA-69-7764-01A	TCGA-69-7764-01A	Primary Tumor	75	male	white	18.27	18.18	16.46	11.27	13.12	5.911	16.77	21.42	15.55	9.77	13.44	15.07	16.62	0	17.6	16.05	11.42	17.36	0	10.23	10.27	0	12.8	11.35	16.51	0	14.21
+TCGA-86-8281-01A	TCGA-86-8281-01A	Primary Tumor	75	male	white	17.1	16.39	15.94	13.54	11.31	5.972	16.23	20.7	14	0	12.42	14.05	15.01	8.74	16.7	15.01	10.96	14.52	0	7.713	9.335	4.255	13.72	11.99	15.06	0	13.69
+TCGA-55-8092-01A	TCGA-55-8092-01A	Primary Tumor	75	male	white	16.94	16.78	14.47	11.52	7.164	4.925	14.48	18.82	12.59	0	13.18	10.97	14.31	0	16.33	9.898	11.41	16.36	0	10.22	10.85	5.717	11.6	11.34	13.62	0	13.05
+TCGA-78-7162-01A	TCGA-78-7162-01A	Primary Tumor	75	male	white	16.4	17.44	16.12	11.29	12.04	7.396	15.92	21.56	14.53	0	13.41	13.7	15.15	8.856	16.81	14.21	8.6	16.73	10.99	8.826	0	7.471	13.3	11.26	15.33	0	12.78
+TCGA-50-5932-01A	TCGA-50-5932-01A	Primary Tumor	75	male	white	13.65	17.6	16.97	10.09	12.03	0	15.55	21.47	15	10.11	11.84	9.662	15.78	0	13.15	13.91	5.973	16.66	0	0	11.2	5.487	13.05	12.27	15.84	0	9.943
+TCGA-MP-A4T7-01A	TCGA-MP-A4T7-01A	Primary Tumor	75	female	not reported	5.613	6.323	0	15.64	0	0	0	10.96	0	0	0	0	0	0	0	0	0	11.68	0	0	0	17.84	0	0	0	0	0
+TCGA-91-6849-01A	TCGA-91-6849-01A	Primary Tumor	75	female	black or african american	6.778	8.49	0	9.52	0	0	0	9.822	0	0	0	0	0	0	0	0	0	12.45	0	0	0	16.92	0	0	0	0	0
+TCGA-55-8621-01A	TCGA-55-8621-01A	Primary Tumor	75	female	white	8.794	8.103	7.574	11.79	0	0	7.138	12.02	0	0	0	0	5.858	0	8.595	0	0	14.35	0	0	0	17.24	0	0	6.646	0	0
+TCGA-91-8497-01A	TCGA-91-8497-01A	Primary Tumor	75	female	white	7.146	0	0	11.7	0	0	0	9.779	0	0	0	0	0	0	0	0	6.572	13.55	0	0	0	17.73	0	0	6.988	0	0
+TCGA-93-7348-01A	TCGA-93-7348-01A	Primary Tumor	75	female	white	6.976	0	0	11.18	0	5.69	0	8.026	11.64	0	0	0	0	0	0	0	0	10.06	0	0	0	16	0	0	6.818	0	0
+TCGA-38-4630-01A	TCGA-38-4630-01A	Primary Tumor	75	female	white	6.137	5.29	5.343	17.07	0	4.303	4.356	9.759	7.045	0	0	0	4.633	0	5.774	6.677	0	15.07	0	0	0	13.32	0	0	0	0	0
+TCGA-50-5931-01A	TCGA-50-5931-01A	Primary Tumor	75	female	white	6.073	6.787	0	9.392	0	5.776	5.829	9.111	0	0	6.276	0	6.115	0	0	0	0	12.15	0	0	0	17.87	0	0	6.905	0	0
+TCGA-97-8172-01A	TCGA-97-8172-01A	Primary Tumor	75	female	white	5.771	5.499	0	12.52	0	0	6.103	11.56	8.253	0	0	6.31	5.813	0	6.972	0	0	20.99	0	0	0	16.94	0	0	0	0	0
+TCGA-78-7539-01A	TCGA-78-7539-01A	Primary Tumor	75	female	white	5.096	7.369	5.854	9.616	0	0	6.407	8.698	0	0	0	6.615	0	0	0	8.19	0	16.82	0	0	0	14.05	0	0	0	0	6.893
+TCGA-MP-A4TA-01A	TCGA-MP-A4TA-01A	Primary Tumor	75	female	white	0	0	6.234	9.195	0	0	5.23	8.5	0	0	0	0	6.497	0	0	0	0	16.04	0	0	0	14.83	0	0	0	0	0
+TCGA-97-A4M7-01A	TCGA-97-A4M7-01A	Primary Tumor	74	male	white	18.14	18.1	15.93	13.46	13.77	5.173	16.96	20.92	14.55	10.6	14.72	14.75	16.03	10.51	16.95	14.7	10.94	14.18	14.23	11.35	0	7.37	13.44	11.59	15.11	0	14.87
+TCGA-55-8091-01A	TCGA-55-8091-01A	Primary Tumor	74	male	white	17.65	18.88	16.57	15.49	14.88	7.358	17.17	21.69	15.9	8.912	16.08	12.6	16.32	8.819	17.7	14	11.94	12.89	11.95	11.79	11	0	14.46	14.83	15.72	0	14.03
+TCGA-50-8460-01A	TCGA-50-8460-01A	Primary Tumor	74	male	white	16.85	17.47	15.43	16.91	14.12	7.388	15.88	21.52	14.24	10.68	14.57	14.83	15.55	0	17.18	14.69	10.61	17.92	14.31	10.55	10.18	6.044	11.71	11.25	15.43	0	14.03
+TCGA-55-7284-01B	TCGA-55-7284-01B	Primary Tumor	74	male	white	16.78	17.95	16.32	12.04	11.19	0	15.03	20.75	14.75	9.624	12.53	14.59	16.51	10.11	17.29	14.26	10.55	14.66	14.47	10.31	9.127	7.436	16	16.32	13.91	0	13.57
+TCGA-73-4677-01A	TCGA-73-4677-01A	Primary Tumor	74	male	white	16.59	17.7	16.48	12.96	12.76	5.703	16.07	22.11	14.72	11.56	11.88	14.87	15.98	0	17.37	15.04	8.724	15.72	10.6	9.756	0	0	14.89	12.55	14.38	0	13.13
+TCGA-50-5072-01A	TCGA-50-5072-01A	Primary Tumor	74	male	white	16.47	17.74	16.11	16.31	12.55	7.867	15.64	21.22	16.91	9.159	13.35	13.08	15.13	10.65	17.36	14.41	9.907	15.61	0	9.62	12.83	6.11	13.51	13.73	16.71	0	13.16
+TCGA-64-5815-01A	TCGA-64-5815-01A	Primary Tumor	74	male	white	14.94	16.33	14.55	10.27	0	6.23	13.49	19.72	12.48	0	13.71	10.65	13.86	0	15.29	11.23	0	15.2	0	0	0	0	12.71	11.67	12.78	0	11.8
+TCGA-44-A47F-01A	TCGA-44-A47F-01A	Primary Tumor	74	male	white																											
+TCGA-55-1595-01A	TCGA-55-1595-01A	Primary Tumor	74	female	asian																											
+TCGA-05-4405-01A	TCGA-05-4405-01A	Primary Tumor	74	female	not reported	6.2	0	0	9.521	8.161	0	0	11.04	9.686	0	0	0	0	0	0	0	0	16.28	0	0	0	15.26	0	0	0	0	0
+TCGA-99-8033-01A	TCGA-99-8033-01A	Primary Tumor	74	female	white	6.611	8.061	0	10.57	0	0	7.358	11.98	9.103	8.594	5.256	6.574	6.653	0	6.247	7.154	0	10.69	0	0	0	15.05	0	0	5.877	0	6.852
+TCGA-99-7458-01A	TCGA-99-7458-01A	Primary Tumor	74	female	white	6.162	6.876	0	15.8	0	0	0	8.203	7.652	0	0	0	0	0	6.375	0	0	14.28	0	0	0	17.54	0	8.717	6.005	0	0
+TCGA-44-2657-01A	TCGA-44-2657-01A	Primary Tumor	74	female	white	6.15	6.864	0	10.88	0	0	0	8.191	10.63	0	0	7.684	0	0	0	0	0	14.03	0	0	0	16.28	0	0	0	0	0
+TCGA-55-6986-01A	TCGA-55-6986-01A	Primary Tumor	74	female	white	0	8.036	0	10.06	0	0	0	8.37	9.814	9.889	0	0	0	0	0	0	0	14.31	0	0	0	15.68	0	0	0	0	0
+TCGA-44-3396-01A	TCGA-44-3396-01A	Primary Tumor	74	female	white	0	0	0	16.51	0	0	0	9.243	9.105	0	0	0	0	0	6.827	0	0	13.5	0	0	0	16.31	0	0	5.472	0	0
+TCGA-50-6595-01A	TCGA-50-6595-01A	Primary Tumor	74	female	white	0	0	0	15.59	0	0	0	8.285	0	0	0	0	0	0	0	0	0	12.32	0	0	0	13.85	0	0	0	0	0
+TCGA-95-A4VK-01A	TCGA-95-A4VK-01A	Primary Tumor	74	female	white	0	0	0	11.15	0	0	5.48	7.759	0	0	0	0	0	0	0	7.834	0	9.794	0	0	0	15.35	0	0	0	0	0
+TCGA-49-4488-01A	TCGA-49-4488-01A	Primary Tumor	74	female	white	0	0	0	8.174	0	6.134	0	8.476	8.922	0	0	0	0	0	0	0	0	17.1	0	0	0	14.77	0	0	0	0	0
+TCGA-O1-A52J-01A	TCGA-O1-A52J-01A	Primary Tumor	74	female	white	0	0	0	7.49	0	0	0	0	8.237	0	0	0	0	0	0	0	0	14.83	0	0	0	19.44	0	0	0	0	0
+TCGA-44-A4SS-01A	TCGA-44-A4SS-01A	Primary Tumor	73	male	white	17.24	17.81	16.72	13.62	0	0	16.22	21.03	13.83	11.77	13.57	15.17	15.68	10.36	17.3	14.77	11.96	17.28	12.49	8.328	0	6.397	15.59	15.67	15.24	0	14
+TCGA-62-A46S-01A	TCGA-62-A46S-01A	Primary Tumor	73	male	white	17.01	17.39	15.76	12.41	10.87	0	15.36	20.49	13.2	0	12.18	12.7	15.38	0	17	12.91	10.99	15.89	0	9.61	0	4.557	10.18	11.46	13.9	0	14.12
+TCGA-55-8207-01A	TCGA-55-8207-01A	Primary Tumor	73	male	white	15.46	16.78	14.23	11.82	8.825	5.005	14.28	19.28	13.7	0	13.4	12.06	13.91	0	15.02	10.4	9.854	20.33	0	9.719	9.346	5.799	12.57	12.29	13.18	0	12.61
+TCGA-69-7760-01A	TCGA-69-7760-01A	Primary Tumor	73	male	white	15.27	17.34	14.92	15.37	11.6	5.767	15.02	20.68	13.76	12.21	14.03	14.36	14.7	0	16.43	13.85	8.054	16.92	12.67	0	0	9.777	11.65	12.42	15.23	0	12.73
+TCGA-44-8119-01A	TCGA-44-8119-01A	Primary Tumor	73	male	white	14.8	16.28	13.65	11.85	0	4.531	13.31	18.38	10.6	0	13.67	10.84	13.39	0	14.97	6.913	9.44	13.39	0	9.227	10.44	15.69	9.382	8.345	12.61	0	10.41
+TCGA-44-A479-01A	TCGA-44-A479-01A	Primary Tumor	73	female	black or african american	7.872	9.59	6.656	12.14	7.847	0	7.213	12.45	10.95	0	6.093	0	0	0	8.087	0	0	14.49	0	0	0	18.87	0	0	0	0	7.7
+TCGA-62-8402-01A	TCGA-62-8402-01A	Primary Tumor	73	female	white	8.355	9.075	0	10.69	0	0	5.549	11.14	8.274	0	6.983	7.322	5.834	0	8.985	8.901	6.206	15.03	0	0	0	20.29	0	0	0	0	0
+TCGA-55-7995-01A	TCGA-55-7995-01A	Primary Tumor	73	female	white	6.924	5.663	0	10.84	0	0	0	0	7.424	0	0	0	0	0	0	7.055	0	14.4	0	0	0	17.48	0	0	0	0	0
+TCGA-55-8208-01A	TCGA-55-8208-01A	Primary Tumor	73	female	white	6.42	6.146	0	11.16	0	0	5.195	9.783	10.23	0	0	0	5.478	0	0	8.539	0	15.02	0	0	0	16.56	0	0	0	0	0
+TCGA-44-A47G-01A	TCGA-44-A47G-01A	Primary Tumor	73	female	white	5.941	6.653	0	10.67	0	5.644	5.697	10.78	9.423	0	0	0	0	0	0	0	6.356	11.6	0	0	0	16.84	0	0	0	0	0
+TCGA-49-4507-01A	TCGA-49-4507-01A	Primary Tumor	73	female	white	0	8.378	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12.43	0	0	0	17.81	0	0	0	0	0
+TCGA-67-6217-01A	TCGA-67-6217-01A	Primary Tumor	73	female	white	0	8.256	6.734	17.13	7.925	0	0	11	10.03	0	0	0	6.998	0	7.17	0	0	17.95	0	0	0	15.48	0	0	0	0	0
+TCGA-67-3774-01A	TCGA-67-3774-01A	Primary Tumor	73	female	white	0	6.731	6.785	12.88	0	0	5.774	9.639	9.501	0	0	0	0	0	0	0	0	11.09	0	0	0	15.98	0	0	6.849	0	0
+TCGA-86-6851-01A	TCGA-86-6851-01A	Primary Tumor	73	female	white	0	0	0	11.99	0	0	0	6.98	7.424	0	0	0	5	0	0	0	0	16.85	0	0	0	16.52	0	0	0	0	0
+TCGA-55-8511-01A	TCGA-55-8511-01A	Primary Tumor	73	female	white	0	0	0	11.09	0	0	0	0	9.387	0	0	0	5.947	0	8.102	0	0	13.68	0	0	0	15.48	0	0	6.736	0	0
+TCGA-78-7537-01A	TCGA-78-7537-01A	Primary Tumor	72	male	not reported	17.22	17.09	15.9	16.46	13.27	7.626	16.46	21.3	14.42	0	13.4	15.62	15.51	0	16.86	14.5	9.759	15.21	12.96	9.378	12.74	4.335	12.27	8.911	15.1	0	13.81
+TCGA-50-5066-01A	TCGA-50-5066-01A	Primary Tumor	72	male	black or african american	14.86	16.29	15.05	16.51	8.658	0	13.82	20.46	13.88	0	12.5	12.13	14.44	0	16.66	11.4	11.56	16.3	12.3	9.137	11.76	0	13.1	11.25	13.4	0	11.09
+TCGA-55-6972-01A	TCGA-55-6972-01A	Primary Tumor	72	male	white	17.32	17.38	11.57	15.85	0	0	16.86	17.18	14.75	0	10.68	15.71	15.97	0	18.1	16.63	12.01	16.34	0	10.34	0	6.825	0	0	15.33	0	13.76
+TCGA-MP-A4TI-01A	TCGA-MP-A4TI-01A	Primary Tumor	72	male	white	17.1	17.62	15.11	16.04	10.92	0	15.55	20.41	13.67	0	13.4	13.75	14.93	0	16.52	9.494	12.13	12.87	12.98	9.232	0	8.512	13.39	11.93	14.35	0	14.37
+TCGA-95-8039-01A	TCGA-95-8039-01A	Primary Tumor	72	male	white	16.93	17.6	15.77	13.07	11.41	5.701	16.54	21.5	14.35	11.36	14.94	15.48	15.48	0	17.12	14.54	10.79	12.88	14.6	10.75	9.06	7.907	13.8	13.91	15.31	0	13.95
+TCGA-44-7660-01A	TCGA-44-7660-01A	Primary Tumor	72	male	white	16.32	17.05	14.91	15.35	14.74	5.176	14.91	17.85	17.01	9.02	14.39	13.77	15.09	10.51	16.34	12.96	8.448	13.78	11.06	8.896	0	7.541	13.05	14.05	15.19	0	13.37
+TCGA-49-4486-01A	TCGA-49-4486-01A	Primary Tumor	72	male	white	15.88	17.28	16.13	11.03	12.3	5.021	16.22	23.08	15.63	11.18	11.71	15.34	15.28	8.767	17.7	16.18	10.95	15.18	0	9.321	0	5.815	13.41	10.44	15.61	0	13.24
+TCGA-78-7154-01A	TCGA-78-7154-01A	Primary Tumor	72	male	white	15.6	17.25	15.74	8.606	14.03	0	15.73	21.57	14.13	10.43	13.89	13.57	14.85	11.92	17.34	15.05	7.861	14.8	13.79	9.891	0	4.826	12.46	13.33	15.84	0	12.2
+TCGA-97-8179-01A	TCGA-97-8179-01A	Primary Tumor	72	male	white	15.03	16.12	13.5	12.61	8.406	0	13.92	18.64	12.1	0	12.45	12.4	13.35	0	14.4	10.88	8.437	13.85	0	0	0	5.387	11.04	11.58	12.64	0	12.06
+TCGA-50-5933-01A	TCGA-50-5933-01A	Primary Tumor	72	male	white	14.75	16.66	14.59	12.8	7.861	0	13.64	18.81	12.38	0	13.74	11.23	13.62	0	15.1	0	7.31	13.68	0	10.34	12.28	0	12.3	10.45	13.29	0	10.29
+TCGA-99-8025-01A	TCGA-99-8025-01A	Primary Tumor	72	female	black or african american	0	0	0	9.744	7.167	0	4.981	7.248	8.689	0	0	0	0	0	0	7.323	0	18.49	0	0	0	15.09	0	0	0	0	0
+TCGA-86-8671-01A	TCGA-86-8671-01A	Primary Tumor	72	female	white	9.459	9.917	8.238	11.53	0	0	7.952	13.81	0	0	6.099	0	9.239	0	8.093	8.01	0	16.27	0	0	0	17.38	9.484	0	7.72	0	0
+TCGA-44-6775-01A	TCGA-44-6775-01A	Primary Tumor	72	female	white	7.288	8.052	0	12.58	0	0	7.349	11.03	7.514	0	6.228	0	5.952	0	8.544	0	6.325	13.6	0	0	0	17.36	0	0	5.868	0	0
+TCGA-55-8619-01A	TCGA-55-8619-01A	Primary Tumor	72	female	white	6.964	8.263	6.741	13.35	0	0	0	10.59	8.459	0	0	0	7.005	0	0	0	0	14.63	0	0	0	17.41	0	0	0	0	0
+TCGA-38-4631-01A	TCGA-38-4631-01A	Primary Tumor	72	female	white	6.502	7.217	0	16.12	0	0	6.257	10.54	10.58	0	0	0	0	0	7.709	0	0	16.14	0	0	0	14.2	0	0	7.336	0	0
+TCGA-38-7271-01A	TCGA-38-7271-01A	Primary Tumor	72	female	white	6.439	8.149	7.208	11.76	0	6.14	0	9.481	0	0	0	0	0	0	8.642	0	0	13.52	0	0	0	14.46	0	0	7.273	0	0
+TCGA-97-7941-01A	TCGA-97-7941-01A	Primary Tumor	72	female	white	6.133	6.847	6.901	11.45	0	0	0	8.174	10.94	0	0	0	5.195	0	0	7.254	0	15.91	0	0	0	16.99	0	0	0	0	0
+TCGA-55-7573-01A	TCGA-55-7573-01A	Primary Tumor	72	female	white	6.126	0	7.887	11.95	0	0	0	10.16	10.93	0	0	0	0	0	0	0	6.542	12.79	0	0	0	17.26	0	0	0	0	0
+TCGA-50-5044-01A	TCGA-50-5044-01A	Primary Tumor	72	female	white	0	9.066	0	15.13	0	0	0	9.815	10.26	0	0	0	0	0	0	0	0	10.85	0	0	0	14.76	0	0	0	0	0
+TCGA-49-4487-01A	TCGA-49-4487-01A	Primary Tumor	72	female	white	0	8.865	7.34	12.01	0	0	0	10.61	0	0	0	0	0	0	7.777	0	0	14.35	0	0	0	15.45	0	0	0	0	0
+TCGA-44-6775-01C	TCGA-44-6775-01C	Primary Tumor	72	female	white	0	7.608	0	14.41	0	0	0	0	0	0	0	0	0	0	0	0	0	13.3	0	0	0	21.15	0	0	0	0	0
+TCGA-50-6590-01A	TCGA-50-6590-01A	Primary Tumor	72	female	white	0	6.655	0	15.93	0	0	0	8.978	10.01	0	0	0	0	0	0	0	6.357	14.54	0	0	0	14.36	0	0	0	0	0
+TCGA-55-7726-01A	TCGA-55-7726-01A	Primary Tumor	72	female	white	0	0	0	11.24	0	0	0	0	0	10.26	0	0	0	0	0	0	0	11.77	0	0	0	17.1	0	0	0	0	0
+TCGA-05-4426-01A	TCGA-05-4426-01A	Primary Tumor	71	male	not reported	13.8	15.52	13.11	10.22	8.86	0	12.85	18.14	12.09	8.465	11.13	10.24	12.55	0	12.44	10.6	8.307	10.98	13.09	7.346	10.55	0	11.3	8.458	13	0	9.711
+TCGA-95-7562-01A	TCGA-95-7562-01A	Primary Tumor	71	male	black or african american	14.94	16.78	14.97	14.85	8.682	0	14.76	19.95	14.08	8.7	13.95	13.62	14.43	0	16.49	7.259	8.351	14.17	0	0	9.202	7.956	12.43	10.28	14.24	0	11.27
+TCGA-93-A4JN-01A	TCGA-93-A4JN-01A	Primary Tumor	71	male	white	18.09	17.97	16.48	12.45	7.363	0	16.94	20.04	14.82	8.96	14.99	15.22	16.09	0	16.63	14.69	10.26	18.34	12.59	11	0	8.63	11.8	11.27	15.71	0	14.66
+TCGA-55-A4DG-01A	TCGA-55-A4DG-01A	Primary Tumor	71	male	white	18.06	18.45	16.23	12.05	7.751	5.499	16.77	20.94	13.89	9.35	12.66	15.75	16.45	0	17.21	13.6	11.4	17.21	13.39	9.811	9.852	7.51	12.38	9.343	14.69	0	15.27
+TCGA-MP-A4TD-01A	TCGA-MP-A4TD-01A	Primary Tumor	71	male	white	17.59	17.57	14.76	16.15	13.13	8.432	15.94	21.02	13.85	11.31	14.76	14.58	15.4	0	16.94	15.1	11.44	14.69	0	11.19	9.814	7.832	13.86	10.3	14.41	0	13.42
+TCGA-69-8255-01A	TCGA-69-8255-01A	Primary Tumor	71	male	white	17.53	18.27	16.48	15.08	12.15	4.643	15.61	22.53	16.47	10.47	12.82	14.09	15.6	10.69	17.23	14.92	11.09	15.38	0	9.344	13.22	8.944	13.45	13.1	16.11	0	13.37
+TCGA-78-7149-01A	TCGA-78-7149-01A	Primary Tumor	71	male	white	17.04	17.59	16.17	9.658	11.46	5.63	16.26	22.21	15.66	9.484	12.45	15.37	15.27	9.39	16.89	15.27	8.328	12.81	0	10.36	10.99	0	11.1	11.06	15.35	0	14.27
+TCGA-78-7148-01A	TCGA-78-7148-01A	Primary Tumor	71	male	white	16.69	17.34	16.34	12.03	13.25	5.542	15.89	20.84	15.06	11.39	14.84	14.38	15.34	0	17.09	14.84	11.14	15.04	0	8.272	0	0	13.67	13.19	15.54	0	13.03
+TCGA-95-7944-01A	TCGA-95-7944-01A	Primary Tumor	71	male	white	16.51	17.74	17	14.94	0	5.108	15.51	23.15	13.87	11.76	12.02	14.1	14.87	8.857	16.83	7.508	11.6	15.51	0	0	0	4.366	13.98	14.33	14.62	0	13.37
+TCGA-55-6712-01A	TCGA-55-6712-01A	Primary Tumor	71	male	white	16.12	17.75	16.36	15.57	8.414	7.142	16.04	19.01	14.52	10.01	12.91	13.57	15.68	0	15.12	10.57	9.857	15.44	14.86	9.891	0	0	13.04	14.18	15.05	0	12.58
+TCGA-64-5775-01A	TCGA-64-5775-01A	Primary Tumor	71	male	white	15.44	17.82	15.78	16.17	0	0	14.44	21.74	11.65	0	15.02	12.54	14.13	0	16.23	12.54	7.833	10.92	0	9.278	10.9	0	10.43	0	14.72	0	13.04
+TCGA-MP-A4T2-01A	TCGA-MP-A4T2-01A	Primary Tumor	71	male	white																											
+TCGA-44-3919-01A	TCGA-44-3919-01A	Primary Tumor	71	female	white	6.095	0	0	10.63	0	4.823	0	8.718	9.164	0	0	0	0	0	0	0	0	12.76	0	0	0	16.23	0	0	0	0	0
+TCGA-69-7979-01A	TCGA-69-7979-01A	Primary Tumor	71	female	white	6.028	6.741	0	9.568	0	0	0	8.651	9.833	0	0	0	0	0	6.241	0	0	9.105	0	0	0	16.52	0	0	5.871	0	0
+TCGA-78-7146-01A	TCGA-78-7146-01A	Primary Tumor	71	female	white	0	7.335	0	10.17	0	0	5.392	0	10.11	0	0	0	0	0	6.833	0	0	14.75	0	0	0	16.6	0	0	0	0	0
+TCGA-55-6984-01A	TCGA-55-6984-01A	Primary Tumor	71	female	white	0	0	0	11.84	0	0	0	9.556	0	0	0	0	0	0	0	0	0	12.18	0	0	0	16.52	0	0	0	0	0
+TCGA-55-7914-01A	TCGA-55-7914-01A	Primary Tumor	71	female	white	0	0	0	10.93	0	0	0	0	8.229	0	0	0	0	0	0	0	0	15.4	0	0	0	14.46	0	0	0	0	0
+TCGA-50-6592-01A	TCGA-50-6592-01A	Primary Tumor	71	female	white	0	0	0	10.75	0	0	5.326	0	8.046	0	0	0	5.609	0	0	7.676	0	11.22	0	0	0	15.1	0	0	0	0	0
+TCGA-62-A46U-01A	TCGA-62-A46U-01A	Primary Tumor	71	female	white																											
+TCGA-05-4244-01A	TCGA-05-4244-01A	Primary Tumor	70	male	not reported	15.09	15.82	13.47	11.41	9.983	4.944	13.41	18.25	12.16	8.781	11.63	11.6	13.14	0	14.12	8.335	10.08	14.85	0	8.657	9.283	5.165	11.81	11.77	11.8	0	11.35
+TCGA-05-4424-01A	TCGA-05-4424-01A	Primary Tumor	70	male	not reported	14.61	16.57	14.1	14.22	8.714	6.449	13.71	19.03	11.82	0	13.38	10.6	14.06	0	14.91	9.454	9.328	19.35	0	8.195	9.818	0	12.93	0	13.33	0	9.565
+TCGA-05-4389-01A	TCGA-05-4389-01A	Primary Tumor	70	male	not reported	13.9	15.2	13.09	14.46	7.197	0	12.47	18.32	12.11	8.795	11.33	10.46	12.85	0	14	8.349	9.883	17.06	0	0	9.296	6.158	11.41	10.37	12.03	0	9.627
+TCGA-55-7727-01A	TCGA-55-7727-01A	Primary Tumor	70	male	white	17.56	18.29	16.32	15.02	13.37	6.409	17.1	21.68	14.84	0	15.55	15.36	16.29	0	17.69	12.53	14.31	17.36	14.32	10.74	0	0	12.31	12.27	14.86	0	14.73
+TCGA-93-A4JO-01A	TCGA-93-A4JO-01A	Primary Tumor	70	male	white	17.35	17.77	15.45	8.473	9.692	0	15.87	20.73	13.86	11.29	12.62	15.65	15.26	0	17.02	13.02	13.18	17.03	14.15	10.49	9.799	4.698	13.5	9.289	15.8	0	14.19
+TCGA-91-6828-01A	TCGA-91-6828-01A	Primary Tumor	70	male	white	17.16	17.9	16.11	16.25	14.46	7.237	15.76	20.32	14.16	0	14.54	14.1	15.83	0	16.82	14.47	10.54	16.12	12.15	0	10.61	5.488	13.31	10.1	14.67	0	13.11
+TCGA-97-7552-01A	TCGA-97-7552-01A	Primary Tumor	70	male	white	16.79	18.15	16.38	12.69	12.44	8.383	15.91	20.47	15.41	0	13.81	13.48	16.22	0	16.92	13.23	11.02	16.22	14.3	9.968	0	5.47	14.74	14.64	15.29	0	13.2
+TCGA-49-6742-01A	TCGA-49-6742-01A	Primary Tumor	70	male	white	16.79	17.35	16.18	12.78	10.25	0	15.86	21.32	17.26	10.86	12.46	13.47	14.85	10.76	17.18	15.27	7.703	16.86	12.9	0	0	0	14.69	15.71	15.76	0	12.75
+TCGA-86-7713-01A	TCGA-86-7713-01A	Primary Tumor	70	male	white	16.74	18.23	16.36	15.94	14.09	4.511	17.05	20.77	15.7	8.333	10.57	14	17.53	9.821	15.79	14.04	7.983	18.05	11.96	7.214	0	3.783	11.36	9.323	16.78	0	12.66
+TCGA-44-7659-01A	TCGA-44-7659-01A	Primary Tumor	70	male	white	16.08	17.04	14.61	9.684	12.57	0	15.31	19.85	13.49	0	12.92	13.41	14.28	0	15.76	11.28	10.57	12.03	0	9.8	10.43	6.867	11.95	11.5	13.86	0	13.56
+TCGA-62-A472-01A	TCGA-62-A472-01A	Primary Tumor	70	male	white	15.58	15.93	13.51	14.02	8.688	0	14.13	18.57	12.67	0	11.56	12.06	13.34	0	14.69	0	11.38	18.79	0	10.17	10.79	8.224	0	11.87	12.55	0	12.54
+TCGA-50-5049-01A	TCGA-50-5049-01A	Primary Tumor	70	male	white	15.15	16.64	14.79	13.93	8.969	7.283	14.19	20.07	13.3	9.572	13.93	10.86	14.43	0	15.99	8.129	10.58	16.28	0	10.45	11.66	0	11.6	12.15	13.82	8.669	10.82
+TCGA-86-7711-01A	TCGA-86-7711-01A	Primary Tumor	70	male	white	14.44	16.15	13.82	9.391	0	5.774	13.05	18.04	10.55	8.633	12.96	10.3	12.84	0	14.62	8.77	7.067	12.15	0	7.513	0	5.021	10.98	9.623	12.99	0	8.881
+TCGA-05-4425-01A	TCGA-05-4425-01A	Primary Tumor	70	female	not reported	6.004	9.29	0	11.82	0	0	5.76	11.5	11.81	0	6.206	0	0	0	0	0	0	12.08	0	0	0	13.46	9.593	0	6.834	0	0
+TCGA-99-AA5R-01A	TCGA-99-AA5R-01A	Primary Tumor	70	female	black or african american	5.866	8.153	0	15.29	0	0	0	0	0	0	7.057	0	0	0	0	0	0	11.52	0	0	0	17.5	0	0	6.695	0	0
+TCGA-55-8514-01A	TCGA-55-8514-01A	Primary Tumor	70	female	black or african american	0	8.86	0	10.89	0	0	0	0	0	0	0	0	6.197	0	0	0	6.571	12.82	0	0	0	15.82	0	0	0	0	0
+TCGA-62-8397-01A	TCGA-62-8397-01A	Primary Tumor	70	female	white	10.46	10.18	0	10.21	0	0	0	13.51	10.96	0	7.669	0	8.502	0	9.674	0	0	0	0	0	0	17.04	0	0	8.301	0	0
+TCGA-62-A46Y-01A	TCGA-62-A46Y-01A	Primary Tumor	70	female	white	6.715	9.595	6.494	17.31	7.684	0	6.47	13.04	11.21	0	5.931	0	7.75	0	9.504	0	0	15.47	0	0	0	17.17	0	0	6.558	0	0
+TCGA-55-7281-01A	TCGA-55-7281-01A	Primary Tumor	70	female	white	5.965	6.678	0	11.7	0	0	0	9.001	10.03	0	0	0	0	0	0	0	0	15.17	0	0	0	15.88	0	0	0	0	0
+TCGA-69-7980-01A	TCGA-69-7980-01A	Primary Tumor	70	female	white	5.081	0	0	11.65	0	0	5.816	0	9.865	0	0	0	0	0	0	0	0	19.34	0	0	0	17.43	0	0	0	0	0
+TCGA-55-A492-01A	TCGA-55-A492-01A	Primary Tumor	70	female	white	0	7.693	6.754	9.305	0	0	0	10.61	9.47	0	0	0	0	0	8.186	0	0	11.06	0	0	0	11.89	0	0	6.818	0	0
+TCGA-55-7911-01A	TCGA-55-7911-01A	Primary Tumor	70	female	white	0	0	0	16.2	0	0	0	0	9.272	0	0	0	0	0	0	0	0	15.93	0	0	0	18.89	0	0	0	0	0
+TCGA-38-6178-01A	TCGA-38-6178-01A	Primary Tumor	70	female	white	0	0	0	15.86	0	0	0	0	0	0	0	0	0	0	0	0	0	16.94	0	0	0	15.2	0	0	0	0	0
+TCGA-MP-A4TH-01A	TCGA-MP-A4TH-01A	Primary Tumor	70	female	white	0	0	0	12.27	0	0	0	0	9.702	0	0	0	0	0	0	0	0	13.71	0	0	0	18.04	0	0	0	0	0
+TCGA-67-3770-01A	TCGA-67-3770-01A	Primary Tumor	70	female	white	0	0	0	9.496	0	0	0	8.801	12.57	0	0	0	0	0	8.96	0	0	16.79	0	0	0	16.61	0	0	0	0	0
+TCGA-64-1678-01A	TCGA-64-1678-01A	Primary Tumor	70	female	white	0	0	0	0	0	0	0	0	9.255	0	0	0	0	0	0	0	0	16.37	0	0	0	13.28	0	0	7.598	0	0
+TCGA-78-8660-01A	TCGA-78-8660-01A	Primary Tumor	69	male	not reported	17.12	17.59	15.69	14.19	11.88	5.718	15.49	20.86	14.17	11.16	12.03	14.64	15.06	0	16.53	13.88	13.21	14.68	14.2	0	0	7.25	12.19	10.57	15.56	0	13.18
+TCGA-05-4418-01A	TCGA-05-4418-01A	Primary Tumor	69	male	not reported	16.83	17.54	16.41	16.64	0	0	15.62	21.42	15.65	10.31	11.95	12.77	14.88	8.629	17.24	14.66	10.26	12.82	11.76	0	10.81	0	14.51	14.33	15.64	0	12.49
+TCGA-49-AAR3-01A	TCGA-49-AAR3-01A	Primary Tumor	69	male	black or african american	16.03	16.37	13.7	16.68	0	0	14.24	19.12	13.22	0	12.39	11.17	13.47	0	15.51	0	11.8	13.72	0	11.08	10.71	0	12.23	12.52	12.32	0	12.84
+TCGA-L9-A7SV-01A	TCGA-L9-A7SV-01A	Primary Tumor	69	male	black or african american	14.27	14.65	12.05	10.88	0	6.614	12.35	16.82	11.14	0	10.85	9.865	11.82	0	13.26	8.453	9.062	18.7	0	7.778	10.4	8.247	8.93	9.89	11.02	0	10.73
+TCGA-67-4679-01B	TCGA-67-4679-01B	Primary Tumor	69	male	white	17.72	17.87	15.77	16.3	14.36	0	16.37	21.85	14.68	9.544	13.28	15.88	15.77	0	17.1	15.75	10.09	18.23	0	11.88	0	4.936	13.16	11.86	14.99	0	14.69
+TCGA-69-7763-01A	TCGA-69-7763-01A	Primary Tumor	69	male	white	17.34	17.86	16.69	12.38	12.28	0	15.9	21.28	15.51	10.57	13.68	14.68	16.29	9.475	17.25	13.55	9.732	17.46	11.61	10.76	0	7.506	13.77	11.56	15.48	0	14.17
+TCGA-55-A48Y-01A	TCGA-55-A48Y-01A	Primary Tumor	69	male	white	16.77	17.4	16.19	11.79	7.934	0	15.22	21.22	14.39	9.534	14	14.84	14.95	0	16.88	14.94	10.37	16.03	0	8.412	0	6.89	13.56	0	15.43	0	13.37
+TCGA-78-7536-01A	TCGA-78-7536-01A	Primary Tumor	69	male	white	14.35	15.32	12.79	15.66	0	0	12.57	17.43	10.67	0	11.34	9.566	12.11	0	13.83	0	9.358	13.19	0	7.311	9.93	0	11.92	8.423	11.73	0	10.14
+TCGA-35-4122-01A	TCGA-35-4122-01A	Primary Tumor	69	male	white	14.33	16.39	16.79	14.27	9.38	5.546	13.39	20.62	15.96	10.98	12.98	13.74	14.28	10.3	17.11	14.94	10.05	15.61	14.25	8.277	11.48	0	15.04	12.97	15.66	0	10.65
+TCGA-05-5715-01A	TCGA-05-5715-01A	Primary Tumor	69	female	not reported	0	0	0	12.02	0	0	0	9.515	10.96	0	0	0	0	0	0	0	0	15.25	0	0	0	13.83	0	0	0	0	0
+TCGA-97-A4M3-01A	TCGA-97-A4M3-01A	Primary Tumor	69	female	white	8.121	6.531	8.16	15.89	0	0	7.141	11.02	8.302	0	0	7.349	0	0	7.021	0	0	17.45	0	0	0	18.22	0	0	0	0	0
+TCGA-49-4512-01A	TCGA-49-4512-01A	Primary Tumor	69	female	white	8.011	10.6	8.201	11.5	0	0	7.764	13.48	10.92	0	7.633	7.973	6.478	0	9.638	0	0	16.38	0	0	0	18.14	0	0	8.266	0	0
+TCGA-86-7953-01A	TCGA-86-7953-01A	Primary Tumor	69	female	white	7.822	7.324	5.81	10.57	6.995	4.76	4.813	10.65	7.52	0	0	0	0	0	6.243	0	5.462	14.11	0	0	0	17.31	0	0	0	0	0
+TCGA-50-5944-01A	TCGA-50-5944-01A	Primary Tumor	69	female	white	6.124	0	0	11.86	0	0	0	0	10.19	0	0	0	0	0	0	0	0	13.01	0	0	0	15.08	0	0	0	0	0
+TCGA-73-4670-01A	TCGA-73-4670-01A	Primary Tumor	69	female	white	5.9	7.605	5.68	11.49	0	4.633	0	9.519	7.388	0	0	0	4.965	0	7.684	0	0	12.56	0	0	0	15.42	0	0	6.73	0	0
+TCGA-44-2661-01A	TCGA-44-2661-01A	Primary Tumor	69	female	white	5.681	6.392	6.446	12.62	0	0	0	8.713	9.159	9.234	0	0	0	0	0	0	0	12.75	0	0	0	16.37	0	0	0	0	0
+TCGA-78-7161-01A	TCGA-78-7161-01A	Primary Tumor	69	female	white	5.316	7.594	0	16.95	0	0	6.053	9.659	9.37	0	0	0	0	0	6.511	0	0	17.17	0	0	0	17.22	0	0	0	0	0
+TCGA-44-7661-01A	TCGA-44-7661-01A	Primary Tumor	69	female	white	5.117	5.822	0	11.83	0	0	4.876	7.141	7.585	0	0	0	0	0	6.309	0	0	12.17	0	0	0	17.25	0	0	0	0	0
+TCGA-55-8203-01A	TCGA-55-8203-01A	Primary Tumor	69	female	white	5.079	7.352	6.825	12.72	0	0	4.839	8.681	10.13	0	0	0	0	0	0	7.178	0	15.86	0	7.499	0	16.65	0	0	0	0	0
+TCGA-J2-8194-01A	TCGA-J2-8194-01A	Primary Tumor	69	female	white	0	5.874	5.927	15.47	0	0	0	0	8.634	0	0	0	5.209	0	6.361	7.268	0	16.96	0	0	0	17.62	0	0	0	0	0
+TCGA-NJ-A4YQ-01A	TCGA-NJ-A4YQ-01A	Primary Tumor	69	female	white	0	0	0	12	0	0	0	0	8.585	0	0	0	0	0	7.303	0	0	10.18	0	0	0	16.16	0	0	0	0	0
+TCGA-05-4422-01A	TCGA-05-4422-01A	Primary Tumor	68	male	not reported	17.19	17.57	16.12	11.89	14.36	5.656	16.14	21.44	14.96	10.51	12.44	15.26	15.81	10.74	17.17	16.57	11.67	16.63	0	8.389	11.6	4.904	14	11.5	14.87	0	13.1
+TCGA-05-4382-01A	TCGA-05-4382-01A	Primary Tumor	68	male	not reported	16.67	17.43	15.48	15.67	10.88	0	14.86	20.27	15.8	8.239	13.47	14.24	14.56	0	16.32	14.68	12.23	16.4	12.86	10.43	11.32	13.61	13.82	12.48	14.86	8.918	12.94
+TCGA-MP-A4T8-01A	TCGA-MP-A4T8-01A	Primary Tumor	68	male	not reported	16.52	16.84	15.15	11.73	12.45	0	15.49	20.63	14.45	11.1	14.2	13.93	14.68	0	16.34	12.46	8.941	15.59	0	0	0	7.259	13.83	10.09	14.06	0	12.87
+TCGA-05-5425-01A	TCGA-05-5425-01A	Primary Tumor	68	male	not reported	15.53	16.34	15.38	15.36	9.953	0	14.2	20.85	14.29	10.56	12.47	13.81	14.68	9.464	16.43	14.09	11.1	16.92	0	0	11.06	4.95	13.49	11.55	14.48	0	10.13
+TCGA-49-AARR-01A	TCGA-49-AARR-01A	Primary Tumor	68	male	black or african american	17.32	18.43	15.62	12.6	13.94	7.052	16.45	20.6	14.24	9.34	13.56	14.6	15.63	0	16.71	13.41	10.94	15.38	12.97	11.54	10.84	7.86	13.95	14.42	14.76	0	13.93
+TCGA-50-8459-01A	TCGA-50-8459-01A	Primary Tumor	68	male	white	16.63	17.5	14.97	14.35	11.36	0	15.46	20.33	14.21	10.5	14.8	12.79	14.92	0	16.38	11.06	10.59	13.83	12.55	10.7	0	8.659	12.99	12.49	13.79	0	13.48
+TCGA-38-4629-01A	TCGA-38-4629-01A	Primary Tumor	68	male	white	15.06	17.3	15.63	10.05	11.75	4.876	14.36	21.95	13.63	10.29	14.31	12.9	14.33	0	16.78	12.58	9.137	15.25	14.21	7.591	12.21	4.138	14.06	12.4	15.6	0	10.96
+TCGA-55-1594-01A	TCGA-55-1594-01A	Primary Tumor	68	male	white	14.62	15.57	13.33	10.98	0	0	13	17.91	12.01	9.997	11.91	9.288	13.17	8.906	14.23	9.137	9.54	14.64	11.04	7.878	10.5	10.82	12.2	9.99	12.09	0	10.83
+TCGA-78-7155-01A	TCGA-78-7155-01A	Primary Tumor	68	male	white	12.56	14.17	12.36	16.42	0	0	11.97	15.96	9.418	0	11.16	0	11.76	0	12.52	8.05	8.338	15.1	0	0	11.99	5.863	0	0	10.75	0	10.91
+TCGA-S2-AA1A-01A	TCGA-S2-AA1A-01A	Primary Tumor	68	female	black or african american	0	0	0	11.96	0	5.843	0	0	8.628	0	0	0	0	0	0	0	0	13.22	0	0	0	17.85	0	0	0	0	0
+TCGA-MP-A4T4-01A	TCGA-MP-A4T4-01A	Primary Tumor	68	female	white	8.026	7.429	6.49	15.01	0	0	0	10.93	9.204	0	5.928	0	0	0	7.92	0	0	16.71	0	0	0	17.98	9.311	0	0	0	0
+TCGA-49-4506-01A	TCGA-49-4506-01A	Primary Tumor	68	female	white	5.552	7.834	6.315	11.27	0	0	0	12.33	0	0	0	0	5.593	0	7.743	0	0	12.43	0	0	0	12.23	0	0	0	0	0
+TCGA-49-6761-01A	TCGA-49-6761-01A	Primary Tumor	68	female	white	0	8.036	0	16.32	0	0	6.083	10.37	0	0	0	0	0	0	0	8.445	0	18.82	0	0	0	12.96	0	0	7.16	0	0
+TCGA-86-7954-01A	TCGA-86-7954-01A	Primary Tumor	68	female	white	0	7.16	6.634	11.12	0	0	0	8.489	9.349	0	6.071	0	4.934	0	6.081	0	0	15.6	0	0	0	18.38	0	0	6.698	0	0
+TCGA-55-7725-01A	TCGA-55-7725-01A	Primary Tumor	68	female	white	0	0	0	13.08	0	0	0	0	0	0	0	0	0	0	0	0	0	18.8	0	0	0	18.87	0	0	0	0	0
+TCGA-MP-A4SV-01A	TCGA-MP-A4SV-01A	Primary Tumor	67	male	not reported	16.83	17.3	15.02	15.26	12.55	0	15.5	19.87	13.73	0	13.03	13.58	15.14	8.938	15.8	13.23	13.2	17.99	12.07	8.908	0	6.972	12.52	12.02	14.34	0	13.85
+TCGA-05-5420-01A	TCGA-05-5420-01A	Primary Tumor	67	male	not reported	16.67	17.47	16.77	15.39	10.63	0	15.91	21.5	16.19	11.82	13.5	13.33	15.86	0	17.9	14.83	10.53	14.56	13.86	10.69	0	8.581	14.85	13.22	15.84	0	11.65
+TCGA-05-4249-01A	TCGA-05-4249-01A	Primary Tumor	67	male	not reported	16.65	17.26	16.07	13.12	13.63	4.848	15.71	20.75	14.03	0	14.25	13.66	15.35	0	15.88	13.97	11.19	18.82	0	9.878	9.184	5.64	12.8	10.67	15	0	12.48
+TCGA-55-8615-01A	TCGA-55-8615-01A	Primary Tumor	67	male	white	18.38	18.13	16.39	9.954	0	0	16.32	22.08	14	0	15.82	14.92	15.95	12.17	17.03	14.93	12.58	16.6	0	0	10.96	6.815	13.07	10.45	16.47	0	14.32
+TCGA-97-8174-01A	TCGA-97-8174-01A	Primary Tumor	67	male	white	17.73	18.71	17.04	13.57	13.54	4.613	17.4	22.19	14.76	10.02	14.33	14.8	17.42	9.343	16.95	15.32	13.57	14.38	0	11.12	11.52	5.807	14.73	13.33	16.34	0	14.17
+TCGA-L4-A4E6-01A	TCGA-L4-A4E6-01A	Primary Tumor	67	male	white	17.62	18.02	15.93	14.07	12.55	7.902	16.24	21.08	13.97	9.458	13.35	14.88	15.9	11.36	16.81	13.29	11.58	16.69	14.82	11.5	10.96	0	13.81	12.62	14.55	0	14.91
+TCGA-NJ-A55R-01A	TCGA-NJ-A55R-01A	Primary Tumor	67	male	white	17.22	17.29	14.51	11.71	12.22	5.908	15.78	18.26	14.05	10.18	13.91	13.58	14.73	11.79	16.5	13.18	12.51	13.91	0	9.38	9.684	16.48	13.02	11.34	14.13	0	12.75
+TCGA-78-7633-01A	TCGA-78-7633-01A	Primary Tumor	67	male	white	16.87	17.6	16.31	15.31	12.05	0	16.41	21.78	13.58	9.614	12.65	14.79	15.23	9.521	17.31	15.51	9.626	12.94	11.66	9.812	11.92	0	12.64	10.61	16.33	0	13.76
+TCGA-95-7947-01A	TCGA-95-7947-01A	Primary Tumor	67	male	white	16.07	17.65	16.05	11.94	9.614	4.802	15.94	20.53	14.43	0	15.26	14.65	16	0	17.26	13.43	10.06	11.73	13	9.095	0	6.989	14.64	14.08	14.27	0	12.49
+TCGA-95-8494-01A	TCGA-95-8494-01A	Primary Tumor	67	male	white	15.49	16.5	14.75	11.4	0	0	14.61	20.38	11.69	11.35	10.56	13.06	14.1	0	15.7	12.9	8.197	11.28	0	11.45	10.27	0	12.12	9.76	14.29	0	12.92
+TCGA-05-4434-01A	TCGA-05-4434-01A	Primary Tumor	67	female	not reported	0	0	5.361	15.43	0	0	0	0	10.75	0	0	0	0	0	0	6.695	0	15.06	0	0	0	14.37	0	0	0	0	0
+TCGA-44-6147-01B	TCGA-44-6147-01B	Primary Tumor	67	female	white	8.063	9.781	0	14.81	0	0	7.817	0	0	0	0	0	7.111	0	0	0	0	17.77	0	0	0	20.59	11.67	0	0	0	0
+TCGA-44-6147-01A	TCGA-44-6147-01A	Primary Tumor	67	female	white	8.038	10.24	8.209	13.17	0	4.657	6.141	11.88	8.409	0	0	0	8.475	0	8.618	0	0	18.03	0	0	0	17.12	0	8.296	5.591	0	0
+TCGA-55-6970-01A	TCGA-55-6970-01A	Primary Tumor	67	female	white	6.76	5.907	0	12.7	0	4.908	5.937	9.804	8.668	0	0	0	0	0	7.386	0	0	9.261	0	0	0	16.43	0	0	0	0	0
+TCGA-44-A4SU-01A	TCGA-44-A4SU-01A	Primary Tumor	67	female	white	6.582	6.307	0	11.57	7.55	0	5.355	12.43	11.53	0	0	0	0	0	7.789	0	0	12.99	0	0	0	17.99	0	0	0	0	0
+TCGA-78-7147-01A	TCGA-78-7147-01A	Primary Tumor	67	female	white	6.369	6.095	0	9.914	0	0	5.145	9.732	10.86	0	0	0	0	0	6.583	7.492	5.799	13.03	0	0	0	15.93	0	0	0	0	0
+TCGA-49-4501-01A	TCGA-49-4501-01A	Primary Tumor	67	female	white	5.861	6.573	0	10.59	0	4.595	4.647	9.48	0	0	0	0	0	0	0	0	0	15.26	0	0	0	14.13	0	0	5.705	0	0
+TCGA-97-7547-01A	TCGA-97-7547-01A	Primary Tumor	67	female	white	5.517	7.217	0	10.05	0	0	0	10.71	10.31	0	0	0	0	0	0	7.625	5.93	10.58	0	0	0	16.06	0	0	0	0	0
+TCGA-55-8096-01A	TCGA-55-8096-01A	Primary Tumor	67	female	white	5.028	8.708	0	12.09	0	0	7.068	11.13	0	0	0	0	0	0	7.208	0	5.437	15.86	0	0	0	17.72	0	0	5.849	0	0
+TCGA-50-5942-01A	TCGA-50-5942-01A	Primary Tumor	67	female	white	0	0	0	11.64	0	0	0	0	0	0	0	0	0	0	7.309	8.221	0	0	0	0	0	16.95	0	0	0	0	0
+TCGA-05-4384-01A	TCGA-05-4384-01A	Primary Tumor	66	male	not reported	17.12	17.59	16.15	11.71	12.2	5.776	16.42	20.78	13.88	11.22	13.08	12.69	15.83	9.539	16.54	13.18	9.933	14.54	11.68	10.83	0	5.022	14.31	12.95	15.08	0	13.31
+TCGA-05-4432-01A	TCGA-05-4432-01A	Primary Tumor	66	male	not reported	16.07	17.55	15.53	16.27	13.23	6.644	15.16	19.41	16.25	8.515	14.16	14.1	15.72	8.421	17.3	14.48	9.355	17.42	0	7.395	10.01	7.863	12	11.96	15.18	0	12.15
+TCGA-97-A4M2-01A	TCGA-97-A4M2-01A	Primary Tumor	66	male	white	17.78	17.9	16	13.9	12.21	7.295	16.25	20.93	14.3	0	13.18	14.82	15.58	11.07	16.61	13.93	12.12	13.14	11.21	11.04	0	6.119	13.59	12.48	14.38	0	14.86
+TCGA-73-4659-01A	TCGA-73-4659-01A	Primary Tumor	66	male	white	16.65	17.41	15.97	12.97	10.75	0	15.91	21.08	14.04	8.109	13.06	14.12	15.32	9.597	16.83	14.72	8.41	13.71	14.4	9.789	10.19	5.483	12.99	10.1	15.5	7.209	12.35
+TCGA-86-7701-01A	TCGA-86-7701-01A	Primary Tumor	66	male	white	16.53	17.36	15.57	14.98	8.762	7.489	15.12	19.97	13.19	11.36	14.2	11.79	15.04	0	16.34	11.24	12.06	14.79	0	10.82	11.87	0	11.39	0	14.39	0	13.74
+TCGA-91-6831-01A	TCGA-91-6831-01A	Primary Tumor	66	male	white	14.89	17.91	16.45	10.23	14.3	7.448	14.56	20.82	14.97	9.738	15.14	11.03	15.54	9.645	14.97	14.7	8.169	14.5	0	9.615	11.82	8.409	11.77	9.731	15.69	0	10.31
+TCGA-73-4668-01A	TCGA-73-4668-01A	Primary Tumor	66	female	american indian or alaska native	0	8.068	0	8.099	0	0	4.57	9.137	7.269	0	0	0	0	0	5.995	0	5.216	0	0	0	0	13.07	0	0	0	0	0
+TCGA-44-2664-01A	TCGA-44-2664-01A	Primary Tumor	66	female	black or african american																											
+TCGA-J2-A4AG-01A	TCGA-J2-A4AG-01A	Primary Tumor	66	female	white	7.516	6.659	6.712	16.36	0	0	5.703	11.44	9.428	0	0	0	0	0	8.727	0	0	14.02	0	0	0	17.51	0	0	6.777	0	0
+TCGA-86-8075-01A	TCGA-86-8075-01A	Primary Tumor	66	female	white	5.951	5.678	0	10.93	0	0	6.694	12.34	8.435	0	0	0	0	0	0	0	0	15.13	0	0	0	17.56	0	0	0	0	0
+TCGA-38-4625-01A	TCGA-38-4625-01A	Primary Tumor	66	female	white	0	6.368	5.438	11.51	0	4.396	5.989	0	12.09	8.213	0	6.195	4.727	0	5.87	0	0	13.86	0	0	0	13.25	0	0	0	0	0
+TCGA-95-A4VP-01A	TCGA-95-A4VP-01A	Primary Tumor	66	female	white	0	0	0	14.42	0	0	0	0	0	0	0	0	0	0	0	7.993	0	14.81	0	0	0	15.6	0	0	0	0	0
+TCGA-78-7540-01A	TCGA-78-7540-01A	Primary Tumor	66	female	white	0	0	0	11.78	0	4.968	5.021	8.868	10.54	0	0	0	0	0	6.456	0	0	14.08	0	0	0	13.82	0	0	6.086	0	0
+TCGA-05-4397-01A	TCGA-05-4397-01A	Primary Tumor	65	male	not reported	17.73	18.25	15.76	15.5	8.398	6.137	15.6	20.23	16.69	10.32	16.28	15.71	16.65	0	19.08	16.42	7.654	13.16	0	11.52	10.5	3.48	15.51	15.09	16.78	0	14.1
+TCGA-05-5423-01A	TCGA-05-5423-01A	Primary Tumor	65	male	not reported	14.38	16.86	16.37	15.8	12.51	0	15.28	21.68	14.81	11.86	13.43	12.15	15.76	0	14.16	15.04	7.71	15.84	14.71	0	10.36	6.805	14.42	13.94	14.89	0	11.11
+TCGA-55-1592-01A	TCGA-55-1592-01A	Primary Tumor	65	male	white	17.44	17.77	16.89	15.33	14.53	6.113	15.86	20.56	16.6	13.85	13.08	15.01	15.72	9.297	17.27	15.27	12.18	15.52	14.24	10.44	0	6.558	14	13.03	15.9	0	13.7
+TCGA-NJ-A4YG-01A	TCGA-NJ-A4YG-01A	Primary Tumor	65	male	white	17.26	17.29	15.44	12.26	13.17	0	15.62	18.9	14.66	9.566	13.37	15.2	15.48	0	16.68	13.64	10.49	14.89	0	10.03	0	0	12.6	12.73	14.11	0	14.34
+TCGA-44-2662-01B	TCGA-44-2662-01B	Primary Tumor	65	male	white	17.16	18.62	16.35	17.46	11.67	8.397	17.31	18.25	13.7	10.69	14.86	15.9	17.8	0	15.74	13.15	11.92	14.21	0	14.92	0	11.74	15.67	0	16.45	0	14.96
+TCGA-97-7937-01A	TCGA-97-7937-01A	Primary Tumor	65	male	white	16.66	17.57	16.31	11.7	7.409	5.164	14.9	20.67	13.71	9.007	11.86	13.63	15.18	0	16.35	14.34	0	19.75	11.05	8.883	0	7.68	11.04	12	14.11	0	13.52
+TCGA-44-2662-01A	TCGA-44-2662-01A	Primary Tumor	65	male	white	15.27	16.81	14.7	16.09	8.13	0	14.36	18.77	13.13	10.19	13.06	12.3	14.61	0	14.92	8.287	8.278	13.43	0	11.17	10.42	6.694	14.22	8.664	13.56	0	11.13
+TCGA-62-A46P-01A	TCGA-62-A46P-01A	Primary Tumor	65	male	white	14.51	14.99	12.18	16.32	8.43	0	12.31	18.17	11.95	0	10.98	10.58	12.38	0	14.08	0	6.884	13.36	0	0	11.53	6.973	0	0	10.99	0	9.281
+TCGA-78-7152-01A	TCGA-78-7152-01A	Primary Tumor	65	male	white	14.26	15.6	13.37	15.8	0	7.471	12.94	18.76	11.85	10.35	12.88	9.315	13.06	0	14.51	0	7.197	14.32	0	9.223	10.85	0	10.38	11.92	12.46	0	11.59
+TCGA-05-4427-01A	TCGA-05-4427-01A	Primary Tumor	65	female	not reported	0	0	0	10.76	0	0	5.618	8.896	9.342	0	0	0	0	0	0	0	0	14.84	0	0	0	14.98	0	0	0	0	0
+TCGA-62-A46O-01A	TCGA-62-A46O-01A	Primary Tumor	65	female	white	7.507	9.638	6.704	17.42	0	0	5.695	11.29	0	0	6.141	0	8.283	0	8.135	0	6.353	15.6	0	0	0	17.35	0	0	6.768	0	0
+TCGA-91-6830-01A	TCGA-91-6830-01A	Primary Tumor	65	female	white	7.352	8.07	0	12.85	0	0	6.116	9.401	0	0	0	0	6.402	0	0	0	0	14.69	0	0	0	17.73	0	0	0	0	0
+TCGA-62-8394-01A	TCGA-62-8394-01A	Primary Tumor	65	female	white	7.112	8.827	6.311	10.44	0	5.253	6.288	10.9	9.023	0	0	0	5.589	0	8.322	8.653	0	16.11	0	0	0	16.28	9.13	0	0	0	0
+TCGA-78-7153-01A	TCGA-78-7153-01A	Primary Tumor	65	female	white	5.982	6.695	0	10.71	7.94	0	5.738	11.92	11.05	0	0	0	6.023	0	7.185	8.096	0	0	0	0	0	14.92	0	0	0	0	0
+TCGA-44-2659-01A	TCGA-44-2659-01A	Primary Tumor	65	female	white	5.144	5.85	0	10.66	0	6.402	5.88	9.483	9.608	0	0	0	0	0	0	0	0	17.23	0	0	0	14.6	0	0	0	0	0
+TCGA-44-2655-01A	TCGA-44-2655-01A	Primary Tumor	65	female	white	0	7.537	0	13.99	0	0	5.59	8.867	10.77	0	0	0	0	0	0	6.952	0	12.23	0	0	0	15.51	0	0	0	0	0
+TCGA-38-4628-01A	TCGA-38-4628-01A	Primary Tumor	65	female	white	0	6.795	0	10.9	0	0	0	9.44	11.26	0	0	0	0	0	0	0	0	17.05	0	0	0	11.74	0	0	5.925	0	0
+TCGA-J2-8192-01A	TCGA-J2-8192-01A	Primary Tumor	65	female	white	0	0	0	11.77	0	0	0	0	11.44	0	0	6.411	4.937	0	0	0	5.305	15.69	0	0	0	18.07	0	0	0	0	0
+TCGA-73-4662-01A	TCGA-73-4662-01A	Primary Tumor	65	female	white	0	0	0	10.22	0	4.421	0	0	9.745	0	5.885	0	4.752	0	5.895	0	0	19.04	0	0	0	16.14	0	0	0	0	0
+TCGA-93-A4JP-01A	TCGA-93-A4JP-01A	Primary Tumor	64	male	asian	16.94	17.76	16.11	15.8	12.3	5.062	15.98	19.61	15.11	0	14.1	13.75	15.63	10.39	16.5	13.29	10.06	14.67	12.53	10.95	10.99	6.265	14.32	12.8	14.66	0	14.45
+TCGA-44-7671-01A	TCGA-44-7671-01A	Primary Tumor	64	male	black or african american	16.39	17	15.49	16.05	11.03	4.894	15.66	21.25	14.76	8.729	12.71	13	14.65	0	16.69	14.03	11.32	15.6	0	8.605	0	5.685	13.28	8.722	14.57	0	12.1
+TCGA-49-AAR2-01A	TCGA-49-AAR2-01A	Primary Tumor	64	male	black or african american	15.89	15.27	12.51	16.03	0	0	13.08	18.52	12.29	9.667	11.96	11.44	12.99	0	15	9.805	10.51	17.74	0	10.13	11.17	8.018	0	10.66	12.1	0	12.24
+TCGA-86-8669-01A	TCGA-86-8669-01A	Primary Tumor	64	male	white	18.08	18.53	16.77	11.6	15.71	5.869	16.13	22.27	14.78	9.727	15.4	15.56	16.9	11.95	17.37	15.75	10.89	16.84	13.35	8.605	10.23	7.664	14.56	13.42	15.6	0	13.22
+TCGA-44-6146-01B	TCGA-44-6146-01B	Primary Tumor	64	male	white	17.94	18.92	17.83	17.31	11.5	9.007	17.77	18.75	15.42	11.3	15.03	17.28	18.87	0	16.51	14.85	12.35	15.63	0	14.22	0	7.975	17.48	15.25	16.72	0	16.22
+TCGA-44-6146-01A	TCGA-44-6146-01A	Primary Tumor	64	male	white	16.56	18.06	16.8	16.47	10.98	5.916	15.6	19.78	15.01	8.196	12.63	14.85	16.88	0	16.57	14.14	8.495	14.38	10.24	11.07	0	6.359	16.26	14.8	14.72	0	11.65
+TCGA-55-7903-01A	TCGA-55-7903-01A	Primary Tumor	64	male	white	15.86	17.29	15.09	13.54	8.633	0	15.43	21.19	13.41	10.82	13.61	13.03	14.97	0	15.43	12.79	11.03	19.92	12.86	8.114	0	9.167	12.26	11.23	15.1	0	12.69
+TCGA-55-8085-01A	TCGA-55-8085-01A	Primary Tumor	64	male	white	15.42	16.26	13.76	15.49	8.783	4.964	13.62	18.52	12.31	10.38	12.04	10.67	13.49	0	14.96	7.36	9.642	14.36	0	7.682	9.303	6.743	12	10.79	12.65	0	12.44
+TCGA-62-A471-01A	TCGA-62-A471-01A	Primary Tumor	64	male	white	14.55	15.48	12.45	16.03	0	0	13.12	17.97	11.9	0	11.64	10.95	12.59	9.303	13.52	10.76	7.827	15.12	0	8.275	0	4.794	10.43	9.389	11.87	0	10.23
+TCGA-L9-A8F4-01A	TCGA-L9-A8F4-01A	Primary Tumor	64	female	black or african american	0	7.179	0	11.29	7.431	0	0	0	11.12	0	0	0	0	0	0	0	0	15.16	0	0	0	18.43	0	0	0	0	0
+TCGA-55-7574-01A	TCGA-55-7574-01A	Primary Tumor	64	female	white	7.983	7.124	7.178	14.34	0	0	7.155	8.453	9.897	0	0	0	6.451	0	8.612	8.528	0	17.32	0	0	0	18.03	0	0	0	0	0
+TCGA-49-6744-01A	TCGA-49-6744-01A	Primary Tumor	64	female	white	6.779	7.496	6.557	10.11	0	0	5.549	10.15	10.59	0	0	0	0	0	0	0	0	13.95	0	0	0	14.89	0	0	0	0	0
+TCGA-55-7728-01A	TCGA-55-7728-01A	Primary Tumor	64	female	white	6.325	0	0	11.97	0	0	5.101	8.367	9.812	0	0	0	0	0	7.53	0	0	12.4	0	0	0	18.26	0	0	0	0	0
+TCGA-38-4627-01A	TCGA-38-4627-01A	Primary Tumor	64	female	white	0	0	0	12.4	0	5.1	0	9.004	0	0	6.581	0	0	0	0	0	0	13.54	0	0	0	12.2	0	0	6.22	0	0
+TCGA-97-8176-01A	TCGA-97-8176-01A	Primary Tumor	63	male	white	16.66	17	15.42	14.91	13.33	0	15.72	18.38	16.12	0	13.73	15.14	14.82	0	16.41	15.26	8.04	16.55	13.24	11.29	0	8.281	13.34	13.19	15.8	0	12.9
+TCGA-55-6642-01A	TCGA-55-6642-01A	Primary Tumor	63	male	white	16.57	17.74	16.35	15.6	12.27	5.925	15.4	21.05	13.23	0	14.65	13.24	15.53	0	15.95	14.31	10.8	14.55	11.83	9.66	11.29	5.17	13.51	11.36	14.7	0	12.99
+TCGA-MN-A4N5-01A	TCGA-MN-A4N5-01A	Primary Tumor	63	male	white	15.7	15.84	13.69	12.44	8.346	5.107	14.18	18.25	12.51	0	11.27	11.16	13.71	0	13.9	11.31	8.961	15.02	10.99	0	9.45	0	10.56	8.941	12.27	0	12.59
+TCGA-53-A4EZ-01A	TCGA-53-A4EZ-01A	Primary Tumor	63	male	white	14.54	14.77	16.95	11.06	13.76	0	12.48	22.57	10.49	0	10.13	10.27	11.96	13.2	13.47	0	8.991	17.75	14.02	8.855	9.48	6.919	15.89	14.85	10.99	0	10.81
+TCGA-64-1680-01A	TCGA-64-1680-01A	Primary Tumor	63	male	white	13.38	14.83	13.43	10.17	10.97	0	12.97	18.56	12.82	9.991	10.71	10.28	12.7	0	13.97	9.545	6.845	16	0	0	0	0	12.02	12.57	12.25	0	10.56
+TCGA-50-8457-01A	TCGA-50-8457-01A	Primary Tumor	63	female	black or african american	6.592	7.89	0	10.33	0	0	6.347	9.635	0	0	0	0	5.648	0	6.806	0	0	14.2	0	0	0	17.9	0	0	6.434	0	0
+TCGA-49-AAQV-01A	TCGA-49-AAQV-01A	Primary Tumor	63	female	black or african american	6.14	7.435	0	9.46	0	0	4.92	11.35	7.63	0	5.361	0	5.201	0	0	7.261	5.571	14.22	0	0	0	17.36	0	0	0	0	0
+TCGA-91-8496-01A	TCGA-91-8496-01A	Primary Tumor	63	female	white	8.073	7.214	0	10.56	0	0	7.244	10.54	12.45	0	0	0	6.54	0	0	0	7.909	17.19	0	0	0	16.89	0	0	0	0	0
+TCGA-L9-A443-01A	TCGA-L9-A443-01A	Primary Tumor	63	female	white	7.522	8.24	6.718	12.44	0	0	7.688	11.69	0	0	6.155	0	6.982	0	7.155	0	0	16.27	0	0	0	13.75	0	0	0	0	0
+TCGA-86-A4P7-01A	TCGA-86-A4P7-01A	Primary Tumor	63	female	white	6.619	0	7.389	15.59	0	0	5.392	9.984	8.113	0	5.836	7.161	0	0	0	0	0	18.41	0	0	0	18.11	0	10.18	0	0	0
+TCGA-95-7043-01A	TCGA-95-7043-01A	Primary Tumor	63	female	white	6.539	0	7.308	11.28	0	0	0	8.583	0	0	6.742	8.075	0	0	0	0	0	18.21	0	0	0	17.61	0	0	0	0	0
+TCGA-86-8056-01A	TCGA-86-8056-01A	Primary Tumor	63	female	white	6.427	8.551	5.63	17.14	0	0	6.182	10.69	8.333	9.406	0	7.963	5.892	0	7.633	6.969	0	13.38	0	0	0	17.32	0	0	0	0	0
+TCGA-50-6591-01A	TCGA-50-6591-01A	Primary Tumor	63	female	white	6.075	0	0	10.39	0	5.777	0	0	8.561	0	0	0	0	0	0	0	0	16.32	0	0	0	17.76	0	0	0	0	0
+TCGA-86-8278-01A	TCGA-86-8278-01A	Primary Tumor	63	female	white	5.791	5.518	0	7.526	0	0	0	0	8.272	0	0	0	0	0	6.003	0	0	15.15	0	0	0	17.65	0	0	0	0	0
+TCGA-55-A48X-01A	TCGA-55-A48X-01A	Primary Tumor	63	female	white	5.707	0	0	12.39	0	0	5.464	0	9.185	0	0	0	0	0	0	0	0	18.11	0	0	0	18.15	0	0	0	0	0
+TCGA-05-4410-01A	TCGA-05-4410-01A	Primary Tumor	62	male	not reported	15.52	17.57	15.8	11.36	10.42	7.728	15.41	20.02	13.64	0	12.91	11.31	15.25	0	15.05	12.89	10.32	17.44	0	8.897	0	0	13.51	12.33	14.3	0	12.51
+TCGA-62-8399-01A	TCGA-62-8399-01A	Primary Tumor	62	male	white	17.98	18.72	16.23	17.71	8.936	0	16.14	20.78	14.11	0	12.49	14.55	15.26	0	16.88	14.03	9.603	15.3	11	8.831	9.456	8.111	10.98	10.53	15.95	0	12.66
+TCGA-78-7156-01A	TCGA-78-7156-01A	Primary Tumor	62	male	white	17.65	18.01	16.6	10.4	11.36	9.671	17.11	22.46	14.5	12.23	11.92	15.17	16.22	0	17.48	15.99	9.947	13.33	0	9.522	11.73	5.035	13.26	11.96	15.35	0	15.01
+TCGA-91-7771-01A	TCGA-91-7771-01A	Primary Tumor	62	male	white	17.07	18.15	16.77	12.46	11.79	7.608	16.4	21.4	15.17	0	14.28	14.67	16.33	0	17.16	15.17	11.57	15.73	11.53	10.36	0	0	13.21	12.06	15.84	0	14.16
+TCGA-86-7955-01A	TCGA-86-7955-01A	Primary Tumor	62	male	white	16.53	16.97	15.53	10.75	0	0	15.49	20.1	13.5	0	12.13	14.14	14.47	0	16.72	12.72	5.545	12.51	11.72	9.136	9.177	4.105	13.1	12.91	14.89	0	11.57
+TCGA-55-8505-01A	TCGA-55-8505-01A	Primary Tumor	62	male	white	15.98	16.66	15.15	11.2	11.96	0	14.82	19.4	14.32	10.56	13.11	13.31	13.89	10.47	15.58	13.29	7.995	13.78	11.61	10.03	10.07	7.502	12.59	12.36	14.93	0	11.51
+TCGA-50-5946-01A	TCGA-50-5946-01A	Primary Tumor	62	male	white	13.88	14.97	11.94	9.959	0	4.785	12.29	16.99	10.54	9.615	11.02	9.168	11.65	0	14.02	0	7.051	15.38	0	7.497	12.12	11.58	8.648	10.61	11.12	0	10.18
+TCGA-MP-A4TJ-01A	TCGA-MP-A4TJ-01A	Primary Tumor	62	female	not reported	6.283	7.991	8.045	15.75	0	0	0	9.323	11.35	0	0	0	0	0	0	0	0	11.95	0	0	0	17.49	0	0	0	0	8.097
+TCGA-78-7143-01A	TCGA-78-7143-01A	Primary Tumor	62	female	white	7.059	8.995	7.83	16.62	7.446	0	6.234	11.69	10.97	0	5.697	0	0	0	6.693	0	0	13.81	0	0	0	16.73	0	0	0	0	0
+TCGA-91-6847-01A	TCGA-91-6847-01A	Primary Tumor	62	female	white	6.797	6.933	6.986	10.41	0	0	6.552	10.26	10.03	8.781	5.438	0	0	0	0	0	0	0	0	0	0	11.61	0	0	6.061	0	0
+TCGA-86-8074-01A	TCGA-86-8074-01A	Primary Tumor	62	female	white	6.746	7.05	5.539	10.19	0	0	4.547	9.79	10.04	8.315	4.984	0	0	0	6.96	0	5.193	17.05	0	0	0	17.51	8.347	0	0	0	0
+TCGA-44-6145-01A	TCGA-44-6145-01A	Primary Tumor	62	female	white	0	6.879	0	11.81	8.125	0	0	0	0	0	0	0	0	0	0	0	6.58	14.77	0	0	0	15.69	0	0	0	0	0
+TCGA-55-8506-01A	TCGA-55-8506-01A	Primary Tumor	62	female	white	0	0	7.786	10.93	0	0	0	10.38	8.511	0	0	0	0	0	7.229	0	0	15.74	0	0	0	16.55	0	0	0	0	0
+TCGA-95-A4VN-01A	TCGA-95-A4VN-01A	Primary Tumor	62	female	white	0	0	0	15.43	0	0	0	0	0	0	0	0	0	0	0	0	0	16.7	0	0	0	17.42	0	0	0	0	0
+TCGA-49-AAR9-01A	TCGA-49-AAR9-01A	Primary Tumor	61	male	black or african american	16.57	17.57	15.03	10.1	0	0	15.51	20.66	17.07	0	14.28	14.7	15.27	0	17.31	14.43	11.93	15.31	0	9.215	0	7.499	13.07	15.16	16.86	0	13.14
+TCGA-99-8032-01A	TCGA-99-8032-01A	Primary Tumor	61	male	white	17.93	18.56	16.1	15.65	14.76	10.01	16.31	22.06	15.09	9.935	16.73	15.42	16.22	9.841	17.98	13.39	10.48	14.74	10.98	11.13	11.02	8.927	13.82	13.32	15.53	0	14.33
+TCGA-64-5779-01A	TCGA-64-5779-01A	Primary Tumor	61	male	white	17.18	17.91	15.84	12.11	13.86	0	15.21	19.77	14.06	9.847	14.55	13.49	15.72	10.75	16.64	14.1	12.36	15.65	0	11.72	0	5.231	12.2	10.84	15.29	0	13.8
+TCGA-86-8673-01A	TCGA-86-8673-01A	Primary Tumor	61	male	white	16.96	17.87	12.6	10.14	0	6.779	16.32	18	16.64	0	14.12	16.42	15.75	0	17.69	14.63	10.74	14.49	0	11.52	10.15	0	0	11.96	16.36	0	13.65
+TCGA-78-7160-01A	TCGA-78-7160-01A	Primary Tumor	61	male	white	16.76	17.89	16.24	14.23	10.72	0	16.04	20.55	15.61	9.519	14.33	13.88	15.72	0	17.19	13.88	10.36	14.36	13.56	9.98	10.02	8.04	13.87	13.97	14.98	0	13.16
+TCGA-86-8054-01A	TCGA-86-8054-01A	Primary Tumor	61	male	white	16.52	18.3	15.75	11.8	13.53	5.863	15.23	21.25	12.81	8.723	15.11	13.32	14.92	0	16.93	11.27	9.371	11.24	12.35	7.603	10.22	6.405	12.56	10.71	14.9	0	12.36
+TCGA-55-6968-01A	TCGA-55-6968-01A	Primary Tumor	61	male	white	16.4	17.86	16.71	11.28	0	0	15.51	21.62	15.15	9.523	14.98	13.74	15.4	0	17.49	0	9.824	15.82	0	0	11.61	10.26	13.14	11.84	15.68	0	14.48
+TCGA-MP-A4SY-01A	TCGA-MP-A4SY-01A	Primary Tumor	61	male	white	16.38	17.37	14.67	13.35	11.88	6.23	15.47	20.29	12.82	0	14.08	13.7	14.87	0	15.66	13.48	12.49	14.66	12.14	10.55	9.597	5.472	11.12	12.54	14.1	0	13.41
+TCGA-55-6975-01A	TCGA-55-6975-01A	Primary Tumor	61	male	white	16.23	17.45	16.71	12.38	13.38	6.26	15.32	20.78	16.76	0	14.46	14.28	14.91	10.03	17.68	13.26	9.551	13.23	0	0	12.62	0	13.32	13.57	15.92	0	12.69
+TCGA-44-7662-01A	TCGA-44-7662-01A	Primary Tumor	61	male	white	15.56	16.5	14.2	10.48	0	0	13.43	18.8	10.53	0	13.93	11.53	13.55	0	15.13	8.745	9.695	15.33	0	7.488	12.11	0	11.64	9.598	13.02	0	11.38
+TCGA-95-7567-01A	TCGA-95-7567-01A	Primary Tumor	61	male	white	14.25	15.51	13.06	17.01	0	0	12.63	17.84	10.52	8.599	12.48	8.888	12.51	0	14.56	0	8.762	16.18	0	9.059	10.68	0	8.63	12.05	12.14	0	10.75
+TCGA-35-5375-01A	TCGA-35-5375-01A	Primary Tumor	61	male	white	13.76	15.57	13.91	11.97	0	0	12.78	19.73	11.14	0	12.3	10.92	12.87	0	15.18	9.182	9.47	0	0	0	11.13	0	12.66	0	12.79	0	10.88
+TCGA-44-5645-01B	TCGA-44-5645-01B	Primary Tumor	61	female	black or african american	7.527	8.829	8.883	14.11	0	6.236	7.863	8.58	0	0	0	0	6.577	0	0	0	6.952	15.37	0	0	0	21.16	0	0	0	0	0
+TCGA-55-7913-01B	TCGA-55-7913-01B	Primary Tumor	61	female	black or african american	6.524	0	6.713	6.691	6.91	0	6.279	9.789	8.431	0	0	6.486	5.988	0	0	0	0	16.38	0	0	0	13.07	0	0	0	0	0
+TCGA-44-5645-01A	TCGA-44-5645-01A	Primary Tumor	61	female	black or african american	5.703	7.096	5.483	11.99	6.664	4.719	6.136	7.89	9.625	0	0	0	4.77	0	0	6.819	0	13.93	0	0	0	17.11	0	0	5.546	0	0
+TCGA-86-7714-01A	TCGA-86-7714-01A	Primary Tumor	61	female	black or african american	0	9.717	0	9.427	0	0	6.44	10.31	9.177	0	6.889	0	0	0	0	0	0	0	0	0	0	16.89	0	0	7.52	0	0
+TCGA-49-4505-01A	TCGA-49-4505-01A	Primary Tumor	61	female	white	14.12	16.26	14.02	15.78	6.937	6.662	12.54	19.71	13.15	10.53	12.86	11.96	13.1	8.44	15.35	10.67	9.074	17.33	0	7.414	9.035	3.971	11.88	10.84	12.93	0	10.48
+TCGA-J2-A4AD-01A	TCGA-J2-A4AD-01A	Primary Tumor	61	female	white	7.39	7.695	6.177	10.46	0	0	5.174	12.02	10.47	0	0	0	6.44	0	9.184	0	5.827	0	0	0	0	17.24	0	0	0	0	0
+TCGA-86-8668-01A	TCGA-86-8668-01A	Primary Tumor	61	female	white	6.379	7.094	0	11.7	0	0	6.135	11.88	10.45	0	0	0	0	0	0	0	0	10.46	0	0	0	18.16	0	0	0	0	8.195
+TCGA-64-1681-01A	TCGA-64-1681-01A	Primary Tumor	61	female	white	6.339	6.064	6.117	10.53	0	0	0	10.84	7.83	0	5.557	0	5.397	0	0	0	0	18.32	0	0	0	16.43	0	0	0	0	0
+TCGA-55-A494-01A	TCGA-55-A494-01A	Primary Tumor	61	female	white	5.585	0	0	9.632	0	0	0	7.619	8.064	0	0	0	0	0	0	0	0	17.43	0	0	0	18.82	0	0	0	0	0
+TCGA-55-8299-01A	TCGA-55-8299-01A	Primary Tumor	61	female	white	0	7.273	0	12.1	0	0	5.33	7.606	8.051	0	0	0	5.614	0	0	0	0	11.22	0	0	0	17.09	0	0	0	0	0
+TCGA-05-5429-01A	TCGA-05-5429-01A	Primary Tumor	60	male	not reported	15.61	16.44	15.97	12.3	9.439	0	14.24	21.54	14.87	11.04	12.03	14.79	15.36	0	16.72	15.19	6.895	15.51	0	8.92	11.54	0	14.77	14.99	14.17	0	11.46
+TCGA-MN-A4N1-01A	TCGA-MN-A4N1-01A	Primary Tumor	60	male	black or african american	18.11	18	16.09	12.53	13.88	0	16.6	18.26	15.67	10.11	15.37	16.43	16.16	0	17.77	15.68	10.2	15.55	12.15	7.986	0	7.046	13.04	13.74	15.75	0	14.67
+TCGA-55-7570-01A	TCGA-55-7570-01A	Primary Tumor	60	male	black or african american	17.09	18.41	16.51	11.16	13.36	5.234	15.92	20.77	14.48	0	11.97	13.77	15.26	8.986	17.86	9.954	10.24	12.77	0	9.955	0	0	10.69	11.39	16.55	0	13.75
+TCGA-78-7163-01A	TCGA-78-7163-01A	Primary Tumor	60	male	white	17.3	18.71	17.14	9.381	13.86	0	16.56	21.93	16.17	0	13.38	15.78	16.75	0	18.63	14.84	9.05	10.99	10.93	11.08	0	0	17.72	16.94	15.46	0	14.26
+TCGA-44-6148-01A	TCGA-44-6148-01A	Primary Tumor	60	male	white	17.17	18.45	16.04	12.57	14.2	13.06	16.36	20.96	15.6	9.398	15	15.22	16.3	9.305	16.86	14.65	8.826	11.91	11.44	11.73	11.48	4.796	12.24	10.39	15.29	0	14.17
+TCGA-50-7109-01A	TCGA-50-7109-01A	Primary Tumor	60	male	white	16.58	17.63	16.74	11.96	13.31	0	14.25	21.43	13.96	11.98	12.61	13.84	15.21	0	16.62	13.73	11.24	15.56	0	8.275	10.9	4.793	12.6	0	13.73	0	13.34
+TCGA-64-5778-01A	TCGA-64-5778-01A	Primary Tumor	60	male	white	16.41	17.09	15.91	11.25	9.468	5.633	15.81	22.14	15.49	9.487	13.95	16.64	15.76	10.39	17.8	15.79	11.28	17.12	13.11	11.53	0	0	14.87	14.97	14.77	0	12.54
+TCGA-55-8620-01A	TCGA-55-8620-01A	Primary Tumor	60	male	white	15.12	15.35	12.78	11.17	0	5.684	13.09	17.72	11.27	0	10.92	9.092	12.88	0	14.09	0	9.381	14.51	11.58	0	0	7.889	12.15	11.85	11.32	0	11.25
+TCGA-64-5774-01A	TCGA-64-5774-01A	Primary Tumor	60	male	white	13.82	17.22	15.64	10.06	13.08	6.431	15.16	20.53	12.03	0	12.72	9.266	11.74	0	13.71	14.21	6.158	13.9	0	8.177	0	4.699	12.65	10.87	15.49	0	9.132
+TCGA-71-8520-01A	TCGA-71-8520-01A	Primary Tumor	60	female	asian	7.093	6.817	0	10.16	0	0	0	0	0	0	0	0	0	0	8.302	0	0	10.18	0	0	0	16.18	0	0	0	0	0
+TCGA-55-8508-01A	TCGA-55-8508-01A	Primary Tumor	60	female	black or african american	8.178	7.318	7.372	11.8	0	0	6.357	11.64	0	0	0	0	8.633	0	0	0	0	16.41	0	0	0	15.25	0	0	0	0	0
+TCGA-69-A59K-01A	TCGA-69-A59K-01A	Primary Tumor	60	female	black or african american	0	8.615	7.352	12.88	0	5.302	8.132	9.211	10.88	0	0	0	6.624	0	6.796	0	6.011	12.66	0	0	0	18.09	0	10.14	0	0	0
+TCGA-55-8097-01A	TCGA-55-8097-01A	Primary Tumor	60	female	white	6.986	5.724	0	10.05	0	0	6.33	9.034	10.65	0	5.22	0	0	0	0	0	0	17.46	0	0	0	17.72	0	0	5.841	0	0
+TCGA-97-A4M0-01A	TCGA-97-A4M0-01A	Primary Tumor	60	female	white	6.587	6.312	6.366	10.79	0	0	5.36	7.636	10.08	0	0	0	0	0	7.795	7.711	0	14.37	0	0	0	18.96	0	0	0	0	0
+TCGA-55-6543-01A	TCGA-55-6543-01A	Primary Tumor	60	female	white	5.981	7.687	6.747	14.91	0	0	0	10.02	8.465	9.539	0	0	0	0	0	0	0	10.06	0	0	0	15.55	0	0	0	0	0
+TCGA-55-A48Z-01A	TCGA-55-A48Z-01A	Primary Tumor	60	female	white	5.656	6.367	0	12.55	0	0	0	9.685	11.3	0	5.858	0	0	0	0	7.766	0	15.4	0	0	0	17.24	0	0	0	0	0
+TCGA-44-3918-01A	TCGA-44-3918-01A	Primary Tumor	60	female	white	4.385	0	7.534	12.47	0	0	6.518	7.961	7.824	0	0	0	0	0	5.561	0	0	13.01	0	0	0	16.39	0	0	6.175	0	0
+TCGA-44-4112-01B	TCGA-44-4112-01B	Primary Tumor	60	female	white	0	9.002	0	15.86	0	0	6.461	9.751	0	0	7.904	0	6.748	0	7.914	0	0	13.6	0	0	0	19.96	0	0	7.541	0	9.522
+TCGA-44-3918-01B	TCGA-44-3918-01B	Primary Tumor	60	female	white	0	7.517	7.571	15.21	0	0	0	0	0	0	0	0	6.842	0	0	0	0	13.88	0	0	0	20.08	0	0	0	0	0
+TCGA-44-4112-01A	TCGA-44-4112-01A	Primary Tumor	60	female	white	0	7.138	7.191	15.59	0	5.144	6.178	11.16	9.496	0	0	0	0	0	0	0	5.852	11.09	0	0	0	13.06	0	8.98	0	0	0
+TCGA-78-7159-01A	TCGA-78-7159-01A	Primary Tumor	60	female	white	0	0	0	15.12	7.753	0	5.554	0	9.277	0	0	0	0	0	0	0	0	16.42	0	0	0	17.03	0	0	0	0	0
+TCGA-L9-A444-01A	TCGA-L9-A444-01A	Primary Tumor	60	female	white	0	0	0	11.67	0	0	5.993	8.279	8.724	0	0	0	0	0	7.442	0	0	17.99	0	0	0	18.35	0	0	0	0	0
+TCGA-44-6776-01A	TCGA-44-6776-01A	Primary Tumor	60	female	white	0	0	0	10.46	0	6.104	0	0	0	0	0	0	0	0	0	0	0	17.68	0	0	0	15.93	0	0	0	0	0
+TCGA-78-8640-01A	TCGA-78-8640-01A	Primary Tumor	59	male	not reported	16.93	17.75	13.16	11.33	0	0	15.76	18.57	16.28	0	12.52	14.48	15.06	0	18.36	13.25	9	15.13	11.62	11.45	0	7.248	9.603	10.56	16.01	0	13.34
+TCGA-44-6778-01A	TCGA-44-6778-01A	Primary Tumor	59	male	black or african american	17	18.22	15.92	12.8	10.61	8.56	15.91	20.27	15.55	9.632	13.81	13.12	15.55	0	17.03	10.77	11.6	13.61	13.26	10.83	10.13	10.71	13.91	11.62	16.21	0	13.95
+TCGA-44-7669-01A	TCGA-44-7669-01A	Primary Tumor	59	male	black or african american	15.6	16.86	14.35	13.1	10.13	6.698	14.43	18.44	11.74	0	12.29	11.7	13.95	8.476	14.99	10.82	9.579	11.89	12.19	9.765	9.07	15.2	12.68	10.14	12.99	0	12.02
+TCGA-91-A4BC-01A	TCGA-91-A4BC-01A	Primary Tumor	59	male	white	18.47	18.59	16.02	12.49	14.98	6.806	16.81	21.93	13.3	9.676	14.8	15.76	15.82	12.39	17.15	15.84	11.6	17.37	0	11.55	0	6.043	13.79	10.67	15.88	0	14.93
+TCGA-44-2656-01B	TCGA-44-2656-01B	Primary Tumor	59	male	white	17.53	18.15	16.57	15.43	10.68	7.821	17.55	18.31	14.58	0	14.25	15.65	17.64	0	15.78	12.83	11.86	17.26	0	14.03	12.2	12.81	16.15	14.01	16.54	0	15.44
+TCGA-73-4675-01A	TCGA-73-4675-01A	Primary Tumor	59	male	white	16.2	16.91	14.56	9.575	11.38	6.313	15.23	20.51	14.16	9.593	13.98	14.08	14.64	0	16.01	13.67	8.438	12.69	11.64	9.47	0	4.029	13.27	12.39	14.49	0	12.6
+TCGA-69-7978-01A	TCGA-69-7978-01A	Primary Tumor	59	male	white	16.1	16.9	14.47	15.82	9.49	4.937	14.59	19.11	12.45	9.772	13.22	11.32	14.25	0	15.42	9.326	11.29	14.24	0	10.45	10.27	6.455	11.97	11.57	13.62	0	12.15
+TCGA-78-7150-01A	TCGA-78-7150-01A	Primary Tumor	59	male	white	16.02	17.53	16.06	16.87	0	5.419	15.41	20.33	15.68	11.59	14.41	13.21	14.35	9.176	16.68	14.25	9.811	13.24	0	8.148	0	7.208	12.88	11.26	16.01	0	11.91
+TCGA-44-2656-01A	TCGA-44-2656-01A	Primary Tumor	59	male	white	15.92	17.21	15.68	13.8	9.618	5.288	15.49	19.39	13.3	8.458	13.11	12.62	15.62	8.948	15.75	9.71	10.28	17.08	10.5	12.87	9.637	6.814	14.62	11.7	14.42	0	12.2
+TCGA-86-8672-01A	TCGA-86-8672-01A	Primary Tumor	59	male	white	15.74	15.87	13.68	10.41	0	0	13.8	18.88	12	0	12.73	10.88	12.9	0	14.84	0	10.45	12.01	0	8.788	0	0	9.941	11.49	12.87	0	12.16
+TCGA-91-6848-01A	TCGA-91-6848-01A	Primary Tumor	59	male	white	15.16	16.79	14.28	10.9	0	0	13.71	18.67	11.43	0	13.1	10.69	13.93	0	15.14	0	9.567	12.76	11.96	8.795	10.42	0	9.949	0	13.11	0	11.49
+TCGA-05-4430-01A	TCGA-05-4430-01A	Primary Tumor	59	female	not reported	0	0	0	10.85	0	0	0	7.166	8.607	0	0	0	0	0	0	7.241	0	18.03	0	0	0	14.16	0	0	0	0	0
+TCGA-69-8253-01A	TCGA-69-8253-01A	Primary Tumor	59	female	black or african american	6.591	8.524	5.793	9.331	0	0	6.756	10.75	0	0	6.216	0	6.055	0	0	7.133	5.445	14.09	0	0	0	16.38	0	0	0	0	0
+TCGA-83-5908-01A	TCGA-83-5908-01A	Primary Tumor	59	female	white	9.002	9.345	7.086	12.18	0	0	7.382	13.82	7.809	0	0	0	0	0	8.105	0	0	10.98	0	0	0	18.36	0	0	7.15	0	0
+TCGA-97-8177-01A	TCGA-97-8177-01A	Primary Tumor	59	female	white	8.48	9.049	7.523	11.49	0	0	7.5	11.6	10.66	0	5.395	0	6.216	0	6.388	0	0	14.71	0	0	0	16.53	0	0	6.018	0	0
+TCGA-50-5068-01A	TCGA-50-5068-01A	Primary Tumor	59	female	white	6.671	8.967	7.441	11.22	0	0	6.426	10.3	9.163	0	0	0	0	0	0	0	0	10.76	0	0	0	13.2	0	0	0	0	0
+TCGA-86-A4P8-01A	TCGA-86-A4P8-01A	Primary Tumor	59	female	white	6.536	7.833	7.887	13.96	0	0	7.282	9.9	8.029	0	5.753	0	5.593	0	0	0	0	14.83	0	0	0	18.07	0	0	0	0	0
+TCGA-78-7158-01A	TCGA-78-7158-01A	Primary Tumor	59	female	white	6.444	8.155	0	9.184	0	0	6.2	10.66	7.937	0	0	6.986	7.066	0	0	0	0	13.23	0	0	0	18.07	0	0	0	8.107	0
+TCGA-55-6979-01A	TCGA-55-6979-01A	Primary Tumor	59	female	white	6.264	0	0	12.75	0	0	0	8.306	10.33	0	0	0	7.297	0	0	0	0	15.63	0	0	0	17	0	0	7.097	0	0
+TCGA-55-8087-01A	TCGA-55-8087-01A	Primary Tumor	59	female	white	4.919	6.607	0	10.33	0	0	5.652	9.252	9.698	0	5.119	6.434	0	0	6.108	7.014	0	19.58	0	0	0	17.66	0	0	0	0	0
+TCGA-55-6971-01A	TCGA-55-6971-01A	Primary Tumor	59	female	white	0	7.186	7.24	13.3	0	0	0	0	9.96	0	0	0	0	0	8.674	0	0	13.55	0	0	0	17.8	0	0	0	0	0
+TCGA-91-6840-01A	TCGA-91-6840-01A	Primary Tumor	59	female	white	0	0	0	12.03	0	0	6.143	8.431	11.2	0	0	0	0	0	0	0	0	16.35	0	0	0	15.27	0	0	0	0	0
+TCGA-44-8120-01A	TCGA-44-8120-01A	Primary Tumor	58	male	black or african american	17.35	18.05	16.28	11.82	13.26	6.243	16.48	21.23	14.9	10.52	13.04	15.51	15.99	8.431	17.3	14.75	9.364	16.17	10.57	11.3	9.025	10.76	11.14	10.1	17	0	13.6
+TCGA-50-5936-01A	TCGA-50-5936-01A	Primary Tumor	58	male	white	16.82	17.81	16.2	12.06	9.963	0	16.17	21.35	14.84	10.98	14.79	13.83	15.58	0	17.56	14.89	9.824	13.31	13.02	10.44	12.07	0	13.6	14.56	15.77	0	12.62
+TCGA-55-8301-01A	TCGA-55-8301-01A	Primary Tumor	58	male	white	16.81	17.55	15.7	17.07	13.46	8.04	15.25	21.25	13.62	9.112	13.87	14.27	14.98	0	16.87	12.31	12.36	13.88	15.68	10.31	0	5.488	13.78	14.06	14.81	0	13.75
+TCGA-86-8073-01A	TCGA-86-8073-01A	Primary Tumor	58	male	white	16.47	17.98	15.82	13.14	13.19	6.081	16.26	21.07	13.98	10.68	14.02	14.88	15.45	0	16.76	14.22	12.37	15.12	10.4	10.4	9.86	7.411	14.58	11.93	14.61	0	13.83
+TCGA-64-1676-01A	TCGA-64-1676-01A	Primary Tumor	58	male	white	15.45	17.52	16.73	0	8.335	0	14.98	22.51	14.99	10.93	13	14.43	15.73	0	17.93	16.65	9.1	14.45	11.98	0	0	5.317	12.97	10.93	15.42	9.032	13.09
+TCGA-55-5899-01A	TCGA-55-5899-01A	Primary Tumor	58	male	white	14.32	15.63	13.7	11.1	0	5.745	12.66	18.03	11.52	0	13.26	9.891	12.69	0	14.31	0	6.458	11.7	0	8.479	10.1	7.277	11.63	9.594	12.15	0	9.435
+TCGA-44-6144-01A	TCGA-44-6144-01A	Primary Tumor	58	male	white																											
+TCGA-78-8648-01A	TCGA-78-8648-01A	Primary Tumor	58	female	not reported	8.702	9.101	0	12.13	0	0	6.149	9.435	8.883	0	0	0	6.436	0	9.18	0	0	13.8	0	0	0	17.18	0	0	0	0	0
+TCGA-05-4390-01A	TCGA-05-4390-01A	Primary Tumor	58	female	not reported	0	0	0	11.13	0	0	5.977	10.26	8.708	0	0	0	6.262	0	0	0	0	14.82	0	0	0	15.97	0	0	0	0	0
+TCGA-MP-A4TF-01A	TCGA-MP-A4TF-01A	Primary Tumor	58	female	white	10.3	10.64	8.58	11.29	8.196	6.925	9.429	15.66	0	0	6.438	0	7.849	0	10.02	0	0	13.12	0	0	0	17.34	0	0	0	0	0
+TCGA-55-8616-01A	TCGA-55-8616-01A	Primary Tumor	58	female	white	9.542	8.886	7.622	9.18	0	0	5.621	11.9	0	0	0	7.395	7.887	0	8.644	0	0	17.62	0	0	0	16.16	0	0	6.694	0	0
+TCGA-97-7553-01A	TCGA-97-7553-01A	Primary Tumor	58	female	white	7.046	7.763	0	14.17	7.433	0	0	9.094	10.28	10.03	0	0	0	0	6.68	7.589	0	13.25	0	0	0	16.1	0	0	0	0	0
+TCGA-73-7498-01A	TCGA-73-7498-01A	Primary Tumor	58	female	white	4.929	5.632	0	11.39	0	0	0	0	8.388	0	0	0	0	0	6.118	0	0	14.44	0	0	0	18.66	0	0	5.749	0	0
+TCGA-64-1679-01A	TCGA-64-1679-01A	Primary Tumor	58	female	white	0	0	5.792	10.91	0	0	5.769	9.37	0	0	9.285	0	0	0	0	0	0	13.41	0	0	0	14.26	0	0	0	0	0
+TCGA-55-6985-01A	TCGA-55-6985-01A	Primary Tumor	58	female	white	0	0	0	12.26	0	0	0	9.906	8.77	0	0	0	6.323	0	7.487	0	0	16.55	0	0	0	15.01	0	0	0	0	0
+TCGA-05-4415-01A	TCGA-05-4415-01A	Primary Tumor	57	male	not reported	17.01	18.86	16.56	17.06	0	5.43	16.05	21.61	17.06	9.28	15.33	12.74	15.57	9.186	18.34	13.15	8.445	11.8	0	9.156	0	0	11.31	0	16.7	0	13.48
+TCGA-05-5428-01A	TCGA-05-5428-01A	Primary Tumor	57	male	not reported	13.5	15.3	14.26	11.52	0	0	12.77	19.5	12.68	0	11.93	11.84	13.19	0	15.15	0	8.018	16.64	12.21	9.049	0	0	12.2	12.75	12.75	0	8.423
+TCGA-49-AAR0-01A	TCGA-49-AAR0-01A	Primary Tumor	57	male	black or african american	16.95	16.98	14.76	15.88	12.16	0	14.8	21.14	14.5	0	12.89	14.61	15.1	0	17.05	14.63	10.85	15.44	11.35	10.51	0	6.986	13.14	13.88	14.43	0	13.44
+TCGA-86-8585-01A	TCGA-86-8585-01A	Primary Tumor	57	male	white	18.48	18.15	15.58	17.64	0	7.957	16.53	20.36	16.53	0	12.32	15.63	15.53	0	17.16	12.71	13.63	13.16	11.88	11.29	10.34	6.777	13.19	13.73	15.56	0	13.7
+TCGA-MN-A4N4-01A	TCGA-MN-A4N4-01A	Primary Tumor	57	male	white	17.67	18.7	17.19	16.65	13.61	9.192	16.55	21.6	17.58	12.43	14.33	16.11	16.43	0	17.59	11.28	9.567	14.87	12.31	10.14	11.35	7.426	14.47	14.06	15.55	0	14.28
+TCGA-35-3615-01A	TCGA-35-3615-01A	Primary Tumor	57	male	white	16.84	17.36	16.41	12.22	14.16	4.895	16.73	22.74	15.19	12.31	12.28	15.63	15.63	0	17.13	15.55	10.38	12.25	0	10.41	0	6.893	11.34	10.31	16.21	0	13.26
+TCGA-05-4402-01A	TCGA-05-4402-01A	Primary Tumor	57	female	not reported	0	0	0	15.23	0	0	5.371	10.45	10.09	0	0	0	0	0	0	0	0	16.91	0	0	0	14.87	0	0	0	0	0
+TCGA-50-5045-01A	TCGA-50-5045-01A	Primary Tumor	57	female	black or african american	7.107	7.825	0	12.39	0	5.248	0	10.38	9.602	0	0	8.064	7.149	0	8.731	0	0	12.78	0	0	0	15.13	0	0	0	0	0
+TCGA-38-4626-01A	TCGA-38-4626-01A	Primary Tumor	57	female	white	5.64	0	0	12.53	0	0	0	7.674	8.119	0	0	0	0	0	0	0	0	13.92	0	0	0	15.95	0	0	0	0	0
+TCGA-67-6216-01A	TCGA-67-6216-01A	Primary Tumor	57	female	white	0	0	0	15.2	0	0	0	0	0	0	0	0	0	0	0	0	0	10.14	0	0	0	17.72	0	0	0	0	0
+TCGA-67-3776-01A	TCGA-67-3776-01A	Primary Tumor	57	female	white																											
+TCGA-L9-A743-01A	TCGA-L9-A743-01A	Primary Tumor	56	male	black or african american	16.7	17.49	15.3	15.37	10.77	7.652	15.32	20.69	13.38	0	13.5	12.34	14.77	0	16.03	11.08	11.44	16.37	11.25	11.08	0	6.885	12.82	11.2	13.87	0	13.07
+TCGA-69-7765-01A	TCGA-69-7765-01A	Primary Tumor	56	male	black or african american	15.84	17.09	16.24	16.14	8.014	5.757	14.46	21.48	12.71	9.613	13.85	12.16	14.3	0	15.58	9.751	9.777	12.94	11.66	10.07	11.7	0	12.96	12.41	13.72	0	12.95
+TCGA-55-8206-01A	TCGA-55-8206-01A	Primary Tumor	56	male	white	17.18	18.88	16.85	11.83	15.69	6.251	17.27	21.18	15.48	8.532	15.27	14.35	17.2	8.439	16.39	16.06	10.5	17.32	12.57	10.86	0	5.899	14.26	11.84	14.74	0	13.66
+TCGA-MP-A4TE-01A	TCGA-MP-A4TE-01A	Primary Tumor	56	male	white	17.07	17.24	15.6	10.6	12.56	0	15.91	21.34	13.76	0	14.83	15.66	15.51	11.16	17.42	16.03	12.68	17.33	0	8.134	0	0	13.28	11.25	15.66	0	12.5
+TCGA-55-8089-01A	TCGA-55-8089-01A	Primary Tumor	56	male	white	15.76	16.92	14.94	15.93	8.701	0	14.84	19.8	13.47	10.72	13.19	13.54	14.6	0	16.31	9.856	11.34	13.23	11.76	11.05	9.221	8.315	13.27	11.71	13.6	0	12.64
+TCGA-55-6980-01A	TCGA-55-6980-01A	Primary Tumor	56	male	white	15.36	17.52	16.17	10.68	11.17	7.315	15.42	21.23	15.52	0	13.9	11.74	15.48	0	15.36	14.74	8.618	14.03	12.23	0	0	7.129	14.13	15.35	14.88	0	13.02
+TCGA-78-7542-01A	TCGA-78-7542-01A	Primary Tumor	56	male	white	15.25	15.06	13.12	10.66	10.56	0	13.03	18.15	10.67	8.581	11.11	10.72	12.77	0	16.46	9.454	8.423	9.098	13.79	7.461	9.082	5.947	10.93	11.16	11.84	0	12.25
+TCGA-86-A4JF-01A	TCGA-86-A4JF-01A	Primary Tumor	56	male	white	15.11	15.82	13.15	16.09	7.578	0	13.32	18.83	11.8	0	12.63	12.27	13.18	0	14.72	10.05	9.341	13.39	0	0	0	8.111	10.79	10.17	12.65	0	11.51
+TCGA-MP-A4TK-01A	TCGA-MP-A4TK-01A	Primary Tumor	56	female	not reported	8.871	9.008	0	17.25	0	5.429	7.458	12.46	8.206	0	0	7.254	5.767	0	7.92	0	0	13.6	0	8.158	0	15.85	0	0	6.554	0	0
+TCGA-49-AARN-01A	TCGA-49-AARN-01A	Primary Tumor	56	female	black or african american	13.99	14.53	12.42	10.92	8.334	0	12.43	19.13	12.95	0	11.2	10.22	12.81	0	14.08	11.66	0	14.26	0	8.812	0	18.05	12.29	13.39	12.15	0	9.768
+TCGA-NJ-A55O-01A	TCGA-NJ-A55O-01A	Primary Tumor	56	female	white	7.003	8.303	0	13.2	0	0	0	9.635	8.499	0	0	0	6.056	0	7.217	0	0	15.13	0	0	0	16.8	0	0	0	0	0
+TCGA-44-6774-01A	TCGA-44-6774-01A	Primary Tumor	56	female	white	0	7.446	0	10.79	0	0	0	0	0	0	0	0	0	0	7.938	0	0	13.98	0	0	0	16.53	0	0	0	0	0
+TCGA-55-1596-01A	TCGA-55-1596-01A	Primary Tumor	55	male	asian	13.45	17.44	16.33	16.79	14.62	0	15.91	20.91	18.54	0	13.18	10.12	15.37	9.474	13.53	15.87	7.999	16.76	0	0	11.65	4.96	14.18	13.65	16.12	0	0
+TCGA-62-8398-01A	TCGA-62-8398-01A	Primary Tumor	55	male	white	15.22	16.34	14.15	11.22	9.355	0	13.87	18.53	11.79	11.28	13.01	10.93	13.42	0	14.01	9.098	9.707	16.55	0	10.16	9.462	5.913	11.99	8.952	13.13	0	10.91
+TCGA-64-5781-01A	TCGA-64-5781-01A	Primary Tumor	55	female	white	9.582	12.11	10.36	15.76	0	0	9.182	16.08	0	0	9.465	0	9.11	0	10.8	0	0	13.94	0	0	0	13.64	0	0	9.422	0	8.091
+TCGA-55-8510-01A	TCGA-55-8510-01A	Primary Tumor	55	female	white	0	8.332	0	11.23	0	0	0	9.08	8.528	0	7.236	0	0	0	0	0	0	15.25	0	0	0	16.92	0	0	0	0	0
+TCGA-50-5941-01A	TCGA-50-5941-01A	Primary Tumor	55	female	white	0	7.838	0	15.84	0	0	0	11.87	8.617	0	6.334	0	7.162	0	7.335	9.244	0	14.21	0	0	0	14.9	0	0	0	0	0
+TCGA-44-2665-01A	TCGA-44-2665-01A	Primary Tumor	55	female	white	0	7.755	0	15.29	0	5.18	5.233	9.086	7.951	0	6.662	0	0	0	0	0	0	0	0	0	0	16.56	0	0	0	0	0
+TCGA-97-8552-01A	TCGA-97-8552-01A	Primary Tumor	55	female	white	0	7.719	0	12.87	0	0	7.749	8.052	8.498	0	6.216	0	0	0	7.216	0	0	14.09	0	0	0	17.92	0	0	0	0	0
+TCGA-97-8175-01A	TCGA-97-8175-01A	Primary Tumor	55	female	white	0	6.952	0	16.23	0	0	5.994	10.28	8.725	0	6.441	0	0	0	7.443	7.359	0	16.56	0	0	0	17.58	0	0	0	0	0
+TCGA-44-2665-01B	TCGA-44-2665-01B	Primary Tumor	55	female	white																											
+TCGA-55-7576-01A	TCGA-55-7576-01A	Primary Tumor	54	male	black or african american	15.33	16.22	14.85	11.32	8.736	4.519	14.19	19.89	13.02	0	13.11	12.16	14.2	0	15.28	11.06	8.767	11.44	0	8.218	10.43	0	12.07	11.33	14.34	0	11.49
+TCGA-55-8302-01A	TCGA-55-8302-01A	Primary Tumor	54	male	white	15.07	17.15	15.29	15.39	10.93	0	15.57	20.84	13.67	0	11.07	11.59	14.77	0	14.77	12.95	10.08	11.05	11.58	8.416	0	7.214	14.09	13.62	15.39	0	12.31
+TCGA-86-8280-01A	TCGA-86-8280-01A	Primary Tumor	54	female	white	8.837	9.879	7.035	10	0	4.992	7.593	13.21	7.759	0	5.487	6.808	8.879	0	7.473	7.389	0	15.59	0	0	0	15.75	0	0	7.1	0	0
+TCGA-62-A46R-01A	TCGA-62-A46R-01A	Primary Tumor	54	female	white	8.359	7.5	0	13.22	0	0	7.117	11	0	0	0	0	5.837	0	0	0	0	10.87	0	0	0	16.64	0	0	0	0	0
+TCGA-MP-A4T9-01A	TCGA-MP-A4T9-01A	Primary Tumor	54	female	white	7.769	6.182	6.235	11.52	0	0	5.231	8.501	7.949	0	0	0	0	0	0	0	0	13	0	0	0	16.67	0	0	0	0	0
+TCGA-69-7974-01A	TCGA-69-7974-01A	Primary Tumor	54	female	white	6.043	0	0	12.17	0	4.772	0	7.088	7.532	0	0	0	0	0	0	0	0	11.44	0	0	0	18.06	0	0	0	0	0
+TCGA-44-8117-01A	TCGA-44-8117-01A	Primary Tumor	54	female	white	5.984	5.711	0	9.524	6.948	0	5.74	9.342	10.64	0	0	0	0	0	0	7.103	0	17.79	0	0	0	17.08	0	8.536	6.815	0	0
+TCGA-55-A493-01A	TCGA-55-A493-01A	Primary Tumor	54	female	white	0	0	0	11.46	0	0	0	0	0	0	0	0	0	0	0	0	0	13.97	0	0	0	15.95	0	0	0	0	0
+TCGA-95-7039-01A	TCGA-95-7039-01A	Primary Tumor	54	female	white	0	0	0	11.01	0	0	0	0	0	0	0	0	0	0	7.484	0	0	18.63	0	0	0	13.4	0	0	0	0	0
+TCGA-44-5643-01A	TCGA-44-5643-01A	Primary Tumor	53	male	black or african american	17.02	18.24	15.58	10.76	12.84	0	16.05	21.75	16.31	11.17	14.97	14.53	16.21	14.3	17.73	14.48	8.02	12.43	12.63	8.468	10.09	6.535	14.26	12.9	17	0	12.92
+TCGA-55-8507-01A	TCGA-55-8507-01A	Primary Tumor	53	male	white	17.19	17.4	16.18	14.86	12.48	5.588	15.72	20.95	14.15	0	13.52	14.84	15.59	10.93	16.36	7.998	9.091	16.9	13.81	8.32	0	15.52	13.28	11.02	15.08	0	14.18
+TCGA-MP-A4SW-01A	TCGA-MP-A4SW-01A	Primary Tumor	53	male	white	16.34	16.23	13.88	12.24	7.564	5.315	14.11	18.71	11.79	10.75	11.65	11.88	13.61	10.07	14.97	9.301	10.7	13.59	11.21	10.04	0	0	12.19	12.48	12.74	0	12.54
+TCGA-78-8662-01A	TCGA-78-8662-01A	Primary Tumor	53	female	not reported	7.231	8.532	0	10.98	0	0	5.997	9.28	9.727	0	0	0	0	0	0	0	0	12.64	0	0	0	13.38	0	0	0	0	0
+TCGA-55-6981-01A	TCGA-55-6981-01A	Primary Tumor	53	female	white	6.633	7.349	0	8.376	0	0	6.388	10.26	10.12	0	0	0	7.667	0	0	0	0	0	0	0	0	16.34	0	0	0	0	0
+TCGA-78-7220-01A	TCGA-78-7220-01A	Primary Tumor	53	female	white	5.662	8.68	6.425	10.85	7.615	0	0	0	8.141	0	0	0	5.703	0	0	0	0	16.74	0	0	0	14.68	0	0	0	0	0
+TCGA-NJ-A4YP-01A	TCGA-NJ-A4YP-01A	Primary Tumor	52	male	white	16.94	17.67	16.01	12.32	11.2	5.262	15.34	22.2	14.41	12.19	14.04	14	14.92	10.01	16.68	12.59	11.5	18.7	0	10.44	11.78	6.787	12.53	9.685	14.38	0	13.39
+TCGA-86-8359-01A	TCGA-86-8359-01A	Primary Tumor	52	male	white	16.52	17.64	16.43	9.426	0	0	16.06	21.36	13.54	9.666	14.39	15.78	15.85	0	16.63	13.92	11.09	16.91	11.71	9.542	0	8.186	12.87	9.659	15.64	0	13.59
+TCGA-86-6562-01A	TCGA-86-6562-01A	Primary Tumor	52	male	white	14.64	16.35	14.12	15.74	7.903	0	13.34	18.96	11.75	0	13.5	11.17	13.42	0	14.83	10.06	8.347	16.06	0	0	0	7.441	12.12	12.08	12.72	0	11.75
+TCGA-55-6969-01A	TCGA-55-6969-01A	Primary Tumor	52	male	white																											
+TCGA-4B-A93V-01A	TCGA-4B-A93V-01A	Primary Tumor	52	female	black or african american	8.098	7.5	0	14.63	0	0	0	12.91	0	0	0	0	5.838	0	7.992	0	0	0	0	0	0	13.88	0	0	0	0	0
+TCGA-78-7145-01A	TCGA-78-7145-01A	Primary Tumor	52	female	white	5.89	0	0	9.943	0	0	5.647	0	10.69	0	0	0	6.92	0	7.092	8.003	0	16.56	0	0	0	15.88	0	0	0	0	0
+TCGA-91-6836-01A	TCGA-91-6836-01A	Primary Tumor	52	female	white	5.706	6.417	0	9.433	0	0	6.447	10.91	8.186	0	5.908	0	0	0	0	0	0	14.42	0	0	0	14.02	0	0	0	0	0
+TCGA-97-A4M1-01A	TCGA-97-A4M1-01A	Primary Tumor	52	female	white	5.699	7.984	0	11.88	0	0	5.457	9.315	8.18	0	0	0	5.741	0	6.899	7.81	0	16.64	0	0	0	16.04	0	0	0	0	0
+TCGA-67-6215-01A	TCGA-67-6215-01A	Primary Tumor	52	female	white	0	6.771	0	9.79	7.022	0	4.839	10.09	10.35	0	0	0	0	0	0	0	0	11.45	0	0	0	17.29	0	0	0	0	0
+TCGA-44-7672-01A	TCGA-44-7672-01A	Primary Tumor	52	female	white	0	6.172	0	11.27	0	0	5.221	10.49	12.18	0	0	0	5.504	0	6.66	0	0	16.14	0	0	0	15.23	0	0	0	0	0
+TCGA-73-4666-01A	TCGA-73-4666-01A	Primary Tumor	52	female	white	0	0	0	8.174	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15.23	0	0	0	0	0
+TCGA-49-AAR4-01A	TCGA-49-AAR4-01A	Primary Tumor	51	male	black or african american	18.09	17.7	15.43	12.31	11.08	7.391	16.66	20.88	14.38	0	12.99	15.58	15.51	0	17.09	14.52	13.37	15.75	15.18	10.88	10.18	7.036	13.96	14.37	15.24	0	14.59
+TCGA-44-2668-01B	TCGA-44-2668-01B	Primary Tumor	51	male	white	17.64	18.9	17.2	15.08	11.42	7.156	17.9	19.47	15.02	10.03	16.57	16.65	18.11	0	16.44	10.17	12.39	14.79	0	14.07	10.53	9.96	16.5	12.34	16.94	0	15.04
+TCGA-44-2668-01A	TCGA-44-2668-01A	Primary Tumor	51	male	white	16.39	17.77	16.52	11.59	9.9	4.674	16	20.36	14.23	10.03	16.02	14.04	15.84	0	17	9.699	10.47	14.36	9.544	11.6	10.53	5.919	14.64	11.25	15.77	0	11.99
+TCGA-55-8094-01A	TCGA-55-8094-01A	Primary Tumor	51	male	white	12.45	13.66	11.93	10.59	0	0	11.06	16.52	11.34	9.607	8.237	9.575	10.93	0	13.02	9.161	6.464	16.75	0	8.485	0	16.69	0	0	10.45	0	7.86
+TCGA-05-4417-01A	TCGA-05-4417-01A	Primary Tumor	51	female	not reported	0	0	0	11.4	0	0	0	10.24	11.01	0	0	0	6.246	0	0	0	0	16.28	0	0	0	15.01	0	0	0	0	0
+TCGA-49-AARE-01A	TCGA-49-AARE-01A	Primary Tumor	51	female	black or african american	5.673	0	0	10.57	0	0	0	0	8.153	0	0	0	0	0	0	0	0	13.74	0	0	9.727	17.21	0	0	6.501	0	0
+TCGA-49-4510-01A	TCGA-49-4510-01A	Primary Tumor	51	female	black or african american	0	0	0	11.33	0	0	0	9.979	9.205	0	0	0	0	0	0	7.256	0	16.52	0	0	0	12.52	0	0	0	0	0
+TCGA-53-7813-01A	TCGA-53-7813-01A	Primary Tumor	51	female	white	0	0	0	12.04	0	0	0	0	0	0	0	0	0	0	0	0	0	17.59	0	0	0	17.98	0	0	0	0	0
+TCGA-44-5644-01A	TCGA-44-5644-01A	Primary Tumor	51	female	white	0	0	0	9.517	0	5.898	0	0	0	0	0	0	0	0	0	0	0	16.67	0	0	0	13.11	0	0	0	0	0
+TCGA-86-8674-01A	TCGA-86-8674-01A	Primary Tumor	50	male	white	16.99	16.88	15.82	9.814	12.03	0	15.85	20.95	14.56	0	11.97	15.3	14.87	0	16.69	15.46	6.496	15.4	0	0	10.14	0	12.48	11.63	14.84	0	13.24
+TCGA-55-7910-01A	TCGA-55-7910-01A	Primary Tumor	50	female	black or african american	0	7.308	0	9.917	0	0	6.347	9.635	0	0	0	0	0	0	0	8.713	0	14.48	0	0	0	19.04	0	0	0	0	0
+TCGA-99-8028-01A	TCGA-99-8028-01A	Primary Tumor	50	female	black or african american	0	0	0	15.9	0	0	0	0	0	0	0	0	5.627	0	0	0	0	17.38	0	0	0	16.52	0	0	0	0	0
+TCGA-NJ-A4YF-01A	TCGA-NJ-A4YF-01A	Primary Tumor	50	female	black or african american	0	0	0	8.903	0	0	5.923	0	0	0	0	0	0	0	0	0	0	15.15	0	0	0	13.7	0	0	0	0	0
+TCGA-44-6779-01A	TCGA-44-6779-01A	Primary Tumor	50	female	white	0	7.365	0	10.97	0	0	0	0	0	0	0	0	0	0	0	0	0	12.32	0	0	0	14.67	0	0	0	0	0
+TCGA-NJ-A7XG-01A	TCGA-NJ-A7XG-01A	Primary Tumor	49	male	black or african american	16.42	17.84	15.46	16.04	13.56	5.39	16.07	21.67	14.29	10.82	13.87	14.83	15.06	0	15.93	14.09	9.54	16.72	0	9.699	0	0	12.85	10.23	14.04	0	13.57
+TCGA-93-A4JQ-01A	TCGA-93-A4JQ-01A	Primary Tumor	49	male	white	17.6	17.86	16.15	16.41	9.988	8.934	16.16	20.85	14.5	9.008	14.44	14.33	15.78	8.915	16.56	13.56	12.39	15.65	12.64	11.2	0	14.59	13.84	13.09	15.55	0	14.84
+TCGA-55-7816-01A	TCGA-55-7816-01A	Primary Tumor	49	female	white	5.426	7.124	7.76	13.78	0	0	6.743	11.7	11.6	0	6.613	6.951	6.451	0	6.623	7.532	5.839	13.49	0	0	0	18.15	0	0	6.252	0	0
+TCGA-44-7667-01A	TCGA-44-7667-01A	Primary Tumor	49	female	white	5.309	7.587	0	9.613	0	0	5.068	7.338	0	0	5.51	0	0	0	0	0	5.721	10.37	0	0	0	12.83	0	0	0	0	0
+TCGA-50-6593-01A	TCGA-50-6593-01A	Primary Tumor	49	female	white	0	0	0	10.87	0	5.841	0	0	8.626	0	0	7.673	0	0	0	0	0	13.92	0	0	0	14.43	0	0	0	0	0
+TCGA-86-A4D0-01A	TCGA-86-A4D0-01A	Primary Tumor	48	male	white	16.86	17.8	15.8	9.978	15.05	6.933	15.34	21.8	14.96	11.22	14.8	13.69	15.79	10.13	18.04	14.58	10.06	16.49	11.26	9.096	0	4.624	11.25	9.213	15.49	0	13.84
+TCGA-71-6725-01A	TCGA-71-6725-01A	Primary Tumor	48	female	asian	6.676	5.824	0	17.39	0	0	4.879	8.139	7.588	0	0	0	0	0	0	0	0	18.38	0	0	0	15	0	0	5.941	0	0
+TCGA-L4-A4E5-01A	TCGA-L4-A4E5-01A	Primary Tumor	48	female	white	0	0	0	16.86	0	0	0	0	8.114	0	0	0	0	0	0	7.745	0	16.71	0	0	0	19.03	0	0	0	0	0
+TCGA-50-5930-01A	TCGA-50-5930-01A	Primary Tumor	47	male	white	15.34	16.47	14.35	16.38	0	0	13.78	19.52	12.72	0	13.15	11.09	13.65	0	16.05	0	9.226	15.9	0	0	0	0	12.83	0	13.31	0	12.05
+TCGA-05-4398-01A	TCGA-05-4398-01A	Primary Tumor	47	female	not reported	4.552	6.809	0	11.37	6.481	4.264	5.279	9.548	7.004	0	0	0	5.562	0	6.719	0	0	11.76	0	0	0	14.59	0	0	0	0	0
+TCGA-44-7670-01A	TCGA-44-7670-01A	Primary Tumor	47	female	white	5.091	0	0	16.3	0	0	4.851	0	0	8.631	0	0	0	0	0	0	0	14.6	0	0	0	15.32	0	0	0	0	0
+TCGA-86-8279-01A	TCGA-86-8279-01A	Primary Tumor	46	male	white	15.82	17.13	14.82	16.04	11.97	0	14.39	19.88	12.92	8.577	13.08	14.27	14.04	0	15.84	12.38	7.424	18.55	11.62	9.037	9.079	7.833	12.19	10.89	13.94	0	11.82
+TCGA-49-6767-01A	TCGA-49-6767-01A	Primary Tumor	46	female	white	7.1	6.824	0	15.05	0	0	0	10.15	0	0	0	0	6.152	0	0	0	0	16.23	0	0	0	14.43	0	0	0	0	0
+TCGA-78-7535-01A	TCGA-78-7535-01A	Primary Tumor	45	male	white	14.29	14.84	12.85	16.13	0	0	12.51	18.91	13.13	0	11.72	12.25	12.1	0	13.89	7.485	7.773	19.41	0	7.806	0	4.343	9.957	11.24	12.49	0	11.57
+TCGA-73-4676-01A	TCGA-73-4676-01A	Primary Tumor	45	male	white	13.57	15.76	13.75	11.5	0	0	12.72	18.56	12.25	0	12.59	11.19	13.11	0	14.66	10.66	6.38	11.62	11.56	9.983	0	6.468	12.55	10.51	12.14	0	11.09
+TCGA-97-A4M6-01A	TCGA-97-A4M6-01A	Primary Tumor	45	female	white	5.595	6.305	0	11.71	0	0	5.352	9.623	0	0	0	0	0	0	6.793	0	0	15.81	0	0	0	16.69	9.177	0	0	0	0
+TCGA-49-4490-01A	TCGA-49-4490-01A	Primary Tumor	45	female	white	0	7.272	0	12.82	0	0	0	0	11.37	0	0	0	0	0	7.764	0	0	15.28	0	0	0	14.95	0	0	0	0	0
+TCGA-86-8358-01A	TCGA-86-8358-01A	Primary Tumor	44	male	white	15.21	16.12	13.62	12.56	8.087	0	13.4	17.85	11.2	0	12.19	10.24	12.99	0	13.97	9.241	10.11	15.25	0	0	0	6.631	11.72	9.68	12.56	0	10.52
+TCGA-44-2666-01B	TCGA-44-2666-01B	Primary Tumor	43	male	white	18.19	18.53	17.33	16.8	14.06	10.2	18.43	20.29	15.63	0	14.8	17.5	18.63	0	18.34	16.54	12.06	13.27	0	17.21	0	12.93	16.64	13.48	17.27	0	16.18
+TCGA-44-2666-01A	TCGA-44-2666-01A	Primary Tumor	43	male	white	17.05	18.03	16.78	16.55	13.45	7.088	17.15	21.85	15.32	10.53	13.31	15.41	16.82	7.732	19.7	15.32	10.52	11.46	0	15.73	0	6.822	14.32	12.06	15.88	0	13.71
+TCGA-38-4632-01A	TCGA-38-4632-01A	Primary Tumor	42	male	black or african american	14.51	16.55	16.4	9.82	8.459	0	14.14	22.29	16.34	10.06	12.11	13.91	14.36	0	16.57	13.47	7.907	16	12.1	9.936	0	5.439	13.67	10.05	14.59	0	11.89
+TCGA-86-8076-01A	TCGA-86-8076-01A	Primary Tumor	42	male	white	16.98	17.9	16.34	15.83	12.15	8.072	16.2	22.23	14.4	9.95	14.2	14.82	15.76	0	17.08	13.33	10.84	13.47	13.31	8.828	0	12.43	13.23	12.53	15.42	0	13.15
+TCGA-69-7973-01A	TCGA-69-7973-01A	Primary Tumor	42	female	white	5.872	0	0	14.2	0	0	0	0	8.355	0	5.096	0	0	0	0	0	0	12.75	0	0	0	15.63	0	0	0	0	0
+TCGA-95-7948-01A	TCGA-95-7948-01A	Primary Tumor	42	female	white	5.247	0	0	9.963	0	0	0	7.274	0	0	0	0	0	0	0	0	0	11.63	0	0	0	17.74	0	0	0	0	0
+TCGA-50-5051-01A	TCGA-50-5051-01A	Primary Tumor	42	female	white	0	0	7.131	10.1	0	0	0	9.988	9.85	0	0	0	0	0	0	0	0	11.44	0	0	0	17.66	0	0	0	0	0
+TCGA-05-4420-01A	TCGA-05-4420-01A	Primary Tumor	41	male	not reported	15.19	16.61	15.78	9.739	12.9	0	14.11	21.29	12.6	8.397	11.92	14.44	14.73	0	16.23	14.95	10.04	15.16	0	8.274	11.22	0	13.47	8.39	15.26	0	10.96
+TCGA-73-A9RS-01A	TCGA-73-A9RS-01A	Primary Tumor	41	male	black or african american	14.55	15	12.79	10.03	0	0	12.69	17.39	11.19	0	10.8	11.04	12.32	0	13.37	0	10.11	13.37	12.31	0	10.77	0	10.3	10.26	11.53	0	8.521
+TCGA-55-8512-01A	TCGA-55-8512-01A	Primary Tumor	41	male	white	18.57	18.81	16.75	12.44	14.47	0	16.83	21.66	15.15	0	13.89	15.86	16.52	11.59	17.65	14.55	8.204	12.88	11.4	9.82	9.862	7.298	13.48	13.74	15.25	0	15.54
+TCGA-49-AARQ-01A	TCGA-49-AARQ-01A	Primary Tumor	41	female	black or african american	5.993	6.706	6.759	11.63	0	0	0	10.61	0	0	0	0	0	0	0	0	0	17.79	0	0	0	18.37	9.582	0	6.824	0	0
+TCGA-L9-A5IP-01A	TCGA-L9-A5IP-01A	Primary Tumor	40	female	black or african american	0	0	0	9.381	0	0	0	8.685	0	0	0	0	0	0	6.854	0	0	9.724	0	0	0	14.09	0	0	0	0	0
+TCGA-53-7624-01A	TCGA-53-7624-01A	Primary Tumor	40	female	white	0	7.325	0	11.67	0	0	0	7.657	0	0	0	0	0	0	0	0	0	10.69	0	0	0	13.38	0	0	6.451	0	0
+TCGA-49-AARO-01A	TCGA-49-AARO-01A	Primary Tumor	39	female	black or african american	0	0	0	8.71	0	0	0	10.01	8.46	0	0	0	0	0	0	0	0	15.44	0	0	0	17.36	0	9.526	0	0	0
+TCGA-35-4123-01A	TCGA-35-4123-01A	Primary Tumor	38	male	white	14.24	16.01	14.9	11.61	0	0	13.74	19.87	13.2	9.19	12.91	11.8	13.86	0	15.79	11.33	11.16	14.88	11.23	9.65	0	0	13.03	11.18	13.6	0	11.34
+TCGA-44-3917-01A	TCGA-44-3917-01A	Primary Tumor	33	female	white	0	9.036	0	11.77	0	0	0	0	10.82	0	0	0	7.362	0	0	0	0	14.11	0	0	0	16.01	0	0	0	0	0
+TCGA-44-3917-01B	TCGA-44-3917-01B	Primary Tumor	33	female	white	0	0	0	14.1	0	0	6.334	0	0	0	0	0	0	0	0	0	0	15.36	0	0	0	19.29	0	0	0	0	0
+TCGA-75-6206-01A	TCGA-75-6206-01A	Primary Tumor		male	not reported	17.66	17.93	16.41	10.76	12.42	0	16.97	21.63	14.61	0	12.24	15.36	16.36	0	16.99	15.14	8.624	11.88	0	10.66	0	0	13.9	0	15.72	0	13.7
+TCGA-75-7027-01A	TCGA-75-7027-01A	Primary Tumor		male	not reported	17.16	17.79	15.72	13.74	13.81	0	16.2	20.6	17.42	8.479	14.42	15.46	15.54	9.967	17.35	15.06	12.91	16.71	0	8.939	8.98	6.834	13.15	14.17	16.24	0	14.15
+TCGA-75-7025-01A	TCGA-75-7025-01A	Primary Tumor		male	not reported	16.99	17.8	15.76	15.84	12.72	8.124	16.28	20.52	14.37	9.831	14.01	14.06	15.62	0	16.46	14.3	11.51	13.81	0	10.88	10.33	5.788	12.95	12.63	15	0	14.39
+TCGA-75-5146-01A	TCGA-75-5146-01A	Primary Tumor		male	not reported	16.58	17.76	16.99	12.18	13.64	7.048	16.11	21.72	14.84	0	14.11	15.94	16.09	10.83	17.79	15.99	9.762	12.44	14.55	11.6	0	6.283	12.53	12.5	14.82	0	13.45
+TCGA-75-7030-01A	TCGA-75-7030-01A	Primary Tumor		male	not reported	16.47	17.71	15.56	15.21	11.46	7.381	15.44	20.62	14.85	11.25	14.13	13.75	15.7	0	16.56	13.33	10.1	14.23	13.88	11.13	10.76	5.63	14.19	14.15	14.47	0	13.55
+TCGA-75-5122-01A	TCGA-75-5122-01A	Primary Tumor		male	not reported	15.99	18.02	15.8	13.05	14.29	0	15.67	21.21	14.89	0	11.93	12.12	15.66	0	16.03	8.187	12.06	13.47	15.58	9.507	13.13	0	14.66	10.62	15.65	0	12.13
+TCGA-75-5125-01A	TCGA-75-5125-01A	Primary Tumor		male	not reported	15.8	17.21	15.55	12.06	12.22	0	14.73	19.99	12.88	9.431	12.6	13.82	14.5	0	16.43	13.23	10.92	14.2	0	0	9.933	0	13.85	12.23	13.99	0	12.49
+TCGA-75-6207-01A	TCGA-75-6207-01A	Primary Tumor		male	not reported	15.55	17.24	15.43	11.48	13.31	5.368	14.88	20.59	12.89	9.217	12.69	13.87	14.26	0	15.87	13.5	9.758	9.734	0	9.093	0	0	10.83	9.209	13.93	0	11.63
+TCGA-80-5611-01A	TCGA-80-5611-01A	Primary Tumor		male	not reported	14.58	15.79	13.73	10.07	0	0	13.43	18.96	13.36	0	11.06	12.35	13.23	0	15.31	0	9.59	12.42	0	0	0	4.97	13.07	11.57	13.26	0	10.41
+TCGA-75-6211-01A	TCGA-75-6211-01A	Primary Tumor		female	not reported	8.549	10.53	8.587	9.563	0	0	7.568	14.26	0	0	0	0	7.274	0	0	0	0	15.71	0	0	0	16.02	0	0	0	0	0
+TCGA-75-6212-01A	TCGA-75-6212-01A	Primary Tumor		female	not reported	6.504	9.213	0	9.244	0	0	6.259	12.25	0	0	0	0	7.538	0	7.711	0	0	10.59	0	0	0	15.79	0	10.06	0	0	0
+TCGA-75-6214-01A	TCGA-75-6214-01A	Primary Tumor		female	not reported	5.101	5.806	0	13.98	0	0	6.413	8.704	7.57	0	9.725	0	5.142	0	7.284	0	0	16.32	0	0	0	12.6	0	0	5.923	0	0
+TCGA-80-5608-01A	TCGA-80-5608-01A	Primary Tumor		female	not reported	0	7.631	0	10.39	0	0	0	0	7.826	0	5.553	0	5.393	0	6.548	7.457	0	16.46	0	0	0	15.3	0	0	0	0	0
+TCGA-75-7031-01A	TCGA-75-7031-01A	Primary Tumor		female	not reported	0	0	0	14.5	0	6.434	0	8.779	0	0	0	0	0	0	0	8.855	0	16.65	0	0	0	16.69	0	0	0	0	0
+TCGA-75-6203-01A	TCGA-75-6203-01A	Primary Tumor		female	not reported	0	0	0	13.09	0	0	6.064	9.349	8.797	0	0	0	0	0	7.514	0	0	11.39	0	0	0	15.72	0	0	7.141	0	0
+TCGA-75-6205-01A	TCGA-75-6205-01A	Primary Tumor		female	not reported	0	0	0	12.63	0	0	0	11.27	0	0	0	0	0	0	0	0	0	11.72	0	0	0	16.58	0	0	0	0	0
+TCGA-80-5607-01A	TCGA-80-5607-01A	Primary Tumor		female	not reported	0	0	0	12.55	0	0	0	0	8.984	0	6.697	0	0	0	0	0	0	0	0	0	0	16.71	0	0	0	0	0
+TCGA-75-5126-01A	TCGA-75-5126-01A	Primary Tumor		female	not reported	0	0	0	11.72	0	0	0	0	0	0	0	0	0	0	0	0	0	11.48	0	0	0	12.94	0	0	0	0	0
+TCGA-75-5147-01A	TCGA-75-5147-01A	Primary Tumor		female	not reported	0	0	0	11.47	0	0	4.767	7.028	7.472	0	5.206	0	0	0	0	0	0	15.84	0	0	0	16.38	0	0	0	0	0
+TCGA-17-Z000-01A	TCGA-17-Z000-01A	Primary Tumor																														
+TCGA-17-Z001-01A	TCGA-17-Z001-01A	Primary Tumor																														
+TCGA-17-Z002-01A	TCGA-17-Z002-01A	Primary Tumor																														
+TCGA-17-Z003-01A	TCGA-17-Z003-01A	Primary Tumor																														
+TCGA-17-Z004-01A	TCGA-17-Z004-01A	Primary Tumor																														
+TCGA-17-Z005-01A	TCGA-17-Z005-01A	Primary Tumor																														
+TCGA-17-Z006-01A	TCGA-17-Z006-01A	Primary Tumor																														
+TCGA-17-Z007-01A	TCGA-17-Z007-01A	Primary Tumor																														
+TCGA-17-Z008-01A	TCGA-17-Z008-01A	Primary Tumor																														
+TCGA-17-Z009-01A	TCGA-17-Z009-01A	Primary Tumor																														
+TCGA-17-Z010-01A	TCGA-17-Z010-01A	Primary Tumor																														
+TCGA-17-Z011-01A	TCGA-17-Z011-01A	Primary Tumor																														
+TCGA-17-Z012-01A	TCGA-17-Z012-01A	Primary Tumor																														
+TCGA-17-Z013-01A	TCGA-17-Z013-01A	Primary Tumor																														
+TCGA-17-Z014-01A	TCGA-17-Z014-01A	Primary Tumor																														
+TCGA-17-Z015-01A	TCGA-17-Z015-01A	Primary Tumor																														
+TCGA-17-Z016-01A	TCGA-17-Z016-01A	Primary Tumor																														
+TCGA-17-Z017-01A	TCGA-17-Z017-01A	Primary Tumor																														
+TCGA-17-Z018-01A	TCGA-17-Z018-01A	Primary Tumor																														
+TCGA-17-Z019-01A	TCGA-17-Z019-01A	Primary Tumor																														
+TCGA-17-Z020-01A	TCGA-17-Z020-01A	Primary Tumor																														
+TCGA-17-Z021-01A	TCGA-17-Z021-01A	Primary Tumor																														
+TCGA-17-Z022-01A	TCGA-17-Z022-01A	Primary Tumor																														
+TCGA-17-Z023-01A	TCGA-17-Z023-01A	Primary Tumor																														
+TCGA-17-Z024-01A	TCGA-17-Z024-01A	Primary Tumor																														
+TCGA-17-Z025-01A	TCGA-17-Z025-01A	Primary Tumor																														
+TCGA-17-Z026-01A	TCGA-17-Z026-01A	Primary Tumor																														
+TCGA-17-Z027-01A	TCGA-17-Z027-01A	Primary Tumor																														
+TCGA-17-Z028-01A	TCGA-17-Z028-01A	Primary Tumor																														
+TCGA-17-Z029-01A	TCGA-17-Z029-01A	Primary Tumor																														
+TCGA-17-Z030-01A	TCGA-17-Z030-01A	Primary Tumor																														
+TCGA-17-Z031-01A	TCGA-17-Z031-01A	Primary Tumor																														
+TCGA-17-Z032-01A	TCGA-17-Z032-01A	Primary Tumor																														
+TCGA-17-Z033-01A	TCGA-17-Z033-01A	Primary Tumor																														
+TCGA-17-Z034-01A	TCGA-17-Z034-01A	Primary Tumor																														
+TCGA-17-Z035-01A	TCGA-17-Z035-01A	Primary Tumor																														
+TCGA-17-Z036-01A	TCGA-17-Z036-01A	Primary Tumor																														
+TCGA-17-Z037-01A	TCGA-17-Z037-01A	Primary Tumor																														
+TCGA-17-Z038-01A	TCGA-17-Z038-01A	Primary Tumor																														
+TCGA-17-Z039-01A	TCGA-17-Z039-01A	Primary Tumor																														
+TCGA-17-Z040-01A	TCGA-17-Z040-01A	Primary Tumor																														
+TCGA-17-Z041-01A	TCGA-17-Z041-01A	Primary Tumor																														
+TCGA-17-Z042-01A	TCGA-17-Z042-01A	Primary Tumor																														
+TCGA-17-Z043-01A	TCGA-17-Z043-01A	Primary Tumor																														
+TCGA-17-Z044-01A	TCGA-17-Z044-01A	Primary Tumor																														
+TCGA-17-Z045-01A	TCGA-17-Z045-01A	Primary Tumor																														
+TCGA-17-Z046-01A	TCGA-17-Z046-01A	Primary Tumor																														
+TCGA-17-Z047-01A	TCGA-17-Z047-01A	Primary Tumor																														
+TCGA-17-Z048-01A	TCGA-17-Z048-01A	Primary Tumor																														
+TCGA-17-Z049-01A	TCGA-17-Z049-01A	Primary Tumor																														
+TCGA-17-Z050-01A	TCGA-17-Z050-01A	Primary Tumor																														
+TCGA-17-Z051-01A	TCGA-17-Z051-01A	Primary Tumor																														
+TCGA-17-Z052-01A	TCGA-17-Z052-01A	Primary Tumor																														
+TCGA-17-Z053-01A	TCGA-17-Z053-01A	Primary Tumor																														
+TCGA-17-Z054-01A	TCGA-17-Z054-01A	Primary Tumor																														
+TCGA-17-Z055-01A	TCGA-17-Z055-01A	Primary Tumor																														
+TCGA-17-Z056-01A	TCGA-17-Z056-01A	Primary Tumor																														
+TCGA-17-Z057-01A	TCGA-17-Z057-01A	Primary Tumor																														
+TCGA-17-Z058-01A	TCGA-17-Z058-01A	Primary Tumor																														
+TCGA-17-Z059-01A	TCGA-17-Z059-01A	Primary Tumor																														
+TCGA-17-Z060-01A	TCGA-17-Z060-01A	Primary Tumor																														
+TCGA-17-Z061-01A	TCGA-17-Z061-01A	Primary Tumor																														
+TCGA-17-Z062-01A	TCGA-17-Z062-01A	Primary Tumor																														
